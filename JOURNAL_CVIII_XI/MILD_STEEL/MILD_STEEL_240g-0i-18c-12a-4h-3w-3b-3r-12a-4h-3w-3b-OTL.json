@@ -6,15 +6,15 @@
         "overlap": true,
         "trackless": true,
         "cycles": 18,
-        "area": 13,
+        "area": 12,
         "height": 4,
-        "width": 3.5,
+        "width": 3.0,
         "boundingHex": 3,
         "looping": true,
         "rate": 3.0,
         "areaINF": {
             "level": 0,
-            "value": 13.0
+            "value": 12.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 3.5
+            "value": 3.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/MILD_STEEL/240g-18c-13a-0i-OT-ccd33081.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/6e4d5a98/P308/240g-0i-18c-13a-4h-3.5w-3b-3r-13a-4h-3.5w-3b-OTL",
-    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_240g-0i-18c-13a-4h-3.5w-3b-3r-13a-4h-3.5w-3b-OTL.solution",
-    "lastModified": "2026-10-23T15:50:29.559992438Z"
+    "displayLink": "https://files.mors.technology/MILD_STEEL/240g-18c-12a-0i-OT-c78ae790.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0a9ab024/P308/240g-0i-18c-12a-4h-3w-3b-3r-12a-4h-3w-3b-OTL",
+    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_240g-0i-18c-12a-4h-3w-3b-3r-12a-4h-3w-3b-OTL.solution",
+    "lastModified": "2026-10-24T17:36:18.986013651Z"
 }
