@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIXED_USE_LUBRICANT",
+    "score": {
+        "cost": 170,
+        "instructions": 5,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 155,
+        "area": 45,
+        "height": 8,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 45.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MIXED_USE_LUBRICANT/170g-155c-45a-5i-OT-2ec4c539.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/067aa830/P205/170g-5i-155c-45a-8h-7w-5b-30r-45a-8h-7w-5b-OTL",
+    "dataPath": "DRM_CHAPTER_1/MIXED_USE_LUBRICANT/MIXED_USE_LUBRICANT_170g-5i-155c-45a-8h-7w-5b-30r-45a-8h-7w-5b-OTL.solution",
+    "lastModified": "2026-10-24T18:08:59.347173527Z"
+}
