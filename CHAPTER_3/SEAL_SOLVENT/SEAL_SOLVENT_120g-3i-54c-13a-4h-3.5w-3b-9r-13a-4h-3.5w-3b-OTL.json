@@ -2,16 +2,16 @@
     "puzzle": "SEAL_SOLVENT",
     "score": {
         "cost": 120,
-        "instructions": 4,
+        "instructions": 3,
         "overlap": true,
         "trackless": true,
-        "cycles": 71,
+        "cycles": 54,
         "area": 13,
         "height": 4,
         "width": 3.5,
         "boundingHex": 3,
         "looping": true,
-        "rate": 12.0,
+        "rate": 9.0,
         "areaINF": {
             "level": 0,
             "value": 13.0
@@ -29,8 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/SEAL_SOLVENT/120g-71c-13a-4i-OT-0d4d52f0.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/cd4e968f/P026/120g-4i-71c-13a-4h-3.5w-3b-12r-13a-4h-3.5w-3b-OTL",
-    "dataPath": "CHAPTER_3/SEAL_SOLVENT/SEAL_SOLVENT_120g-4i-71c-13a-4h-3.5w-3b-12r-13a-4h-3.5w-3b-OTL.solution",
-    "lastModified": "2026-10-24T17:05:49.013031152Z"
+    "displayLink": "https://files.mors.technology/SEAL_SOLVENT/120g-54c-13a-3i-OT-5da254e6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/97448079/P026/120g-3i-54c-13a-4h-3.5w-3b-9r-13a-4h-3.5w-3b-OTL",
+    "dataPath": "CHAPTER_3/SEAL_SOLVENT/SEAL_SOLVENT_120g-3i-54c-13a-4h-3.5w-3b-9r-13a-4h-3.5w-3b-OTL.solution",
+    "lastModified": "2026-10-24T17:09:50.254064879Z"
 }
