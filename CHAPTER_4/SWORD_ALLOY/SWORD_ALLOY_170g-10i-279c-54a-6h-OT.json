@@ -1,0 +1,24 @@
+{
+    "puzzle": "SWORD_ALLOY",
+    "score": {
+        "cost": 170,
+        "instructions": 10,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 279,
+        "area": 54,
+        "height": 6,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SWORD_ALLOY/170g-279c-54a-10i-OT-8f4fb090.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/19b70759/P033/170g-10i-279c-54a-6h-OT",
+    "dataPath": "CHAPTER_4/SWORD_ALLOY/SWORD_ALLOY_170g-10i-279c-54a-6h-OT.solution",
+    "lastModified": "2026-10-24T20:24:46.652642191Z"
+}
