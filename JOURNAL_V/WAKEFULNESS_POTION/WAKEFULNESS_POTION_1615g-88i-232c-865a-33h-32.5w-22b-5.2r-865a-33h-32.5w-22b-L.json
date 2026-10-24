@@ -1,7 +1,7 @@
 {
     "puzzle": "WAKEFULNESS_POTION",
     "score": {
-        "cost": 1625,
+        "cost": 1615,
         "instructions": 88,
         "overlap": false,
         "trackless": false,
@@ -29,8 +29,8 @@
             "value": 22.0
         }
     },
-    "displayLink": "https://files.mors.technology/WAKEFULNESS_POTION/1625g-232c-865a-88i-a752fd3f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/3ba0e172/P088/1625g-88i-232c-865a-33h-32.5w-22b-5.2r-865a-33h-32.5w-22b-L",
-    "dataPath": "JOURNAL_V/WAKEFULNESS_POTION/WAKEFULNESS_POTION_1625g-88i-232c-865a-33h-32.5w-22b-5.2r-865a-33h-32.5w-22b-L.solution",
-    "lastModified": "2026-10-24T20:13:25.234099038Z"
+    "displayLink": "https://files.mors.technology/WAKEFULNESS_POTION/1615g-232c-865a-88i-c0d9f054.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fc574d9b/P088/1615g-88i-232c-865a-33h-32.5w-22b-5.2r-865a-33h-32.5w-22b-L",
+    "dataPath": "JOURNAL_V/WAKEFULNESS_POTION/WAKEFULNESS_POTION_1615g-88i-232c-865a-33h-32.5w-22b-5.2r-865a-33h-32.5w-22b-L.solution",
+    "lastModified": "2026-10-24T20:16:52.252680279Z"
 }
