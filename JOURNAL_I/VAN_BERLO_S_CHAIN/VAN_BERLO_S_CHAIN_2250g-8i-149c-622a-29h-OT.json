@@ -1,7 +1,7 @@
 {
     "puzzle": "VAN_BERLO_S_CHAIN",
     "score": {
-        "cost": 2260,
+        "cost": 2250,
         "instructions": 8,
         "overlap": true,
         "trackless": true,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/VAN_BERLO_S_CHAIN/2260g-149c-622a-8i-OT-8ec154bb.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/2baa797b/P055/2260g-8i-149c-622a-29h-OT",
-    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/VAN_BERLO_S_CHAIN_2260g-8i-149c-622a-29h-OT.solution",
-    "lastModified": "2026-10-24T23:22:34.694103787Z"
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_CHAIN/2250g-149c-622a-8i-OT-62e12c18.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/55067a18/P055/2250g-8i-149c-622a-29h-OT",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/VAN_BERLO_S_CHAIN_2250g-8i-149c-622a-29h-OT.solution",
+    "lastModified": "2026-10-24T23:46:45.962012756Z"
 }
