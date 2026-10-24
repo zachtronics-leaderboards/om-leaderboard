@@ -5,13 +5,13 @@
         "instructions": 15,
         "overlap": true,
         "trackless": true,
-        "cycles": 131,
+        "cycles": 103,
         "area": 89,
         "height": 11,
         "width": 10.0,
         "boundingHex": 7,
         "looping": true,
-        "rate": 18.0,
+        "rate": 14.0,
         "areaINF": {
             "level": 0,
             "value": 89.0
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/SOOTHING_SALVE/360g-131c-89a-15i-OT-f7fe5a09.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/4789c888/w2788066865/360g-15i-131c-89a-11h-10w-7b-18r-89a-11h-10w-7b-OTL",
-    "dataPath": "TOURNAMENT_2022/SOOTHING_SALVE/SOOTHING_SALVE_360g-15i-131c-89a-11h-10w-7b-18r-89a-11h-10w-7b-OTL.solution",
-    "lastModified": "2026-10-24T04:58:57.230905524Z"
+    "displayLink": "https://files.mors.technology/SOOTHING_SALVE/360g-103c-89a-15i-OT-7b1c2057.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4976d766/w2788066865/360g-15i-103c-89a-11h-10w-7b-14r-89a-11h-10w-7b-OTL",
+    "dataPath": "TOURNAMENT_2022/SOOTHING_SALVE/SOOTHING_SALVE_360g-15i-103c-89a-11h-10w-7b-14r-89a-11h-10w-7b-OTL.solution",
+    "lastModified": "2026-10-24T17:27:43.414029113Z"
 }
