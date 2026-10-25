@@ -1,7 +1,7 @@
 {
     "puzzle": "RESIN_GLUE",
     "score": {
-        "cost": 190,
+        "cost": 180,
         "instructions": 9,
         "overlap": false,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 10.0
         }
     },
-    "displayLink": "https://files.mors.technology/RESIN_GLUE/190g-97c-134a-9i-T-16c1ff07.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/ace8beef/P309/190g-9i-97c-134a-13h-9.5w-10b-12r-134a-13h-9.5w-10b-TL",
-    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_190g-9i-97c-134a-13h-9.5w-10b-12r-134a-13h-9.5w-10b-TL.solution",
-    "lastModified": "2026-10-23T12:03:05.752783837Z"
+    "displayLink": "https://files.mors.technology/RESIN_GLUE/180g-97c-134a-9i-T-c99ea71f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/69631a06/P309/180g-9i-97c-134a-13h-9.5w-10b-12r-134a-13h-9.5w-10b-TL",
+    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_180g-9i-97c-134a-13h-9.5w-10b-12r-134a-13h-9.5w-10b-TL.solution",
+    "lastModified": "2026-10-25T05:23:44.237109843Z"
 }
