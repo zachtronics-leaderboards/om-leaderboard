@@ -1,0 +1,36 @@
+{
+    "puzzle": "EXPLOSIVE_VICTRITE",
+    "score": {
+        "cost": 130,
+        "instructions": 5,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 150,
+        "area": 11,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 25.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/EXPLOSIVE_VICTRITE/130g-150c-11a-5i-OT-1de839c2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/cf67ec90/P100/130g-5i-150c-11a-3h-3.5w-3b-25r-11a-3h-3.5w-3b-OTL",
+    "dataPath": "JOURNAL_VIII/EXPLOSIVE_VICTRITE/EXPLOSIVE_VICTRITE_130g-5i-150c-11a-3h-3.5w-3b-25r-11a-3h-3.5w-3b-OTL.solution",
+    "lastModified": "2026-10-25T02:36:45.404330358Z"
+}
