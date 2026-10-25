@@ -1,0 +1,36 @@
+{
+    "puzzle": "SALT_OF_HARTSHORN",
+    "score": {
+        "cost": 110,
+        "instructions": 107,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 640,
+        "area": 57,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 107.0,
+        "areaINF": {
+            "level": 0,
+            "value": 57.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SALT_OF_HARTSHORN/110g-640c-57a-107i-efa9dffb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2199169/P281/110g-107i-640c-57a-8h-7.5w-6b-107r-57a-8h-7.5w-6b-L",
+    "dataPath": "JOURNAL_CVIII_VI/SALT_OF_HARTSHORN/SALT_OF_HARTSHORN_110g-107i-640c-57a-8h-7.5w-6b-107r-57a-8h-7.5w-6b-L.solution",
+    "lastModified": "2026-10-25T19:53:45.500522330Z"
+}
