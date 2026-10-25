@@ -1,0 +1,24 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 260,
+        "instructions": 7,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 64,
+        "area": 168,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/260g-64c-168a-7i-OT-59e2bdf9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c04a5393/P039/260g-7i-64c-168a-15h-OT",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_260g-7i-64c-168a-15h-OT.solution",
+    "lastModified": "2026-10-25T04:03:29.160412273Z"
+}
