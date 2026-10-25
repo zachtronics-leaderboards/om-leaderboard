@@ -1,17 +1,17 @@
 {
     "puzzle": "METALLIC_TINCTURE",
     "score": {
-        "cost": 170,
+        "cost": 130,
         "instructions": 7,
         "overlap": true,
         "trackless": true,
-        "cycles": 51,
+        "cycles": 26,
         "area": 11,
         "height": 3,
         "width": 3.5,
         "boundingHex": 3,
         "looping": true,
-        "rate": 8.0,
+        "rate": 4.0,
         "areaINF": {
             "level": 0,
             "value": 11.0
@@ -29,8 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/METALLIC_TINCTURE/170g-51c-11a-7i-OT-25ebe835.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/ee948ac9/P206/170g-7i-51c-11a-3h-3.5w-3b-8r-11a-3h-3.5w-3b-OTL",
-    "dataPath": "DRM_CHAPTER_1/METALLIC_TINCTURE/METALLIC_TINCTURE_170g-7i-51c-11a-3h-3.5w-3b-8r-11a-3h-3.5w-3b-OTL.solution",
-    "lastModified": "2026-10-25T12:16:59.507436109Z"
+    "displayLink": "https://files.mors.technology/METALLIC_TINCTURE/130g-26c-11a-7i-OT-1a741582.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5f8b3d03/P206/130g-7i-26c-11a-3h-3.5w-3b-4r-11a-3h-3.5w-3b-OTL",
+    "dataPath": "DRM_CHAPTER_1/METALLIC_TINCTURE/METALLIC_TINCTURE_130g-7i-26c-11a-3h-3.5w-3b-4r-11a-3h-3.5w-3b-OTL.solution",
+    "lastModified": "2026-10-25T18:20:02.667627616Z"
 }
