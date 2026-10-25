@@ -1,0 +1,24 @@
+{
+    "puzzle": "LEAVENING_AGENT",
+    "score": {
+        "cost": 190,
+        "instructions": 8,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 75,
+        "area": 76,
+        "height": 9,
+        "width": 9.5,
+        "boundingHex": 7,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/LEAVENING_AGENT/190g-75c-76a-8i-OT-dc017972.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f7ba51a3/P287/190g-8i-75c-76a-9h-9.5w-7b-OT",
+    "dataPath": "JOURNAL_CVIII_VII/LEAVENING_AGENT/LEAVENING_AGENT_190g-8i-75c-76a-9h-9.5w-7b-OT.solution",
+    "lastModified": "2026-10-25T19:59:19.959418484Z"
+}
