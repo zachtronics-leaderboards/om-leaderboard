@@ -5,7 +5,7 @@
         "instructions": 8,
         "overlap": true,
         "trackless": true,
-        "cycles": 100,
+        "cycles": 76,
         "area": 143,
         "height": 15,
         "width": 14.5,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/LEAVENING_AGENT/190g-100c-143a-8i-OT-01fc3a16.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/4127c07e/P287/190g-8i-100c-143a-15h-14.5w-10b-OT",
-    "dataPath": "JOURNAL_CVIII_VII/LEAVENING_AGENT/LEAVENING_AGENT_190g-8i-100c-143a-15h-14.5w-10b-OT.solution",
-    "lastModified": "2026-10-25T19:50:38.783006053Z"
+    "displayLink": "https://files.mors.technology/LEAVENING_AGENT/190g-76c-143a-8i-OT-40f2d21a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/58cb021c/P287/190g-8i-76c-143a-15h-14.5w-10b-OT",
+    "dataPath": "JOURNAL_CVIII_VII/LEAVENING_AGENT/LEAVENING_AGENT_190g-8i-76c-143a-15h-14.5w-10b-OT.solution",
+    "lastModified": "2026-10-25T19:53:49.288993575Z"
 }
