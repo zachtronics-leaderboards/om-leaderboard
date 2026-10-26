@@ -2,7 +2,7 @@
     "puzzle": "SAILCLOTH_THREAD",
     "score": {
         "cost": 470,
-        "instructions": 243,
+        "instructions": 87,
         "overlap": false,
         "trackless": true,
         "cycles": 29,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/SAILCLOTH_THREAD/470g-29c-430a-243i-T-fb9510f9.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/a3e4c0ed/P061/470g-243i-29c-430a-29h-T",
-    "dataPath": "JOURNAL_II/SAILCLOTH_THREAD/SAILCLOTH_THREAD_470g-243i-29c-430a-29h-T.solution",
-    "lastModified": "2026-10-24T05:36:24.793709166Z"
+    "displayLink": "https://files.mors.technology/SAILCLOTH_THREAD/470g-29c-430a-87i-T-6b7e6916.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fc122d56/P061/470g-87i-29c-430a-29h-T",
+    "dataPath": "JOURNAL_II/SAILCLOTH_THREAD/SAILCLOTH_THREAD_470g-87i-29c-430a-29h-T.solution",
+    "lastModified": "2026-10-26T02:23:58.082330357Z"
 }
