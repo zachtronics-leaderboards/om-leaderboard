@@ -6,15 +6,15 @@
         "overlap": true,
         "trackless": true,
         "cycles": 117,
-        "area": 96,
+        "area": 90,
         "height": 11,
-        "width": 10.0,
+        "width": 8.0,
         "boundingHex": 8,
         "looping": true,
         "rate": 18.0,
         "areaINF": {
             "level": 0,
-            "value": 96.0
+            "value": 90.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 10.0
+            "value": 8.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 8.0
         }
     },
-    "displayLink": "https://files.mors.technology/STAIN_REMOVER/180g-117c-96a-14i-OT-e3ec6f4a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/13da1154/P034/180g-14i-117c-96a-11h-10w-8b-18r-96a-11h-10w-8b-OTL",
-    "dataPath": "CHAPTER_4/STAIN_REMOVER/STAIN_REMOVER_180g-14i-117c-96a-11h-10w-8b-18r-96a-11h-10w-8b-OTL.solution",
-    "lastModified": "2026-10-26T07:56:56.934862048Z"
+    "displayLink": "https://files.mors.technology/STAIN_REMOVER/180g-117c-90a-14i-OT-66e3e011.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/607fc098/P034/180g-14i-117c-90a-11h-8w-8b-18r-90a-11h-8w-8b-OTL",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/STAIN_REMOVER_180g-14i-117c-90a-11h-8w-8b-18r-90a-11h-8w-8b-OTL.solution",
+    "lastModified": "2026-10-26T08:09:04.318311252Z"
 }
