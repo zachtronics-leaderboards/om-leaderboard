@@ -1,7 +1,7 @@
 {
     "puzzle": "STAIN_REMOVER",
     "score": {
-        "cost": 200,
+        "cost": 190,
         "instructions": 15,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 8.0
         }
     },
-    "displayLink": "https://files.mors.technology/STAIN_REMOVER/200g-79c-114a-15i-OT-0a95219f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/fb4a45c6/P034/200g-15i-79c-114a-13h-11w-8b-12r-114a-13h-11w-8b-OTL",
-    "dataPath": "CHAPTER_4/STAIN_REMOVER/STAIN_REMOVER_200g-15i-79c-114a-13h-11w-8b-12r-114a-13h-11w-8b-OTL.solution",
-    "lastModified": "2026-10-24T05:48:22.469799288Z"
+    "displayLink": "https://files.mors.technology/STAIN_REMOVER/190g-79c-114a-15i-OT-d07320d4.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4934eeeb/P034/190g-15i-79c-114a-13h-11w-8b-12r-114a-13h-11w-8b-OTL",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/STAIN_REMOVER_190g-15i-79c-114a-13h-11w-8b-12r-114a-13h-11w-8b-OTL.solution",
+    "lastModified": "2026-10-26T07:50:21.190897433Z"
 }
