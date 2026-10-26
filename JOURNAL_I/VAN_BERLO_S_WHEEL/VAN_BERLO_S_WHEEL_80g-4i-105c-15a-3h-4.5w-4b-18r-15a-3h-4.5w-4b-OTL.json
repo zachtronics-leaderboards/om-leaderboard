@@ -5,7 +5,7 @@
         "instructions": 4,
         "overlap": true,
         "trackless": true,
-        "cycles": 120,
+        "cycles": 105,
         "area": 15,
         "height": 3,
         "width": 4.5,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/VAN_BERLO_S_WHEEL/80g-120c-15a-4i-O-T-924be5b8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P054/80g-4i-120c-15a-3h-4.5w-4b-18r-15a-3h-4.5w-4b-OTL",
-    "dataPath": "JOURNAL_I/VAN_BERLO_S_WHEEL/VAN_BERLO_S_WHEEL_80g-4i-120c-15a-3h-4.5w-4b-18r-15a-3h-4.5w-4b-OTL.solution"
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_WHEEL/80g-105c-15a-4i-OT-647df213.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8305ff34/P054/80g-4i-105c-15a-3h-4.5w-4b-18r-15a-3h-4.5w-4b-OTL",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_WHEEL/VAN_BERLO_S_WHEEL_80g-4i-105c-15a-3h-4.5w-4b-18r-15a-3h-4.5w-4b-OTL.solution",
+    "lastModified": "2026-10-26T23:47:24.143466872Z"
 }
