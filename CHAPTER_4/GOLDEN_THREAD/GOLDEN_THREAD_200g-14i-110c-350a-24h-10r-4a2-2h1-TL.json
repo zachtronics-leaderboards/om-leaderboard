@@ -5,8 +5,8 @@
         "instructions": 14,
         "overlap": false,
         "trackless": true,
-        "cycles": 112,
-        "area": 378,
+        "cycles": 110,
+        "area": 350,
         "height": 24,
         "width": null,
         "boundingHex": null,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/GOLDEN_THREAD/200g-112c-378a-14i-T-730328ef.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P037/200g-14i-112c-378a-24h-10r-4a2-2h1-TL",
-    "dataPath": "CHAPTER_4/GOLDEN_THREAD/GOLDEN_THREAD_200g-14i-112c-378a-24h-10r-4a2-2h1-TL.solution"
+    "displayLink": "https://files.mors.technology/GOLDEN_THREAD/200g-110c-350a-14i-T-5c84c422.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2c672637/P037/200g-14i-110c-350a-24h-10r-4a2-2h1-TL",
+    "dataPath": "CHAPTER_4/GOLDEN_THREAD/GOLDEN_THREAD_200g-14i-110c-350a-24h-10r-4a2-2h1-TL.solution",
+    "lastModified": "2026-10-26T07:49:51.233681222Z"
 }
