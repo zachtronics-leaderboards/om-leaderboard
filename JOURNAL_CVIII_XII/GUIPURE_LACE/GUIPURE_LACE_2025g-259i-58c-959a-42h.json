@@ -1,0 +1,24 @@
+{
+    "puzzle": "GUIPURE_LACE",
+    "score": {
+        "cost": 2025,
+        "instructions": 259,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 58,
+        "area": 959,
+        "height": 42,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/GUIPURE_LACE/2025g-58c-959a-259i-b56c3e4f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9a1464d0/P312/2025g-259i-58c-959a-42h",
+    "dataPath": "JOURNAL_CVIII_XII/GUIPURE_LACE/GUIPURE_LACE_2025g-259i-58c-959a-42h.solution",
+    "lastModified": "2026-10-26T07:43:42.101589880Z"
+}
