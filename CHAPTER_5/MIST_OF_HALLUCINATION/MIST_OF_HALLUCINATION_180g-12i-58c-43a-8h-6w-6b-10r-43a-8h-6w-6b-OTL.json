@@ -5,13 +5,13 @@
         "instructions": 12,
         "overlap": true,
         "trackless": true,
-        "cycles": 69,
+        "cycles": 58,
         "area": 43,
         "height": 8,
         "width": 6.0,
         "boundingHex": 6,
         "looping": true,
-        "rate": 12.0,
+        "rate": 10.0,
         "areaINF": {
             "level": 0,
             "value": 43.0
@@ -29,8 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/MIST_OF_HALLUCINATION/180g-69c-43a-12i-OT-b1fb51a0.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/91b5a388/P038/180g-12i-69c-43a-8h-6w-6b-12r-43a-8h-6w-6b-OTL",
-    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/MIST_OF_HALLUCINATION_180g-12i-69c-43a-8h-6w-6b-12r-43a-8h-6w-6b-OTL.solution",
-    "lastModified": "2026-10-24T04:35:25.598228907Z"
+    "displayLink": "https://files.mors.technology/MIST_OF_HALLUCINATION/180g-58c-43a-12i-OT-35ee87c2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/54dd3ca8/P038/180g-12i-58c-43a-8h-6w-6b-10r-43a-8h-6w-6b-OTL",
+    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/MIST_OF_HALLUCINATION_180g-12i-58c-43a-8h-6w-6b-10r-43a-8h-6w-6b-OTL.solution",
+    "lastModified": "2026-10-26T07:50:44.330811229Z"
 }
