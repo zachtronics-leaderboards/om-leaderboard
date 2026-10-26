@@ -6,15 +6,15 @@
         "overlap": false,
         "trackless": false,
         "cycles": 72,
-        "area": 52,
+        "area": 48,
         "height": 8,
-        "width": 8.0,
+        "width": 7.5,
         "boundingHex": 6,
         "looping": true,
         "rate": 10.0,
         "areaINF": {
             "level": 0,
-            "value": 52.0
+            "value": 48.0
         },
         "heightINF": {
             "level": 0,
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.5
         },
         "boundingHexINF": {
             "level": 0,
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/MIST_OF_CLARIFICATION/510g-72c-52a-102i-35a7a8b7.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P300/510g-102i-72c-52a-8h-8w-6b-10r-52a-8h-8w-6b-L",
-    "dataPath": "JOURNAL_CVIII_X/MIST_OF_CLARIFICATION/MIST_OF_CLARIFICATION_510g-102i-72c-52a-8h-8w-6b-10r-52a-8h-8w-6b-L.solution"
+    "displayLink": "https://files.mors.technology/MIST_OF_CLARIFICATION/510g-72c-48a-102i-0714d21a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/baab1f8d/P300/510g-102i-72c-48a-8h-7.5w-6b-10r-48a-8h-7.5w-6b-L",
+    "dataPath": "JOURNAL_CVIII_X/MIST_OF_CLARIFICATION/MIST_OF_CLARIFICATION_510g-102i-72c-48a-8h-7.5w-6b-10r-48a-8h-7.5w-6b-L.solution",
+    "lastModified": "2026-10-26T01:27:52.364666828Z"
 }
