@@ -5,7 +5,7 @@
         "instructions": 6,
         "overlap": true,
         "trackless": true,
-        "cycles": 32,
+        "cycles": 31,
         "area": 39,
         "height": 7,
         "width": 6.5,
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/BLUE_VITRIOL/140g-32c-39a-6i-O-T-088d9f1d.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P241/140g-6i-32c-39a-7h-6.5w-5b-5r-39a-7h-6.5w-5b-OTL",
-    "dataPath": "JOURNAL_XI/BLUE_VITRIOL/BLUE_VITRIOL_140g-6i-32c-39a-7h-6.5w-5b-5r-39a-7h-6.5w-5b-OTL.solution"
+    "displayLink": "https://files.mors.technology/BLUE_VITRIOL/140g-31c-39a-6i-OT-8d766711.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/6a6859aa/P241/140g-6i-31c-39a-7h-6.5w-5b-5r-39a-7h-6.5w-5b-OTL",
+    "dataPath": "JOURNAL_XI/BLUE_VITRIOL/BLUE_VITRIOL_140g-6i-31c-39a-7h-6.5w-5b-5r-39a-7h-6.5w-5b-OTL.solution",
+    "lastModified": "2026-10-27T08:15:19.563588399Z"
 }
