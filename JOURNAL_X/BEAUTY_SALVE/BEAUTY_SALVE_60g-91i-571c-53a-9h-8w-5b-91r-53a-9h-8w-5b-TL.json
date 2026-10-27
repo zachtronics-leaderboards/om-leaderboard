@@ -2,16 +2,16 @@
     "puzzle": "BEAUTY_SALVE",
     "score": {
         "cost": 60,
-        "instructions": 599,
+        "instructions": 91,
         "overlap": false,
         "trackless": true,
-        "cycles": 594,
+        "cycles": 571,
         "area": 53,
         "height": 9,
         "width": 8.0,
         "boundingHex": 5,
         "looping": true,
-        "rate": 99.84,
+        "rate": 91.0,
         "areaINF": {
             "level": 0,
             "value": 53.0
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/Mist-of-Dousing-60g-594c-53a-599i-9h-8w-99.84r-T-184ef3.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P246/60g-599i-594c-53a-9h-8w-5b-99.84r-53a-9h-8w-5b-TL",
-    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_60g-599i-594c-53a-9h-8w-5b-99.84r-53a-9h-8w-5b-TL.solution"
+    "displayLink": "https://files.mors.technology/BEAUTY_SALVE/60g-571c-53a-91i-T-5178373e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/519903d7/P246/60g-91i-571c-53a-9h-8w-5b-91r-53a-9h-8w-5b-TL",
+    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_60g-91i-571c-53a-9h-8w-5b-91r-53a-9h-8w-5b-TL.solution",
+    "lastModified": "2026-10-27T04:33:45.008373948Z"
 }
