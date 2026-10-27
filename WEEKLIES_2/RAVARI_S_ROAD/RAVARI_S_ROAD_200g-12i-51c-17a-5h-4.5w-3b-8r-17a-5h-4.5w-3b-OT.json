@@ -5,7 +5,7 @@
         "instructions": 12,
         "overlap": true,
         "trackless": true,
-        "cycles": 55,
+        "cycles": 51,
         "area": 17,
         "height": 5,
         "width": 4.5,
@@ -29,8 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/200g-55c-17a-12i-OT-988647d9.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/40a2c139/w3584639567/200g-12i-55c-17a-5h-4.5w-3b-8r-17a-5h-4.5w-3b-OT",
-    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_200g-12i-55c-17a-5h-4.5w-3b-8r-17a-5h-4.5w-3b-OT.solution",
-    "lastModified": "2026-10-27T10:01:08.166177309Z"
+    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/200g-51c-17a-12i-OT-ab79ba94.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/edd805f4/w3584639567/200g-12i-51c-17a-5h-4.5w-3b-8r-17a-5h-4.5w-3b-OT",
+    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_200g-12i-51c-17a-5h-4.5w-3b-8r-17a-5h-4.5w-3b-OT.solution",
+    "lastModified": "2026-10-27T23:47:08.001366804Z"
 }
