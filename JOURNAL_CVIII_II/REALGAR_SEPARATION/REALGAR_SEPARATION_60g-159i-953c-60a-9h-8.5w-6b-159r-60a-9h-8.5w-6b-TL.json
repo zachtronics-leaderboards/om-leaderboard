@@ -2,19 +2,19 @@
     "puzzle": "REALGAR_SEPARATION",
     "score": {
         "cost": 60,
-        "instructions": 192,
+        "instructions": 159,
         "overlap": false,
         "trackless": true,
-        "cycles": 1150,
-        "area": 62,
+        "cycles": 953,
+        "area": 60,
         "height": 9,
         "width": 8.5,
         "boundingHex": 6,
         "looping": true,
-        "rate": 192.0,
+        "rate": 159.0,
         "areaINF": {
             "level": 0,
-            "value": 62.0
+            "value": 60.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/REALGAR_SEPARATION/60g-1150c-62a-192i-T-a3bcb1cc.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P264/60g-192i-1150c-62a-9h-8.5w-6b-192r-62a-9h-8.5w-6b-TL",
-    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_60g-192i-1150c-62a-9h-8.5w-6b-192r-62a-9h-8.5w-6b-TL.solution"
+    "displayLink": "https://files.mors.technology/REALGAR_SEPARATION/60g-953c-60a-159i-T-cb36785a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9dc794c7/P264/60g-159i-953c-60a-9h-8.5w-6b-159r-60a-9h-8.5w-6b-TL",
+    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_60g-159i-953c-60a-9h-8.5w-6b-159r-60a-9h-8.5w-6b-TL.solution",
+    "lastModified": "2026-10-27T05:32:32.677159736Z"
 }
