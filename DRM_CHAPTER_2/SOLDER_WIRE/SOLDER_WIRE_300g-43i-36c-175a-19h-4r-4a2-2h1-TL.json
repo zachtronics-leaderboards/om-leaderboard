@@ -1,0 +1,30 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 300,
+        "instructions": 43,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 36,
+        "area": 175,
+        "height": 19,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/300g-36c-175a-43i-T-b0cbc718.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/01963813/P209/300g-43i-36c-175a-19h-4r-4a2-2h1-TL",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_300g-43i-36c-175a-19h-4r-4a2-2h1-TL.solution",
+    "lastModified": "2026-10-27T04:14:56.646351349Z"
+}
