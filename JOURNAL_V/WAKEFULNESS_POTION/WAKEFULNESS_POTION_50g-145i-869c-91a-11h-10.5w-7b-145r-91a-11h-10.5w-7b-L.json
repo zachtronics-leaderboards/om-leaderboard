@@ -2,16 +2,16 @@
     "puzzle": "WAKEFULNESS_POTION",
     "score": {
         "cost": 50,
-        "instructions": 146,
+        "instructions": 145,
         "overlap": false,
         "trackless": false,
-        "cycles": 875,
+        "cycles": 869,
         "area": 91,
         "height": 11,
         "width": 10.5,
         "boundingHex": 7,
         "looping": true,
-        "rate": 146.0,
+        "rate": 145.0,
         "areaINF": {
             "level": 0,
             "value": 91.0
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/Wakefulness-Potion-50g-875c-91a-146i-11h-10.5w-146r-3cf266.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P088/50g-146i-875c-91a-11h-10.5w-7b-146r-91a-11h-10.5w-7b-L",
-    "dataPath": "JOURNAL_V/WAKEFULNESS_POTION/WAKEFULNESS_POTION_50g-146i-875c-91a-11h-10.5w-7b-146r-91a-11h-10.5w-7b-L.solution"
+    "displayLink": "https://files.mors.technology/WAKEFULNESS_POTION/50g-869c-91a-145i-7eed287f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f03cfe70/P088/50g-145i-869c-91a-11h-10.5w-7b-145r-91a-11h-10.5w-7b-L",
+    "dataPath": "JOURNAL_V/WAKEFULNESS_POTION/WAKEFULNESS_POTION_50g-145i-869c-91a-11h-10.5w-7b-145r-91a-11h-10.5w-7b-L.solution",
+    "lastModified": "2026-10-28T07:21:21.509004597Z"
 }
