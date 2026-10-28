@@ -6,8 +6,8 @@
         "overlap": false,
         "trackless": false,
         "cycles": 49,
-        "area": 206,
-        "height": 21,
+        "area": 191,
+        "height": 20,
         "width": 14.0,
         "boundingHex": 16,
         "looping": true,
@@ -29,8 +29,8 @@
             "value": 1.0
         }
     },
-    "displayLink": "https://files.mors.technology/SMOG_NEUTRALIZATION/445g-49c-206a-64i-64e38731.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/77cfda61/w3584644954/445g-64i-49c-206a-21h-14w-16b-6r-6a1-1h1-0.5w1-1b1-L",
-    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_445g-64i-49c-206a-21h-14w-16b-6r-6a1-1h1-0.5w1-1b1-L.solution",
-    "lastModified": "2026-10-28T20:36:30.149383874Z"
+    "displayLink": "https://files.mors.technology/SMOG_NEUTRALIZATION/445g-49c-191a-64i-bb0f03b8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0e0f3154/w3584644954/445g-64i-49c-191a-20h-14w-16b-6r-6a1-1h1-0.5w1-1b1-L",
+    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_445g-64i-49c-191a-20h-14w-16b-6r-6a1-1h1-0.5w1-1b1-L.solution",
+    "lastModified": "2026-10-28T20:43:42.193954297Z"
 }
