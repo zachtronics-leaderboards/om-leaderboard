@@ -5,7 +5,7 @@
         "instructions": 12,
         "overlap": false,
         "trackless": true,
-        "cycles": 491,
+        "cycles": 483,
         "area": 26,
         "height": 6,
         "width": 6.0,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/140g-491c-26a-12i-T-1ef48331.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/34233255/w3584639567/140g-12i-491c-26a-6h-6w-4b-T",
-    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_140g-12i-491c-26a-6h-6w-4b-T.solution",
-    "lastModified": "2026-10-28T11:47:43.394384222Z"
+    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/140g-483c-26a-12i-T-2f478b0d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a7e084f3/w3584639567/140g-12i-483c-26a-6h-6w-4b-T",
+    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_140g-12i-483c-26a-6h-6w-4b-T.solution",
+    "lastModified": "2026-10-28T12:05:48.198074110Z"
 }
