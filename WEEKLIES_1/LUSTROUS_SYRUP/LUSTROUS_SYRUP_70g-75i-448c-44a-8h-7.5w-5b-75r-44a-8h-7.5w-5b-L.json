@@ -2,16 +2,16 @@
     "puzzle": "LUSTROUS_SYRUP",
     "score": {
         "cost": 70,
-        "instructions": 78,
+        "instructions": 75,
         "overlap": false,
         "trackless": false,
-        "cycles": 466,
+        "cycles": 448,
         "area": 44,
         "height": 8,
         "width": 7.5,
         "boundingHex": 5,
         "looping": true,
-        "rate": 78.0,
+        "rate": 75.0,
         "areaINF": {
             "level": 0,
             "value": 44.0
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/LUSTROUS_SYRUP/70g-466c-44a-78i-9a252770.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2868331650/70g-78i-466c-44a-8h-7.5w-5b-78r-44a-8h-7.5w-5b-L",
-    "dataPath": "WEEKLIES_1/LUSTROUS_SYRUP/LUSTROUS_SYRUP_70g-78i-466c-44a-8h-7.5w-5b-78r-44a-8h-7.5w-5b-L.solution"
+    "displayLink": "https://files.mors.technology/LUSTROUS_SYRUP/70g-448c-44a-75i-cb112f13.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a8f195b3/w2868331650/70g-75i-448c-44a-8h-7.5w-5b-75r-44a-8h-7.5w-5b-L",
+    "dataPath": "WEEKLIES_1/LUSTROUS_SYRUP/LUSTROUS_SYRUP_70g-75i-448c-44a-8h-7.5w-5b-75r-44a-8h-7.5w-5b-L.solution",
+    "lastModified": "2026-10-28T04:52:03.366782422Z"
 }
