@@ -1,17 +1,17 @@
 {
     "puzzle": "REALGAR_SEPARATION",
     "score": {
-        "cost": 200,
-        "instructions": 49,
+        "cost": 190,
+        "instructions": 41,
         "overlap": true,
         "trackless": false,
-        "cycles": 299,
+        "cycles": 246,
         "area": 9,
         "height": 4,
         "width": 2.5,
         "boundingHex": 3,
-        "looping": false,
-        "rate": 50.0,
+        "looping": true,
+        "rate": 41.0,
         "areaINF": {
             "level": 0,
             "value": 9.0
@@ -29,7 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/REALGAR_SEPARATION/200g-299c-9a-49i-O-b17d89b5.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P264/200g-49i-299c-9a-4h-2.5w-3b-50r-9a-4h-2.5w-3b-O",
-    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_200g-49i-299c-9a-4h-2.5w-3b-50r-9a-4h-2.5w-3b-O.solution"
+    "displayLink": "https://files.mors.technology/REALGAR_SEPARATION/190g-246c-9a-41i-O-31777b3e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e3cc6266/P264/190g-41i-246c-9a-4h-2.5w-3b-41r-9a-4h-2.5w-3b-OL",
+    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_190g-41i-246c-9a-4h-2.5w-3b-41r-9a-4h-2.5w-3b-OL.solution",
+    "lastModified": "2026-10-28T03:46:06.618628Z"
 }
