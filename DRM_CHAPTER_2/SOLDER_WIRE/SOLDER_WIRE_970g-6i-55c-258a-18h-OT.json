@@ -1,0 +1,24 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 970,
+        "instructions": 6,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 55,
+        "area": 258,
+        "height": 18,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/970g-55c-258a-6i-OT-c9063865.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8a4f8672/P209/970g-6i-55c-258a-18h-OT",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_970g-6i-55c-258a-18h-OT.solution",
+    "lastModified": "2026-10-28T02:08:42.857208812Z"
+}
