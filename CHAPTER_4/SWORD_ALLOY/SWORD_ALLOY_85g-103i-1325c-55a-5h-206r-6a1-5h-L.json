@@ -2,16 +2,16 @@
     "puzzle": "SWORD_ALLOY",
     "score": {
         "cost": 85,
-        "instructions": 104,
+        "instructions": 103,
         "overlap": false,
         "trackless": false,
-        "cycles": 1338,
+        "cycles": 1325,
         "area": 55,
         "height": 5,
         "width": null,
         "boundingHex": null,
         "looping": true,
-        "rate": 208.0,
+        "rate": 206.0,
         "areaINF": {
             "level": 1,
             "value": 6.0
@@ -23,8 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/SWORD_ALLOY/85g-1338c-55a-104i-0de0a6fd.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/a75b9675/P033/85g-104i-1338c-55a-5h-208r-6a1-5h-L",
-    "dataPath": "CHAPTER_4/SWORD_ALLOY/SWORD_ALLOY_85g-104i-1338c-55a-5h-208r-6a1-5h-L.solution",
-    "lastModified": "2026-10-28T09:57:36.419799579Z"
+    "displayLink": "https://files.mors.technology/SWORD_ALLOY/85g-1325c-55a-103i-0c6b4e40.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7b1dd535/P033/85g-103i-1325c-55a-5h-206r-6a1-5h-L",
+    "dataPath": "CHAPTER_4/SWORD_ALLOY/SWORD_ALLOY_85g-103i-1325c-55a-5h-206r-6a1-5h-L.solution",
+    "lastModified": "2026-10-28T11:28:44.433499547Z"
 }
