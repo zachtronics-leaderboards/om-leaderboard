@@ -1,0 +1,24 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 930,
+        "instructions": 7,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 52,
+        "area": 237,
+        "height": 17,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/930g-52c-237a-7i-OT-12d2ed21.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0333e9ef/P209/930g-7i-52c-237a-17h-OT",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_930g-7i-52c-237a-17h-OT.solution",
+    "lastModified": "2026-10-28T02:02:09.494311803Z"
+}
