@@ -6,15 +6,15 @@
         "overlap": false,
         "trackless": true,
         "cycles": 1259,
-        "area": 155,
+        "area": 150,
         "height": 14,
-        "width": 12.5,
+        "width": 12.0,
         "boundingHex": 9,
         "looping": true,
         "rate": 210.0,
         "areaINF": {
             "level": 0,
-            "value": 155.0
+            "value": 150.0
         },
         "heightINF": {
             "level": 0,
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 12.5
+            "value": 12.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/CRYSTALLIZED_AIR/60g-1259c-155a-210i-T-9c6cfeb3.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3446278612/60g-210i-1259c-155a-14h-12.5w-9b-210r-155a-14h-12.5w-9b-TL",
-    "dataPath": "TOURNAMENT_2025/CRYSTALLIZED_AIR/CRYSTALLIZED_AIR_60g-210i-1259c-155a-14h-12.5w-9b-210r-155a-14h-12.5w-9b-TL.solution"
+    "displayLink": "https://files.mors.technology/CRYSTALLIZED_AIR/60g-1259c-150a-210i-T-d49e5449.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2035db9b/w3446278612/60g-210i-1259c-150a-14h-12w-9b-210r-150a-14h-12w-9b-TL",
+    "dataPath": "TOURNAMENT_2025/CRYSTALLIZED_AIR/CRYSTALLIZED_AIR_60g-210i-1259c-150a-14h-12w-9b-210r-150a-14h-12w-9b-TL.solution",
+    "lastModified": "2026-10-28T04:52:48.579814680Z"
 }
