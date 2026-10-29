@@ -1,0 +1,36 @@
+{
+    "puzzle": "LODESTONE",
+    "score": {
+        "cost": 1450,
+        "instructions": 122,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 44,
+        "area": 506,
+        "height": 28,
+        "width": 19.0,
+        "boundingHex": 17,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 506.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 28.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 17.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/LODESTONE/1450g-44c-506a-122i-113b3532.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b258f1da/P256/1450g-122i-44c-506a-28h-19w-17b-6r-506a-28h-19w-17b-L",
+    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_1450g-122i-44c-506a-28h-19w-17b-6r-506a-28h-19w-17b-L.solution",
+    "lastModified": "2026-10-29T16:52:56.523873438Z"
+}
