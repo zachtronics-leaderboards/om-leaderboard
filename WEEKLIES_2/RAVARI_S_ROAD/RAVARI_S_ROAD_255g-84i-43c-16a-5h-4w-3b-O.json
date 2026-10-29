@@ -1,0 +1,24 @@
+{
+    "puzzle": "RAVARI_S_ROAD",
+    "score": {
+        "cost": 255,
+        "instructions": 84,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 43,
+        "area": 16,
+        "height": 5,
+        "width": 4.0,
+        "boundingHex": 3,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/255g-43c-16a-84i-O-5ba0179d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/510e1fc1/w3584639567/255g-84i-43c-16a-5h-4w-3b-O",
+    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_255g-84i-43c-16a-5h-4w-3b-O.solution",
+    "lastModified": "2026-10-29T08:59:04.500798803Z"
+}
