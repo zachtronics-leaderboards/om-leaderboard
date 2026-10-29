@@ -2,7 +2,7 @@
     "puzzle": "ALCHEMICAL_SLAG",
     "score": {
         "cost": 2035,
-        "instructions": 1479,
+        "instructions": 1478,
         "overlap": false,
         "trackless": false,
         "cycles": 35,
@@ -29,8 +29,8 @@
             "value": 13.0
         }
     },
-    "displayLink": "https://files.mors.technology/ALCHEMICAL_SLAG/2035g-35c-318a-1479i-135d8531.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/7882fe94/P099/2035g-1479i-35c-318a-23h-19w-13b-2.5r-318a-23h-19w-13b-L",
-    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_2035g-1479i-35c-318a-23h-19w-13b-2.5r-318a-23h-19w-13b-L.solution",
-    "lastModified": "2026-10-29T08:33:51.402891244Z"
+    "displayLink": "https://files.mors.technology/ALCHEMICAL_SLAG/2035g-35c-318a-1478i-033d0aef.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b17a260d/P099/2035g-1478i-35c-318a-23h-19w-13b-2.5r-318a-23h-19w-13b-L",
+    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_2035g-1478i-35c-318a-23h-19w-13b-2.5r-318a-23h-19w-13b-L.solution",
+    "lastModified": "2026-10-29T16:11:48.736582969Z"
 }
