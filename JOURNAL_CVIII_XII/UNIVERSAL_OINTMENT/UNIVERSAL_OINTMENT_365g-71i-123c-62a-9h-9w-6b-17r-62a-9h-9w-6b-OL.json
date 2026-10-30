@@ -1,0 +1,36 @@
+{
+    "puzzle": "UNIVERSAL_OINTMENT",
+    "score": {
+        "cost": 365,
+        "instructions": 71,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 123,
+        "area": 62,
+        "height": 9,
+        "width": 9.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 17.0,
+        "areaINF": {
+            "level": 0,
+            "value": 62.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/UNIVERSAL_OINTMENT/365g-123c-62a-71i-O-6270bf38.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/af3cb45c/P314/365g-71i-123c-62a-9h-9w-6b-17r-62a-9h-9w-6b-OL",
+    "dataPath": "JOURNAL_CVIII_XII/UNIVERSAL_OINTMENT/UNIVERSAL_OINTMENT_365g-71i-123c-62a-9h-9w-6b-17r-62a-9h-9w-6b-OL.solution",
+    "lastModified": "2026-10-30T22:28:03.832343208Z"
+}
