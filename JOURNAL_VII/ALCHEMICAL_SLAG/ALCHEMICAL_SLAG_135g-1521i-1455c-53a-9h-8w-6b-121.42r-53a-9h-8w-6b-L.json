@@ -1,0 +1,36 @@
+{
+    "puzzle": "ALCHEMICAL_SLAG",
+    "score": {
+        "cost": 135,
+        "instructions": 1521,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1455,
+        "area": 53,
+        "height": 9,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 121.42,
+        "areaINF": {
+            "level": 0,
+            "value": 53.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://od.lk/s/MV8zNjYyODYxMDdfdU5xb1E/775_Alchemical%20Slag_B_FGR_12T_135G_1455C_53A_1521I_35P.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c6e27b25/P099/135g-1521i-1455c-53a-9h-8w-6b-121.42r-53a-9h-8w-6b-L",
+    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_135g-1521i-1455c-53a-9h-8w-6b-121.42r-53a-9h-8w-6b-L.solution",
+    "lastModified": "2026-10-30T02:35:12.943121892Z"
+}
