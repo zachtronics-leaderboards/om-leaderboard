@@ -1,8 +1,8 @@
 {
     "puzzle": "VERDIGRIS_GLAZE",
     "score": {
-        "cost": 1110,
-        "instructions": 254,
+        "cost": 1100,
+        "instructions": 252,
         "overlap": false,
         "trackless": false,
         "cycles": 75,
@@ -29,8 +29,8 @@
             "value": 14.0
         }
     },
-    "displayLink": "https://files.mors.technology/VERDIGRIS_GLAZE/1110g-75c-264a-254i-e800f017.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/e1a1a460/P302/1110g-254i-75c-264a-17h-17.5w-14b-12r-264a-17h-17.5w-14b-L",
-    "dataPath": "JOURNAL_CVIII_X/VERDIGRIS_GLAZE/VERDIGRIS_GLAZE_1110g-254i-75c-264a-17h-17.5w-14b-12r-264a-17h-17.5w-14b-L.solution",
-    "lastModified": "2026-10-30T16:20:57.119509193Z"
+    "displayLink": "https://files.mors.technology/VERDIGRIS_GLAZE/1100g-75c-264a-252i-85bad573.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b49c04a9/P302/1100g-252i-75c-264a-17h-17.5w-14b-12r-264a-17h-17.5w-14b-L",
+    "dataPath": "JOURNAL_CVIII_X/VERDIGRIS_GLAZE/VERDIGRIS_GLAZE_1100g-252i-75c-264a-17h-17.5w-14b-12r-264a-17h-17.5w-14b-L.solution",
+    "lastModified": "2026-10-30T20:21:55.843244872Z"
 }
