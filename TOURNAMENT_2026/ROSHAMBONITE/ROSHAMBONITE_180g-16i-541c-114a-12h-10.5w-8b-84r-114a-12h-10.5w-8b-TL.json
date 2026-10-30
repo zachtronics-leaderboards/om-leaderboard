@@ -1,7 +1,7 @@
 {
     "puzzle": "ROSHAMBONITE",
     "score": {
-        "cost": 190,
+        "cost": 180,
         "instructions": 16,
         "overlap": false,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 8.0
         }
     },
-    "displayLink": "https://files.mors.technology/ROSHAMBONITE/190g-541c-114a-16i-T-799dee01.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/9b3b59f8/w3728200145/190g-16i-541c-114a-12h-10.5w-8b-84r-114a-12h-10.5w-8b-TL",
-    "dataPath": "TOURNAMENT_2026/ROSHAMBONITE/ROSHAMBONITE_190g-16i-541c-114a-12h-10.5w-8b-84r-114a-12h-10.5w-8b-TL.solution",
-    "lastModified": "2026-10-30T17:42:49.414436965Z"
+    "displayLink": "https://files.mors.technology/ROSHAMBONITE/180g-541c-114a-16i-T-f6efbc6d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e2175b63/w3728200145/180g-16i-541c-114a-12h-10.5w-8b-84r-114a-12h-10.5w-8b-TL",
+    "dataPath": "TOURNAMENT_2026/ROSHAMBONITE/ROSHAMBONITE_180g-16i-541c-114a-12h-10.5w-8b-84r-114a-12h-10.5w-8b-TL.solution",
+    "lastModified": "2026-10-30T17:46:41.057677244Z"
 }
