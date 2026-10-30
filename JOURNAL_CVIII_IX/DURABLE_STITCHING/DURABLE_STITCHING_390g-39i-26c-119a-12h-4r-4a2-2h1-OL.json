@@ -1,13 +1,13 @@
 {
     "puzzle": "DURABLE_STITCHING",
     "score": {
-        "cost": 400,
-        "instructions": 47,
+        "cost": 390,
+        "instructions": 39,
         "overlap": true,
         "trackless": false,
         "cycles": 26,
         "area": 119,
-        "height": 13,
+        "height": 12,
         "width": null,
         "boundingHex": null,
         "looping": true,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/DURABLE_STITCHING/400g-26c-119a-47i-O-8ce4178c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P296/400g-47i-26c-119a-13h-4r-4a2-2h1-OL",
-    "dataPath": "JOURNAL_CVIII_IX/DURABLE_STITCHING/DURABLE_STITCHING_400g-47i-26c-119a-13h-4r-4a2-2h1-OL.solution"
+    "displayLink": "https://files.mors.technology/DURABLE_STITCHING/390g-26c-119a-39i-O-44777e26.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b63f61d0/P296/390g-39i-26c-119a-12h-4r-4a2-2h1-OL",
+    "dataPath": "JOURNAL_CVIII_IX/DURABLE_STITCHING/DURABLE_STITCHING_390g-39i-26c-119a-12h-4r-4a2-2h1-OL.solution",
+    "lastModified": "2026-10-30T19:24:36.248195594Z"
 }
