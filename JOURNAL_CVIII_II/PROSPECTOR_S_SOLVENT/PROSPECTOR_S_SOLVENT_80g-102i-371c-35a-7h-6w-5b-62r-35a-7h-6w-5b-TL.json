@@ -6,15 +6,15 @@
         "overlap": false,
         "trackless": true,
         "cycles": 371,
-        "area": 36,
+        "area": 35,
         "height": 7,
-        "width": 6.5,
+        "width": 6.0,
         "boundingHex": 5,
         "looping": true,
         "rate": 62.0,
         "areaINF": {
             "level": 0,
-            "value": 36.0
+            "value": 35.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/PROSPECTOR_S_SOLVENT/80g-371c-36a-102i-T-91b68745.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/aa3d6c9d/P261/80g-102i-371c-36a-7h-6.5w-5b-62r-36a-7h-6.5w-5b-TL",
-    "dataPath": "JOURNAL_CVIII_II/PROSPECTOR_S_SOLVENT/PROSPECTOR_S_SOLVENT_80g-102i-371c-36a-7h-6.5w-5b-62r-36a-7h-6.5w-5b-TL.solution",
-    "lastModified": "2026-10-30T06:12:44.214750284Z"
+    "displayLink": "https://files.mors.technology/PROSPECTOR_S_SOLVENT/80g-371c-35a-102i-T-94a6f5bd.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b1184e98/P261/80g-102i-371c-35a-7h-6w-5b-62r-35a-7h-6w-5b-TL",
+    "dataPath": "JOURNAL_CVIII_II/PROSPECTOR_S_SOLVENT/PROSPECTOR_S_SOLVENT_80g-102i-371c-35a-7h-6w-5b-62r-35a-7h-6w-5b-TL.solution",
+    "lastModified": "2026-10-30T23:50:19.477867027Z"
 }
