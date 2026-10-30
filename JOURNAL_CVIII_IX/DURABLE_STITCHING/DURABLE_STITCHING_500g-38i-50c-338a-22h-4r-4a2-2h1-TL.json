@@ -1,0 +1,30 @@
+{
+    "puzzle": "DURABLE_STITCHING",
+    "score": {
+        "cost": 500,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 50,
+        "area": 338,
+        "height": 22,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/DURABLE_STITCHING/500g-50c-338a-38i-T-7bd2616f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ca98dd92/P296/500g-38i-50c-338a-22h-4r-4a2-2h1-TL",
+    "dataPath": "JOURNAL_CVIII_IX/DURABLE_STITCHING/DURABLE_STITCHING_500g-38i-50c-338a-22h-4r-4a2-2h1-TL.solution",
+    "lastModified": "2026-10-30T19:02:16.558295271Z"
+}
