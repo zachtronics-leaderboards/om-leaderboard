@@ -1,0 +1,36 @@
+{
+    "puzzle": "UMBRAL_MASCARA",
+    "score": {
+        "cost": 350,
+        "instructions": 116,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 189,
+        "area": 84,
+        "height": 11,
+        "width": 10.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 84.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/UMBRAL_MASCARA/350g-189c-84a-116i-35bd07ac.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ab003dd5/P292/350g-116i-189c-84a-11h-10.5w-7b-30r-84a-11h-10.5w-7b-L",
+    "dataPath": "JOURNAL_CVIII_VIII/UMBRAL_MASCARA/UMBRAL_MASCARA_350g-116i-189c-84a-11h-10.5w-7b-30r-84a-11h-10.5w-7b-L.solution",
+    "lastModified": "2026-10-30T00:25:35.690105932Z"
+}
