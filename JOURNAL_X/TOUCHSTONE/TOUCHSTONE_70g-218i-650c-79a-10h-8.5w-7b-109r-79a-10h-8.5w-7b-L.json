@@ -1,0 +1,36 @@
+{
+    "puzzle": "TOUCHSTONE",
+    "score": {
+        "cost": 70,
+        "instructions": 218,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 650,
+        "area": 79,
+        "height": 10,
+        "width": 8.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 109.0,
+        "areaINF": {
+            "level": 0,
+            "value": 79.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/TOUCHSTONE/70g-650c-79a-218i-d4daa33b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1679d405/P245/70g-218i-650c-79a-10h-8.5w-7b-109r-79a-10h-8.5w-7b-L",
+    "dataPath": "JOURNAL_X/TOUCHSTONE/TOUCHSTONE_70g-218i-650c-79a-10h-8.5w-7b-109r-79a-10h-8.5w-7b-L.solution",
+    "lastModified": "2026-10-30T22:57:20.206506738Z"
+}
