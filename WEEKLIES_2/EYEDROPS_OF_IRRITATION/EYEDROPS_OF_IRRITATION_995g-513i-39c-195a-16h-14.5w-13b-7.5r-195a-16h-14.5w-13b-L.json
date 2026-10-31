@@ -1,0 +1,36 @@
+{
+    "puzzle": "EYEDROPS_OF_IRRITATION",
+    "score": {
+        "cost": 995,
+        "instructions": 513,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 39,
+        "area": 195,
+        "height": 16,
+        "width": 14.5,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 7.5,
+        "areaINF": {
+            "level": 0,
+            "value": 195.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 13.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/EYEDROPS_OF_IRRITATION/995g-39c-195a-513i-7bc2a70a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/617cefe4/w3817959733/995g-513i-39c-195a-16h-14.5w-13b-7.5r-195a-16h-14.5w-13b-L",
+    "dataPath": "WEEKLIES_2/EYEDROPS_OF_IRRITATION/EYEDROPS_OF_IRRITATION_995g-513i-39c-195a-16h-14.5w-13b-7.5r-195a-16h-14.5w-13b-L.solution",
+    "lastModified": "2026-10-31T18:04:49.055100940Z"
+}
