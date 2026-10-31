@@ -1,7 +1,7 @@
 {
     "puzzle": "UNIVERSAL_SOLVENT",
     "score": {
-        "cost": 460,
+        "cost": 450,
         "instructions": 14,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/UNIVERSAL_SOLVENT/460g-154c-123a-14i-OT-6073ce26.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/541420c2/P043/460g-14i-154c-123a-12h-10w-9b-24r-123a-12h-10w-9b-OTL",
-    "dataPath": "CHAPTER_5/UNIVERSAL_SOLVENT/UNIVERSAL_SOLVENT_460g-14i-154c-123a-12h-10w-9b-24r-123a-12h-10w-9b-OTL.solution",
-    "lastModified": "2026-10-27T08:47:22.111821609Z"
+    "displayLink": "https://files.mors.technology/UNIVERSAL_SOLVENT/450g-154c-123a-14i-OT-7daf73a9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/99895685/P043/450g-14i-154c-123a-12h-10w-9b-24r-123a-12h-10w-9b-OTL",
+    "dataPath": "CHAPTER_5/UNIVERSAL_SOLVENT/UNIVERSAL_SOLVENT_450g-14i-154c-123a-12h-10w-9b-24r-123a-12h-10w-9b-OTL.solution",
+    "lastModified": "2026-10-31T08:45:35.365144799Z"
 }
