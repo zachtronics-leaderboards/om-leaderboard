@@ -8,8 +8,8 @@
         "cycles": 208,
         "area": 38,
         "height": 6,
-        "width": 7.5,
-        "boundingHex": 7,
+        "width": 6.5,
+        "boundingHex": 6,
         "looping": true,
         "rate": 32.0,
         "areaINF": {
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.5
+            "value": 6.5
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/Purified-Gold-300g-208c-38a-50i-6h-7.5w-32r-T-295847.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P036/300g-50i-208c-38a-6h-7.5w-7b-32r-38a-6h-7.5w-7b-TL",
-    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_300g-50i-208c-38a-6h-7.5w-7b-32r-38a-6h-7.5w-7b-TL.solution"
+    "displayLink": "https://files.mors.technology/PURIFIED_GOLD/300g-208c-38a-50i-T-42a426bd.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/30a5648f/P036/300g-50i-208c-38a-6h-6.5w-6b-32r-38a-6h-6.5w-6b-TL",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_300g-50i-208c-38a-6h-6.5w-6b-32r-38a-6h-6.5w-6b-TL.solution",
+    "lastModified": "2026-10-31T13:31:51.408518075Z"
 }
