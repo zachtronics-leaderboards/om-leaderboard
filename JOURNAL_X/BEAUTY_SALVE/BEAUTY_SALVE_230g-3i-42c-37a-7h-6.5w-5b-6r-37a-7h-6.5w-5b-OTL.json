@@ -1,7 +1,7 @@
 {
     "puzzle": "BEAUTY_SALVE",
     "score": {
-        "cost": 270,
+        "cost": 230,
         "instructions": 3,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/BEAUTY_SALVE/270g-42c-37a-3i-OT-2606ebdf.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/46f2c695/P246/270g-3i-42c-37a-7h-6.5w-5b-6r-37a-7h-6.5w-5b-OTL",
-    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_270g-3i-42c-37a-7h-6.5w-5b-6r-37a-7h-6.5w-5b-OTL.solution",
-    "lastModified": "2026-10-31T13:39:40.421680315Z"
+    "displayLink": "https://files.mors.technology/BEAUTY_SALVE/230g-42c-37a-3i-OT-ef5fe25e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c7bac084/P246/230g-3i-42c-37a-7h-6.5w-5b-6r-37a-7h-6.5w-5b-OTL",
+    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_230g-3i-42c-37a-7h-6.5w-5b-6r-37a-7h-6.5w-5b-OTL.solution",
+    "lastModified": "2026-10-31T13:46:13.165596746Z"
 }
