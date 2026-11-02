@@ -1,0 +1,36 @@
+{
+    "puzzle": "ALCHEMICAL_SLAG",
+    "score": {
+        "cost": 1925,
+        "instructions": 1458,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 35,
+        "area": 307,
+        "height": 21,
+        "width": 18.0,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 2.42,
+        "areaINF": {
+            "level": 0,
+            "value": 307.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ALCHEMICAL_SLAG/1925g-35c-307a-1458i-3edfd629.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/11e8a67d/P099/1925g-1458i-35c-307a-21h-18w-14b-2.42r-307a-21h-18w-14b-L",
+    "dataPath": "JOURNAL_VII/ALCHEMICAL_SLAG/ALCHEMICAL_SLAG_1925g-1458i-35c-307a-21h-18w-14b-2.42r-307a-21h-18w-14b-L.solution",
+    "lastModified": "2026-11-02T22:06:27.089459665Z"
+}
