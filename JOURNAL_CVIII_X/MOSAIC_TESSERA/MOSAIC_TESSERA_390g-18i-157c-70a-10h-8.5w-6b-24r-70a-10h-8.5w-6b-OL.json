@@ -2,7 +2,7 @@
     "puzzle": "MOSAIC_TESSERA",
     "score": {
         "cost": 390,
-        "instructions": 19,
+        "instructions": 18,
         "overlap": true,
         "trackless": false,
         "cycles": 157,
@@ -29,8 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/MOSAIC_TESSERA/390g-157c-70a-19i-O-ac010b17.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/a3dd4832/P304/390g-19i-157c-70a-10h-8.5w-6b-24r-70a-10h-8.5w-6b-OL",
-    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_390g-19i-157c-70a-10h-8.5w-6b-24r-70a-10h-8.5w-6b-OL.solution",
-    "lastModified": "2026-11-02T01:40:04.834715632Z"
+    "displayLink": "https://files.mors.technology/MOSAIC_TESSERA/390g-157c-70a-18i-O-9d4208a4.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7b0e4543/P304/390g-18i-157c-70a-10h-8.5w-6b-24r-70a-10h-8.5w-6b-OL",
+    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_390g-18i-157c-70a-10h-8.5w-6b-24r-70a-10h-8.5w-6b-OL.solution",
+    "lastModified": "2026-11-02T01:44:52.137091746Z"
 }
