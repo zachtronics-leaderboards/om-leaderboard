@@ -1,0 +1,36 @@
+{
+    "puzzle": "MOSAIC_TESSERA",
+    "score": {
+        "cost": 400,
+        "instructions": 17,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 250,
+        "area": 124,
+        "height": 14,
+        "width": 18.0,
+        "boundingHex": 18,
+        "looping": true,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MOSAIC_TESSERA/400g-250c-124a-17i-OT-85d5d690.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c1616be4/P304/400g-17i-250c-124a-14h-18w-18b-42r-8a1-14h-2w1-2b1-OTL",
+    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_400g-17i-250c-124a-14h-18w-18b-42r-8a1-14h-2w1-2b1-OTL.solution",
+    "lastModified": "2026-11-02T00:44:06.393119002Z"
+}
