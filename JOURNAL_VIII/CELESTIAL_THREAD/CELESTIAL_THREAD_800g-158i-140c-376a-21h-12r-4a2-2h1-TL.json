@@ -1,0 +1,30 @@
+{
+    "puzzle": "CELESTIAL_THREAD",
+    "score": {
+        "cost": 800,
+        "instructions": 158,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 140,
+        "area": 376,
+        "height": 21,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/CELESTIAL_THREAD/800g-140c-376a-158i-T-507e6feb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/cf619f21/P101/800g-158i-140c-376a-21h-12r-4a2-2h1-TL",
+    "dataPath": "JOURNAL_VIII/CELESTIAL_THREAD/CELESTIAL_THREAD_800g-158i-140c-376a-21h-12r-4a2-2h1-TL.solution",
+    "lastModified": "2026-11-02T16:26:00.769336803Z"
+}
