@@ -1,0 +1,27 @@
+{
+    "puzzle": "EYEDROPS_OF_REVELATION",
+    "score": {
+        "cost": 100,
+        "instructions": 69,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 879,
+        "area": 69,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 138.0,
+        "areaINF": {
+            "level": 0,
+            "value": 69.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/EYEDROPS_OF_REVELATION/100g-879c-69a-69i-70c67656.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/16d5b04b/P081/100g-69i-879c-69a-138r-69a-L",
+    "dataPath": "CHAPTER_PRODUCTION/EYEDROPS_OF_REVELATION/EYEDROPS_OF_REVELATION_100g-69i-879c-69a-138r-69a-L.solution",
+    "lastModified": "2026-11-02T07:52:03.425357015Z"
+}
