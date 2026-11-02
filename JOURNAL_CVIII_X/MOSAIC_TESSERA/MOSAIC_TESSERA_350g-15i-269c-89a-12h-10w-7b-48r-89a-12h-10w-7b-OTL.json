@@ -1,7 +1,7 @@
 {
     "puzzle": "MOSAIC_TESSERA",
     "score": {
-        "cost": 370,
+        "cost": 350,
         "instructions": 15,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/MOSAIC_TESSERA/370g-269c-89a-15i-OT-054cecbe.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/b7f81d72/P304/370g-15i-269c-89a-12h-10w-7b-48r-89a-12h-10w-7b-OTL",
-    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_370g-15i-269c-89a-12h-10w-7b-48r-89a-12h-10w-7b-OTL.solution",
-    "lastModified": "2026-11-02T04:40:02.460419244Z"
+    "displayLink": "https://files.mors.technology/MOSAIC_TESSERA/350g-269c-89a-15i-OT-512378b9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/83673c99/P304/350g-15i-269c-89a-12h-10w-7b-48r-89a-12h-10w-7b-OTL",
+    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_350g-15i-269c-89a-12h-10w-7b-48r-89a-12h-10w-7b-OTL.solution",
+    "lastModified": "2026-11-02T04:43:11.108303230Z"
 }
