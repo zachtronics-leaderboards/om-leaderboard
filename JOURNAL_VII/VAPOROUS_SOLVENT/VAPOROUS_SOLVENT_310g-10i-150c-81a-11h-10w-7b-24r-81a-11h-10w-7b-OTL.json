@@ -1,12 +1,12 @@
 {
     "puzzle": "VAPOROUS_SOLVENT",
     "score": {
-        "cost": 320,
-        "instructions": 11,
+        "cost": 310,
+        "instructions": 10,
         "overlap": true,
         "trackless": true,
-        "cycles": 161,
-        "area": 82,
+        "cycles": 150,
+        "area": 81,
         "height": 11,
         "width": 10.0,
         "boundingHex": 7,
@@ -14,7 +14,7 @@
         "rate": 24.0,
         "areaINF": {
             "level": 0,
-            "value": 82.0
+            "value": 81.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/VAPOROUS_SOLVENT/320g-161c-82a-11i-OT-8afb3b7a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/795bb2e7/P098/320g-11i-161c-82a-11h-10w-7b-24r-82a-11h-10w-7b-OTL",
-    "dataPath": "JOURNAL_VII/VAPOROUS_SOLVENT/VAPOROUS_SOLVENT_320g-11i-161c-82a-11h-10w-7b-24r-82a-11h-10w-7b-OTL.solution",
-    "lastModified": "2026-11-02T05:44:18.203305268Z"
+    "displayLink": "https://files.mors.technology/VAPOROUS_SOLVENT/310g-150c-81a-10i-OT-e1248054.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/12d72fa1/P098/310g-10i-150c-81a-11h-10w-7b-24r-81a-11h-10w-7b-OTL",
+    "dataPath": "JOURNAL_VII/VAPOROUS_SOLVENT/VAPOROUS_SOLVENT_310g-10i-150c-81a-11h-10w-7b-24r-81a-11h-10w-7b-OTL.solution",
+    "lastModified": "2026-11-02T05:50:53.762072860Z"
 }
