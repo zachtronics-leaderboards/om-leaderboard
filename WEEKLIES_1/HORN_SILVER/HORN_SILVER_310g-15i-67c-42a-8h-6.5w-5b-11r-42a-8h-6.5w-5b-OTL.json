@@ -1,7 +1,7 @@
 {
     "puzzle": "HORN_SILVER",
     "score": {
-        "cost": 350,
+        "cost": 310,
         "instructions": 15,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/HORN_SILVER/350g-67c-42a-15i-OT-956b5c6c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/efc2fc92/w2513871683/350g-15i-67c-42a-8h-6.5w-5b-11r-42a-8h-6.5w-5b-OTL",
-    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_350g-15i-67c-42a-8h-6.5w-5b-11r-42a-8h-6.5w-5b-OTL.solution",
-    "lastModified": "2026-11-02T13:12:30.150002689Z"
+    "displayLink": "https://files.mors.technology/HORN_SILVER/310g-67c-42a-15i-OT-20b9d22b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b9733e9b/w2513871683/310g-15i-67c-42a-8h-6.5w-5b-11r-42a-8h-6.5w-5b-OTL",
+    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_310g-15i-67c-42a-8h-6.5w-5b-11r-42a-8h-6.5w-5b-OTL.solution",
+    "lastModified": "2026-11-02T13:17:05.406753566Z"
 }
