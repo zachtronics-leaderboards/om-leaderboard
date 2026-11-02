@@ -5,13 +5,13 @@
         "instructions": 17,
         "overlap": true,
         "trackless": true,
-        "cycles": 250,
-        "area": 124,
+        "cycles": 215,
+        "area": 123,
         "height": 14,
         "width": 18.0,
         "boundingHex": 18,
         "looping": true,
-        "rate": 42.0,
+        "rate": 36.0,
         "areaINF": {
             "level": 1,
             "value": 8.0
@@ -29,8 +29,8 @@
             "value": 2.0
         }
     },
-    "displayLink": "https://files.mors.technology/MOSAIC_TESSERA/380g-250c-124a-17i-OT-3db8ecc6.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/68801103/P304/380g-17i-250c-124a-14h-18w-18b-42r-8a1-14h-2w1-2b1-OTL",
-    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_380g-17i-250c-124a-14h-18w-18b-42r-8a1-14h-2w1-2b1-OTL.solution",
-    "lastModified": "2026-11-02T01:10:42.428722386Z"
+    "displayLink": "https://files.mors.technology/MOSAIC_TESSERA/380g-215c-123a-17i-OT-3718652c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/6bbc7976/P304/380g-17i-215c-123a-14h-18w-18b-36r-8a1-14h-2w1-2b1-OTL",
+    "dataPath": "JOURNAL_CVIII_X/MOSAIC_TESSERA/MOSAIC_TESSERA_380g-17i-215c-123a-14h-18w-18b-36r-8a1-14h-2w1-2b1-OTL.solution",
+    "lastModified": "2026-11-02T01:15:05.755641975Z"
 }
