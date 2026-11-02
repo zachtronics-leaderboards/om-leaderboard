@@ -2,7 +2,7 @@
     "puzzle": "SWORD_ALLOY",
     "score": {
         "cost": 255,
-        "instructions": 140,
+        "instructions": 139,
         "overlap": false,
         "trackless": false,
         "cycles": 100,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/SWORD_ALLOY/255g-100c-158a-140i-e10f0301.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P033/255g-140i-100c-158a-17h",
-    "dataPath": "CHAPTER_4/SWORD_ALLOY/SWORD_ALLOY_255g-140i-100c-158a-17h.solution"
+    "displayLink": "https://files.mors.technology/SWORD_ALLOY/255g-100c-158a-139i-68114315.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/626e8c42/P033/255g-139i-100c-158a-17h",
+    "dataPath": "CHAPTER_4/SWORD_ALLOY/SWORD_ALLOY_255g-139i-100c-158a-17h.solution",
+    "lastModified": "2026-11-02T11:35:09.565937394Z"
 }
