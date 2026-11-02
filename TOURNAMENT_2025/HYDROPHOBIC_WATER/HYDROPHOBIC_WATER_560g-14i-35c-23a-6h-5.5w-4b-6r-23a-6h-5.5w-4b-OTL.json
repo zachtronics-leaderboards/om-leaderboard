@@ -5,13 +5,13 @@
         "instructions": 14,
         "overlap": true,
         "trackless": true,
-        "cycles": 40,
+        "cycles": 35,
         "area": 23,
         "height": 6,
         "width": 5.5,
         "boundingHex": 4,
         "looping": true,
-        "rate": 7.0,
+        "rate": 6.0,
         "areaINF": {
             "level": 0,
             "value": 23.0
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/HYDROPHOBIC_WATER/560g-40c-23a-14i-O-T-2bf47c67.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3446275126/560g-14i-40c-23a-6h-5.5w-4b-7r-23a-6h-5.5w-4b-OTL",
-    "dataPath": "TOURNAMENT_2025/HYDROPHOBIC_WATER/HYDROPHOBIC_WATER_560g-14i-40c-23a-6h-5.5w-4b-7r-23a-6h-5.5w-4b-OTL.solution"
+    "displayLink": "https://files.mors.technology/HYDROPHOBIC_WATER/560g-35c-23a-14i-OT-1127b34d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5691723f/w3446275126/560g-14i-35c-23a-6h-5.5w-4b-6r-23a-6h-5.5w-4b-OTL",
+    "dataPath": "TOURNAMENT_2025/HYDROPHOBIC_WATER/HYDROPHOBIC_WATER_560g-14i-35c-23a-6h-5.5w-4b-6r-23a-6h-5.5w-4b-OTL.solution",
+    "lastModified": "2026-11-02T04:13:52.229132369Z"
 }
