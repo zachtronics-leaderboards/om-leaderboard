@@ -1,0 +1,36 @@
+{
+    "puzzle": "HORN_SILVER",
+    "score": {
+        "cost": 280,
+        "instructions": 14,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 62,
+        "area": 21,
+        "height": 4,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/HORN_SILVER/280g-62c-21a-14i-OT-9ab431df.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0bbb9828/w2513871683/280g-14i-62c-21a-4h-5w-4b-10r-21a-4h-5w-4b-OTL",
+    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_280g-14i-62c-21a-4h-5w-4b-10r-21a-4h-5w-4b-OTL.solution",
+    "lastModified": "2026-11-03T06:03:03.528819677Z"
+}
