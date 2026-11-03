@@ -1,0 +1,36 @@
+{
+    "puzzle": "FULMINATION",
+    "score": {
+        "cost": 120,
+        "instructions": 225,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 673,
+        "area": 50,
+        "height": 8,
+        "width": 8.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 112.5,
+        "areaINF": {
+            "level": 0,
+            "value": 50.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/FULMINATION/120g-673c-50a-225i-1f9b6ba7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8b3010aa/w2788067677/120g-225i-673c-50a-8h-8w-5b-112.5r-50a-8h-8w-5b-L",
+    "dataPath": "TOURNAMENT_2022/FULMINATION/FULMINATION_120g-225i-673c-50a-8h-8w-5b-112.5r-50a-8h-8w-5b-L.solution",
+    "lastModified": "2026-11-03T03:23:11.747957568Z"
+}
