@@ -1,7 +1,7 @@
 {
     "puzzle": "CLIMBING_ROPE_FIBER",
     "score": {
-        "cost": 150,
+        "cost": 140,
         "instructions": 5,
         "overlap": true,
         "trackless": true,
@@ -23,8 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/CLIMBING_ROPE_FIBER/150g-360c-56a-5i-OT-2278ae9f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/e5c330c5/P027/150g-5i-360c-56a-6h-60r-6a1-6h-OTL",
-    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/CLIMBING_ROPE_FIBER_150g-5i-360c-56a-6h-60r-6a1-6h-OTL.solution",
-    "lastModified": "2026-11-03T01:07:24.814678972Z"
+    "displayLink": "https://files.mors.technology/CLIMBING_ROPE_FIBER/140g-360c-56a-5i-OT-4cacc94d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f8e24d2e/P027/140g-5i-360c-56a-6h-60r-6a1-6h-OTL",
+    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/CLIMBING_ROPE_FIBER_140g-5i-360c-56a-6h-60r-6a1-6h-OTL.solution",
+    "lastModified": "2026-11-03T06:02:23.914764301Z"
 }
