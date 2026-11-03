@@ -1,0 +1,36 @@
+{
+    "puzzle": "ROSHAMBONITE",
+    "score": {
+        "cost": 280,
+        "instructions": 47,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 99,
+        "area": 112,
+        "height": 10,
+        "width": 10.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 0,
+            "value": 112.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ROSHAMBONITE/280g-99c-112a-47i-O-a82b651a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c56f3ff0/w3728200145/280g-47i-99c-112a-10h-10.5w-9b-16r-112a-10h-10.5w-9b-OL",
+    "dataPath": "TOURNAMENT_2026/ROSHAMBONITE/ROSHAMBONITE_280g-47i-99c-112a-10h-10.5w-9b-16r-112a-10h-10.5w-9b-OL.solution",
+    "lastModified": "2026-11-03T18:27:45.499102231Z"
+}
