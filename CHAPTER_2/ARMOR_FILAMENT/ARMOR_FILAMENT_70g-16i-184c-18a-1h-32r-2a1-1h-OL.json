@@ -1,0 +1,30 @@
+{
+    "puzzle": "ARMOR_FILAMENT",
+    "score": {
+        "cost": 70,
+        "instructions": 16,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 184,
+        "area": 18,
+        "height": 1,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 1.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/ARMOR_FILAMENT/70g-184c-18a-16i-O-8d23edfd.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8fa90735/P020/70g-16i-184c-18a-1h-32r-2a1-1h-OL",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/ARMOR_FILAMENT_70g-16i-184c-18a-1h-32r-2a1-1h-OL.solution",
+    "lastModified": "2026-11-03T04:53:54.231689937Z"
+}
