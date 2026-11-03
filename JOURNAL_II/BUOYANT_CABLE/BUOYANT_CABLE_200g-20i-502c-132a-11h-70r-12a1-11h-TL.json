@@ -1,0 +1,30 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 200,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 502,
+        "area": 132,
+        "height": 11,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 70.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BUOYANT_CABLE/200g-502c-132a-20i-T-2a87737f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e31fad25/P062/200g-20i-502c-132a-11h-70r-12a1-11h-TL",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/BUOYANT_CABLE_200g-20i-502c-132a-11h-70r-12a1-11h-TL.solution",
+    "lastModified": "2026-11-03T00:14:11.048583171Z"
+}
