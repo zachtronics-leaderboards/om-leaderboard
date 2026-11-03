@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 53,
-        "area": 100,
+        "area": 96,
         "height": 11,
         "width": 11.0,
         "boundingHex": 8,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 100.0
+            "value": 96.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 8.0
         }
     },
-    "displayLink": "https://files.mors.technology/MILD_STEEL/675g-53c-100a-178i-ea1aa433.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/83843136/P308/675g-178i-53c-100a-11h-11w-8b-8r-100a-11h-11w-8b-L",
-    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_675g-178i-53c-100a-11h-11w-8b-8r-100a-11h-11w-8b-L.solution",
-    "lastModified": "2026-11-03T19:55:54.462247404Z"
+    "displayLink": "https://files.mors.technology/MILD_STEEL/675g-53c-96a-178i-54713b25.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e53028f3/P308/675g-178i-53c-96a-11h-11w-8b-8r-96a-11h-11w-8b-L",
+    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_675g-178i-53c-96a-11h-11w-8b-8r-96a-11h-11w-8b-L.solution",
+    "lastModified": "2026-11-03T20:07:09.431756638Z"
 }
