@@ -6,7 +6,7 @@
         "overlap": true,
         "trackless": true,
         "cycles": 150,
-        "area": 64,
+        "area": 63,
         "height": 9,
         "width": 8.5,
         "boundingHex": 7,
@@ -14,7 +14,7 @@
         "rate": 24.0,
         "areaINF": {
             "level": 0,
-            "value": 64.0
+            "value": 63.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/LAMBENT_II_IX/400g-150c-64a-9i-OT-8b14c4bc.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/28738952/P058/400g-9i-150c-64a-9h-8.5w-7b-24r-64a-9h-8.5w-7b-OTL",
-    "dataPath": "JOURNAL_I/LAMBENT_II_IX/LAMBENT_II_IX_400g-9i-150c-64a-9h-8.5w-7b-24r-64a-9h-8.5w-7b-OTL.solution",
-    "lastModified": "2026-11-04T07:25:58.908089408Z"
+    "displayLink": "https://files.mors.technology/LAMBENT_II_IX/400g-150c-63a-9i-OT-4aa6b244.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f633be33/P058/400g-9i-150c-63a-9h-8.5w-7b-24r-63a-9h-8.5w-7b-OTL",
+    "dataPath": "JOURNAL_I/LAMBENT_II_IX/LAMBENT_II_IX_400g-9i-150c-63a-9h-8.5w-7b-24r-63a-9h-8.5w-7b-OTL.solution",
+    "lastModified": "2026-11-04T07:27:01.600548460Z"
 }
