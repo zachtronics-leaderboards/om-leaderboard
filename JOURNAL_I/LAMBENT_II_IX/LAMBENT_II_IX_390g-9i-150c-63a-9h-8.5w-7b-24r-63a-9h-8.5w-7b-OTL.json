@@ -1,7 +1,7 @@
 {
     "puzzle": "LAMBENT_II_IX",
     "score": {
-        "cost": 400,
+        "cost": 390,
         "instructions": 9,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/LAMBENT_II_IX/400g-150c-63a-9i-OT-4aa6b244.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f633be33/P058/400g-9i-150c-63a-9h-8.5w-7b-24r-63a-9h-8.5w-7b-OTL",
-    "dataPath": "JOURNAL_I/LAMBENT_II_IX/LAMBENT_II_IX_400g-9i-150c-63a-9h-8.5w-7b-24r-63a-9h-8.5w-7b-OTL.solution",
-    "lastModified": "2026-11-04T07:27:01.600548460Z"
+    "displayLink": "https://files.mors.technology/LAMBENT_II_IX/390g-150c-63a-9i-OT-8274ac72.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f65fc6d0/P058/390g-9i-150c-63a-9h-8.5w-7b-24r-63a-9h-8.5w-7b-OTL",
+    "dataPath": "JOURNAL_I/LAMBENT_II_IX/LAMBENT_II_IX_390g-9i-150c-63a-9h-8.5w-7b-24r-63a-9h-8.5w-7b-OTL.solution",
+    "lastModified": "2026-11-04T07:40:40.230248597Z"
 }
