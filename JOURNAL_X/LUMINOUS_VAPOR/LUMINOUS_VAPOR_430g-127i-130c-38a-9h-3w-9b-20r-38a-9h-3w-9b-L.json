@@ -2,7 +2,7 @@
     "puzzle": "LUMINOUS_VAPOR",
     "score": {
         "cost": 430,
-        "instructions": 128,
+        "instructions": 127,
         "overlap": false,
         "trackless": false,
         "cycles": 130,
@@ -29,7 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://i.imgur.com/NoH2N2n.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P247/430g-128i-130c-38a-9h-3w-9b-20r-38a-9h-3w-9b-L",
-    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_430g-128i-130c-38a-9h-3w-9b-20r-38a-9h-3w-9b-L.solution"
+    "displayLink": "https://files.mors.technology/LUMINOUS_VAPOR/430g-130c-38a-127i-179aac7c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4c961e4b/P247/430g-127i-130c-38a-9h-3w-9b-20r-38a-9h-3w-9b-L",
+    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_430g-127i-130c-38a-9h-3w-9b-20r-38a-9h-3w-9b-L.solution",
+    "lastModified": "2026-11-04T07:19:19.456812394Z"
 }
