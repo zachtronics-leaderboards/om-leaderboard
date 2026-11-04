@@ -1,12 +1,12 @@
 {
     "puzzle": "SILVER_CAUSTIC",
     "score": {
-        "cost": 140,
-        "instructions": 29,
+        "cost": 120,
+        "instructions": 27,
         "overlap": true,
         "trackless": true,
         "cycles": 65,
-        "area": 29,
+        "area": 28,
         "height": 5,
         "width": 5.5,
         "boundingHex": 5,
@@ -14,7 +14,7 @@
         "rate": 11.0,
         "areaINF": {
             "level": 0,
-            "value": 29.0
+            "value": 28.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/SILVER_CAUSTIC/140g-65c-29a-29i-OT-496b1196.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/35a395f1/P057/140g-29i-65c-29a-5h-5.5w-5b-11r-29a-5h-5.5w-5b-OTL",
-    "dataPath": "JOURNAL_I/SILVER_CAUSTIC/SILVER_CAUSTIC_140g-29i-65c-29a-5h-5.5w-5b-11r-29a-5h-5.5w-5b-OTL.solution",
-    "lastModified": "2026-11-04T07:53:51.689436858Z"
+    "displayLink": "https://files.mors.technology/SILVER_CAUSTIC/120g-65c-28a-27i-OT-e2a3b49f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0f1967c8/P057/120g-27i-65c-28a-5h-5.5w-5b-11r-28a-5h-5.5w-5b-OTL",
+    "dataPath": "JOURNAL_I/SILVER_CAUSTIC/SILVER_CAUSTIC_120g-27i-65c-28a-5h-5.5w-5b-11r-28a-5h-5.5w-5b-OTL.solution",
+    "lastModified": "2026-11-04T09:40:34.636083124Z"
 }
