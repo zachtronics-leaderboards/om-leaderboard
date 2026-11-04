@@ -1,0 +1,36 @@
+{
+    "puzzle": "SOPHICK_MERCURY",
+    "score": {
+        "cost": 110,
+        "instructions": 24,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 52,
+        "area": 21,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SOPHICK_MERCURY/110g-52c-21a-24i-T-03475f92.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2649d388/P250/110g-24i-52c-21a-6h-5w-4b-8r-21a-6h-5w-4b-TL",
+    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_110g-24i-52c-21a-6h-5w-4b-8r-21a-6h-5w-4b-TL.solution",
+    "lastModified": "2026-11-04T00:11:30.254740958Z"
+}
