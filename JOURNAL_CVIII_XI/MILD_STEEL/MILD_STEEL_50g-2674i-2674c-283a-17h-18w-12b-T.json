@@ -1,0 +1,24 @@
+{
+    "puzzle": "MILD_STEEL",
+    "score": {
+        "cost": 50,
+        "instructions": 2674,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 2674,
+        "area": 283,
+        "height": 17,
+        "width": 18.0,
+        "boundingHex": 12,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://youtu.be/04B_jovLtJE",
+    "dataLink": "https://zlbb.faendir.com/l/om/04e0d8ef/P308/50g-2674i-2674c-283a-17h-18w-12b-T",
+    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_50g-2674i-2674c-283a-17h-18w-12b-T.solution",
+    "lastModified": "2026-11-04T00:15:15.844644560Z"
+}
