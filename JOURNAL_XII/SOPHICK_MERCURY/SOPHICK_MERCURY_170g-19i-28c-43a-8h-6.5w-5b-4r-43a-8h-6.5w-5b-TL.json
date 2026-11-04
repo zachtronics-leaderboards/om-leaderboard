@@ -9,7 +9,7 @@
         "area": 43,
         "height": 8,
         "width": 6.5,
-        "boundingHex": 6,
+        "boundingHex": 5,
         "looping": true,
         "rate": 4.0,
         "areaINF": {
@@ -26,10 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/SOPHICK_MERCURY/170g-28c-43a-19i-T-58cd8a9b.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P250/170g-19i-28c-43a-8h-6.5w-6b-4r-43a-8h-6.5w-6b-TL",
-    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_170g-19i-28c-43a-8h-6.5w-6b-4r-43a-8h-6.5w-6b-TL.solution"
+    "displayLink": "https://files.mors.technology/SOPHICK_MERCURY/170g-28c-43a-19i-T-e735bafd.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4cdd7fb1/P250/170g-19i-28c-43a-8h-6.5w-5b-4r-43a-8h-6.5w-5b-TL",
+    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_170g-19i-28c-43a-8h-6.5w-5b-4r-43a-8h-6.5w-5b-TL.solution",
+    "lastModified": "2026-11-04T00:47:10.496547580Z"
 }
