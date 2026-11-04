@@ -2,16 +2,16 @@
     "puzzle": "MILD_STEEL",
     "score": {
         "cost": 50,
-        "instructions": 465,
+        "instructions": 453,
         "overlap": false,
         "trackless": true,
-        "cycles": 2768,
-        "area": 7222,
+        "cycles": 2696,
+        "area": 7218,
         "height": 93,
         "width": 81.5,
         "boundingHex": 77,
         "looping": true,
-        "rate": 465.0,
+        "rate": 453.0,
         "areaINF": {
             "level": 2,
             "value": 338.0
@@ -29,8 +29,8 @@
             "value": 13.0
         }
     },
-    "displayLink": "https://files.mors.technology/MILD_STEEL/50g-2768c-7222a-465i-T-a0faeef0.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/7af95499/P308/50g-465i-2768c-7222a-93h-81.5w-77b-465r-338a2-15.011h1-13w1-13b1-TL",
-    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_50g-465i-2768c-7222a-93h-81.5w-77b-465r-338a2-15.011h1-13w1-13b1-TL.solution",
-    "lastModified": "2026-11-04T04:14:25.027003176Z"
+    "displayLink": "https://files.mors.technology/MILD_STEEL/50g-2696c-7218a-453i-T-e9bc13c3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/73f2db87/P308/50g-453i-2696c-7218a-93h-81.5w-77b-453r-338a2-15.011h1-13w1-13b1-TL",
+    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_50g-453i-2696c-7218a-93h-81.5w-77b-453r-338a2-15.011h1-13w1-13b1-TL.solution",
+    "lastModified": "2026-11-04T07:06:43.311249897Z"
 }
