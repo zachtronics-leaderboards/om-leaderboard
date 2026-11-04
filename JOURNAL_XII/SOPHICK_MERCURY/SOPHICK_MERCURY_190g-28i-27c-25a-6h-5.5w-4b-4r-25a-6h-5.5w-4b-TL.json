@@ -1,12 +1,12 @@
 {
     "puzzle": "SOPHICK_MERCURY",
     "score": {
-        "cost": 200,
+        "cost": 190,
         "instructions": 28,
         "overlap": false,
-        "trackless": false,
+        "trackless": true,
         "cycles": 27,
-        "area": 28,
+        "area": 25,
         "height": 6,
         "width": 5.5,
         "boundingHex": 4,
@@ -14,7 +14,7 @@
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 28.0
+            "value": 25.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/SOPHICK_MERCURY/200g-27c-28a-28i-eab2c7b0.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P250/200g-28i-27c-28a-6h-5.5w-4b-4r-28a-6h-5.5w-4b-L",
-    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_200g-28i-27c-28a-6h-5.5w-4b-4r-28a-6h-5.5w-4b-L.solution"
+    "displayLink": "https://files.mors.technology/SOPHICK_MERCURY/190g-27c-25a-28i-T-3a955aca.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5c5df36d/P250/190g-28i-27c-25a-6h-5.5w-4b-4r-25a-6h-5.5w-4b-TL",
+    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/SOPHICK_MERCURY_190g-28i-27c-25a-6h-5.5w-4b-4r-25a-6h-5.5w-4b-TL.solution",
+    "lastModified": "2026-11-04T00:46:29.750838145Z"
 }
