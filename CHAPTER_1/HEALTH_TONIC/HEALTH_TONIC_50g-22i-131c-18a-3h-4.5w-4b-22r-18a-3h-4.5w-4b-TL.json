@@ -2,19 +2,19 @@
     "puzzle": "HEALTH_TONIC",
     "score": {
         "cost": 50,
-        "instructions": 27,
+        "instructions": 22,
         "overlap": false,
         "trackless": true,
-        "cycles": 161,
-        "area": 16,
+        "cycles": 131,
+        "area": 18,
         "height": 3,
         "width": 4.5,
         "boundingHex": 4,
         "looping": true,
-        "rate": 27.0,
+        "rate": 22.0,
         "areaINF": {
             "level": 0,
-            "value": 16.0
+            "value": 18.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/HEALTH_TONIC/50g-161c-16a-27i-T-abad1d0a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P014/50g-27i-161c-16a-3h-4.5w-4b-27r-16a-3h-4.5w-4b-TL",
-    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_50g-27i-161c-16a-3h-4.5w-4b-27r-16a-3h-4.5w-4b-TL.solution"
+    "displayLink": "https://files.mors.technology/HEALTH_TONIC/50g-131c-18a-22i-T-e511259d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f0404779/P014/50g-22i-131c-18a-3h-4.5w-4b-22r-18a-3h-4.5w-4b-TL",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_50g-22i-131c-18a-3h-4.5w-4b-22r-18a-3h-4.5w-4b-TL.solution",
+    "lastModified": "2026-11-04T13:47:44.300411952Z"
 }
