@@ -2,11 +2,11 @@
     "puzzle": "TOUCHSTONE",
     "score": {
         "cost": 1415,
-        "instructions": 408,
+        "instructions": 400,
         "overlap": false,
         "trackless": false,
         "cycles": 170,
-        "area": 293,
+        "area": 292,
         "height": 4,
         "width": 40.5,
         "boundingHex": 40,
@@ -14,7 +14,7 @@
         "rate": 10.0,
         "areaINF": {
             "level": 0,
-            "value": 293.0
+            "value": 292.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 40.0
         }
     },
-    "displayLink": "https://files.mors.technology/TOUCHSTONE/1415g-170c-293a-408i-d3431d2d.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P245/1415g-408i-170c-293a-4h-40.5w-40b-10r-293a-4h-40.5w-40b-L",
-    "dataPath": "JOURNAL_X/TOUCHSTONE/TOUCHSTONE_1415g-408i-170c-293a-4h-40.5w-40b-10r-293a-4h-40.5w-40b-L.solution"
+    "displayLink": "https://files.mors.technology/TOUCHSTONE/1415g-170c-292a-400i-1376cab2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7d4cc894/P245/1415g-400i-170c-292a-4h-40.5w-40b-10r-292a-4h-40.5w-40b-L",
+    "dataPath": "JOURNAL_X/TOUCHSTONE/TOUCHSTONE_1415g-400i-170c-292a-4h-40.5w-40b-10r-292a-4h-40.5w-40b-L.solution",
+    "lastModified": "2026-11-04T07:16:04.949062410Z"
 }
