@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": true,
         "cycles": 133,
-        "area": 57,
+        "area": 55,
         "height": 9,
         "width": 8.0,
         "boundingHex": 5,
@@ -14,7 +14,7 @@
         "rate": 22.0,
         "areaINF": {
             "level": 0,
-            "value": 57.0
+            "value": 55.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/250g-133c-57a-627i-T-9a38fc92.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/86f9c1d4/w3584639567/250g-627i-133c-57a-9h-8w-5b-22r-57a-9h-8w-5b-TL",
-    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_250g-627i-133c-57a-9h-8w-5b-22r-57a-9h-8w-5b-TL.solution",
-    "lastModified": "2026-11-05T14:39:42.447728791Z"
+    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/250g-133c-55a-627i-T-c1b56dc3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5c4ca9b3/w3584639567/250g-627i-133c-55a-9h-8w-5b-22r-55a-9h-8w-5b-TL",
+    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_250g-627i-133c-55a-9h-8w-5b-22r-55a-9h-8w-5b-TL.solution",
+    "lastModified": "2026-11-05T14:56:15.787853848Z"
 }
