@@ -1,12 +1,12 @@
 {
     "puzzle": "HEALTH_TONIC",
     "score": {
-        "cost": 180,
-        "instructions": 20,
+        "cost": 140,
+        "instructions": 18,
         "overlap": false,
         "trackless": true,
         "cycles": 39,
-        "area": 20,
+        "area": 19,
         "height": 3,
         "width": 5.0,
         "boundingHex": 5,
@@ -14,7 +14,7 @@
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 20.0
+            "value": 19.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/HEALTH_TONIC/180g-39c-20a-20i-T-75154047.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P014/180g-20i-39c-20a-3h-5w-5b-6r-20a-3h-5w-5b-TL",
-    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_180g-20i-39c-20a-3h-5w-5b-6r-20a-3h-5w-5b-TL.solution"
+    "displayLink": "https://files.mors.technology/HEALTH_TONIC/140g-39c-19a-18i-T-2cf189b7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0ce95b13/P014/140g-18i-39c-19a-3h-5w-5b-6r-19a-3h-5w-5b-TL",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_140g-18i-39c-19a-3h-5w-5b-6r-19a-3h-5w-5b-TL.solution",
+    "lastModified": "2026-11-05T11:28:22.565654991Z"
 }
