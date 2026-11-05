@@ -1,0 +1,27 @@
+{
+    "puzzle": "AETHER_REACTOR",
+    "score": {
+        "cost": 610,
+        "instructions": 878,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 92,
+        "area": 104,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 7.5,
+        "areaINF": {
+            "level": 0,
+            "value": 104.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/AETHER_REACTOR/610g-92c-104a-878i-7eda47ed.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/583146f7/w2788067624/610g-878i-92c-104a-7.5r-104a-L",
+    "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/AETHER_REACTOR_610g-878i-92c-104a-7.5r-104a-L.solution",
+    "lastModified": "2026-11-05T22:32:05.106171647Z"
+}
