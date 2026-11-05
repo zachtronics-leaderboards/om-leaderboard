@@ -1,14 +1,14 @@
 {
     "puzzle": "COMPOUND_ANAESTHETIC",
     "score": {
-        "cost": 2780,
-        "instructions": 1766,
+        "cost": 2730,
+        "instructions": 1692,
         "overlap": false,
         "trackless": false,
         "cycles": 115,
-        "area": 491,
+        "area": 487,
         "height": 5,
-        "width": 67.0,
+        "width": 67.5,
         "boundingHex": 67,
         "looping": true,
         "rate": 6.0,
@@ -29,7 +29,8 @@
             "value": 0.75
         }
     },
-    "displayLink": "https://files.mors.technology/COMPOUND_ANAESTHETIC/2780g-115c-491a-1766i-5e745544.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P244/2780g-1766i-115c-491a-5h-67w-67b-6r-3a1-5h-0.75w1-0.75b1-L",
-    "dataPath": "JOURNAL_XI/COMPOUND_ANAESTHETIC/COMPOUND_ANAESTHETIC_2780g-1766i-115c-491a-5h-67w-67b-6r-3a1-5h-0.75w1-0.75b1-L.solution"
+    "displayLink": "https://files.mors.technology/COMPOUND_ANAESTHETIC/2730g-115c-487a-1692i-9b9b5d91.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4b437139/P244/2730g-1692i-115c-487a-5h-67.5w-67b-6r-3a1-5h-0.75w1-0.75b1-L",
+    "dataPath": "JOURNAL_XI/COMPOUND_ANAESTHETIC/COMPOUND_ANAESTHETIC_2730g-1692i-115c-487a-5h-67.5w-67b-6r-3a1-5h-0.75w1-0.75b1-L.solution",
+    "lastModified": "2026-11-05T07:44:53.811021894Z"
 }
