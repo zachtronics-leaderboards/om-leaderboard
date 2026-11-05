@@ -2,16 +2,16 @@
     "puzzle": "TOUCHSTONE",
     "score": {
         "cost": 90,
-        "instructions": 383,
+        "instructions": 380,
         "overlap": false,
         "trackless": false,
-        "cycles": 1148,
+        "cycles": 1139,
         "area": 21,
         "height": 5,
         "width": 5.0,
         "boundingHex": 4,
         "looping": true,
-        "rate": 191.5,
+        "rate": 190.0,
         "areaINF": {
             "level": 0,
             "value": 21.0
@@ -29,8 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/TOUCHSTONE/90g-1148c-21a-383i-aaa42a1b.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/2bbf081e/P245/90g-383i-1148c-21a-5h-5w-4b-191.5r-21a-5h-5w-4b-L",
-    "dataPath": "JOURNAL_X/TOUCHSTONE/TOUCHSTONE_90g-383i-1148c-21a-5h-5w-4b-191.5r-21a-5h-5w-4b-L.solution",
-    "lastModified": "2026-11-04T07:12:15.708026927Z"
+    "displayLink": "https://files.mors.technology/TOUCHSTONE/90g-1139c-21a-380i-0c9ca12a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3f873b69/P245/90g-380i-1139c-21a-5h-5w-4b-190r-21a-5h-5w-4b-L",
+    "dataPath": "JOURNAL_X/TOUCHSTONE/TOUCHSTONE_90g-380i-1139c-21a-5h-5w-4b-190r-21a-5h-5w-4b-L.solution",
+    "lastModified": "2026-11-05T04:13:21.853447379Z"
 }
