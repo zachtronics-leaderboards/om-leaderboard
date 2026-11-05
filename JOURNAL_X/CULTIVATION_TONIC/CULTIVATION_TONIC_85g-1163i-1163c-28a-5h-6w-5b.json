@@ -1,0 +1,24 @@
+{
+    "puzzle": "CULTIVATION_TONIC",
+    "score": {
+        "cost": 85,
+        "instructions": 1163,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1163,
+        "area": 28,
+        "height": 5,
+        "width": 6.0,
+        "boundingHex": 5,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/CULTIVATION_TONIC/85g-1163c-28a-1163i-e301c143.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8da2d513/P249/85g-1163i-1163c-28a-5h-6w-5b",
+    "dataPath": "JOURNAL_X/CULTIVATION_TONIC/CULTIVATION_TONIC_85g-1163i-1163c-28a-5h-6w-5b.solution",
+    "lastModified": "2026-11-05T04:15:29.418913831Z"
+}
