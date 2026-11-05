@@ -2,7 +2,7 @@
     "puzzle": "BEAUTY_SALVE",
     "score": {
         "cost": 800,
-        "instructions": 249,
+        "instructions": 246,
         "overlap": false,
         "trackless": false,
         "cycles": 58,
@@ -29,7 +29,8 @@
             "value": 13.0
         }
     },
-    "displayLink": "https://i.imgur.com/PehOHYM.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P246/800g-249i-58c-90a-4h-14w-13b-4r-90a-4h-14w-13b-L",
-    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_800g-249i-58c-90a-4h-14w-13b-4r-90a-4h-14w-13b-L.solution"
+    "displayLink": "https://files.mors.technology/BEAUTY_SALVE/800g-58c-90a-246i-2aaa896c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4db5c493/P246/800g-246i-58c-90a-4h-14w-13b-4r-90a-4h-14w-13b-L",
+    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_800g-246i-58c-90a-4h-14w-13b-4r-90a-4h-14w-13b-L.solution",
+    "lastModified": "2026-11-05T04:14:44.067844792Z"
 }
