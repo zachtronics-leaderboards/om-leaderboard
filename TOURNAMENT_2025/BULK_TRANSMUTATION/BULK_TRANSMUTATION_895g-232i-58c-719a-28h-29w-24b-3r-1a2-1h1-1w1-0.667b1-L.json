@@ -1,0 +1,36 @@
+{
+    "puzzle": "BULK_TRANSMUTATION",
+    "score": {
+        "cost": 895,
+        "instructions": 232,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 58,
+        "area": 719,
+        "height": 28,
+        "width": 29.0,
+        "boundingHex": 24,
+        "looping": true,
+        "rate": 3.0,
+        "areaINF": {
+            "level": 2,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.6666666666666666
+        }
+    },
+    "displayLink": "https://files.mors.technology/BULK_TRANSMUTATION/895g-58c-719a-232i-931c25ee.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/02617675/w3446278995/895g-232i-58c-719a-28h-29w-24b-3r-1a2-1h1-1w1-0.667b1-L",
+    "dataPath": "TOURNAMENT_2025/BULK_TRANSMUTATION/BULK_TRANSMUTATION_895g-232i-58c-719a-28h-29w-24b-3r-1a2-1h1-1w1-0.667b1-L.solution",
+    "lastModified": "2026-11-05T23:42:57.525684452Z"
+}
