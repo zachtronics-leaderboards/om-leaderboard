@@ -1,0 +1,36 @@
+{
+    "puzzle": "BEAUTY_SALVE",
+    "score": {
+        "cost": 60,
+        "instructions": 85,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 534,
+        "area": 65,
+        "height": 9,
+        "width": 9.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 85.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/BEAUTY_SALVE/60g-534c-65a-85i-T-5ccafbe2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b1e9c238/P246/60g-85i-534c-65a-9h-9w-6b-85r-65a-9h-9w-6b-TL",
+    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_60g-85i-534c-65a-9h-9w-6b-85r-65a-9h-9w-6b-TL.solution",
+    "lastModified": "2026-11-05T04:14:05.200803611Z"
+}
