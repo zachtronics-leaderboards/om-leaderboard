@@ -1,24 +1,24 @@
 {
     "puzzle": "SMOG_NEUTRALIZATION",
     "score": {
-        "cost": 280,
+        "cost": 250,
         "instructions": 2,
         "overlap": true,
         "trackless": false,
         "cycles": 108,
-        "area": 30,
-        "height": 7,
+        "area": 29,
+        "height": 6,
         "width": 6.0,
         "boundingHex": 4,
         "looping": true,
         "rate": 20.0,
         "areaINF": {
             "level": 0,
-            "value": 30.0
+            "value": 29.0
         },
         "heightINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         },
         "widthINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/SMOG_NEUTRALIZATION/280g-108c-30a-2i-O-7ba9ea5b.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f6e7c278/w3584644954/280g-2i-108c-30a-7h-6w-4b-20r-30a-7h-6w-4b-OL",
-    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_280g-2i-108c-30a-7h-6w-4b-20r-30a-7h-6w-4b-OL.solution",
-    "lastModified": "2026-11-06T16:01:48.701488666Z"
+    "displayLink": "https://files.mors.technology/SMOG_NEUTRALIZATION/250g-108c-29a-2i-O-6e41a1ab.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f86b1dd7/w3584644954/250g-2i-108c-29a-6h-6w-4b-20r-29a-6h-6w-4b-OL",
+    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_250g-2i-108c-29a-6h-6w-4b-20r-29a-6h-6w-4b-OL.solution",
+    "lastModified": "2026-11-06T16:07:56.704479594Z"
 }
