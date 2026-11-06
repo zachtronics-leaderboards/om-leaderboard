@@ -1,8 +1,8 @@
 {
     "puzzle": "GREEN_VITRIOL",
     "score": {
-        "cost": 1050,
-        "instructions": 614,
+        "cost": 1020,
+        "instructions": 602,
         "overlap": false,
         "trackless": false,
         "cycles": 40,
@@ -29,7 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/GREEN_VITRIOL/1050g-40c-100a-614i-790e4dd3.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P240/1050g-614i-40c-100a-11h-9w-9b-6.5r-100a-11h-9w-9b-L",
-    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_1050g-614i-40c-100a-11h-9w-9b-6.5r-100a-11h-9w-9b-L.solution"
+    "displayLink": "https://files.mors.technology/GREEN_VITRIOL/1020g-40c-100a-602i-2d64f936.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3440cc3f/P240/1020g-602i-40c-100a-11h-9w-9b-6.5r-100a-11h-9w-9b-L",
+    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_1020g-602i-40c-100a-11h-9w-9b-6.5r-100a-11h-9w-9b-L.solution",
+    "lastModified": "2026-11-06T06:43:50.422056701Z"
 }
