@@ -1,0 +1,24 @@
+{
+    "puzzle": "ELECTRUM",
+    "score": {
+        "cost": 170,
+        "instructions": 5067,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 3768,
+        "area": 33,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 5,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://www.youtube.com/watch?v=jsJ0iXAslRQ",
+    "dataLink": "https://zlbb.faendir.com/l/om/0d0cd789/P303/170g-5067i-3768c-33a-7h-6.5w-5b",
+    "dataPath": "JOURNAL_CVIII_X/ELECTRUM/ELECTRUM_170g-5067i-3768c-33a-7h-6.5w-5b.solution",
+    "lastModified": "2026-11-07T09:54:01.126526029Z"
+}
