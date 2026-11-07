@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 64,
-        "area": 21,
+        "area": 20,
         "height": 3,
         "width": 5.5,
         "boundingHex": 5,
@@ -14,7 +14,7 @@
         "rate": 11.0,
         "areaINF": {
             "level": 0,
-            "value": 21.0
+            "value": 20.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/HEALTH_TONIC/75g-64c-21a-17i-f4edc091.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P014/75g-17i-64c-21a-3h-5.5w-5b-11r-21a-3h-5.5w-5b-L",
-    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_75g-17i-64c-21a-3h-5.5w-5b-11r-21a-3h-5.5w-5b-L.solution"
+    "displayLink": "https://files.mors.technology/HEALTH_TONIC/75g-64c-20a-17i-02f9e956.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5d8e733d/P014/75g-17i-64c-20a-3h-5.5w-5b-11r-20a-3h-5.5w-5b-L",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/HEALTH_TONIC_75g-17i-64c-20a-3h-5.5w-5b-11r-20a-3h-5.5w-5b-L.solution",
+    "lastModified": "2026-11-07T04:17:25.247269462Z"
 }
