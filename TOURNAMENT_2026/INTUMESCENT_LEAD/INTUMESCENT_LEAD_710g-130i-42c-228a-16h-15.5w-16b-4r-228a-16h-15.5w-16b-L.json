@@ -1,24 +1,24 @@
 {
     "puzzle": "INTUMESCENT_LEAD",
     "score": {
-        "cost": 730,
+        "cost": 710,
         "instructions": 130,
         "overlap": false,
         "trackless": false,
         "cycles": 42,
-        "area": 237,
-        "height": 18,
+        "area": 228,
+        "height": 16,
         "width": 15.5,
         "boundingHex": 16,
         "looping": true,
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 237.0
+            "value": 228.0
         },
         "heightINF": {
             "level": 0,
-            "value": 18.0
+            "value": 16.0
         },
         "widthINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 16.0
         }
     },
-    "displayLink": "https://files.mors.technology/INTUMESCENT_LEAD/730g-42c-237a-130i-b22e8a23.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/96627907/w3728200437/730g-130i-42c-237a-18h-15.5w-16b-4r-237a-18h-15.5w-16b-L",
-    "dataPath": "TOURNAMENT_2026/INTUMESCENT_LEAD/INTUMESCENT_LEAD_730g-130i-42c-237a-18h-15.5w-16b-4r-237a-18h-15.5w-16b-L.solution",
-    "lastModified": "2026-11-07T23:21:08.053243964Z"
+    "displayLink": "https://files.mors.technology/INTUMESCENT_LEAD/710g-42c-228a-130i-336ee18a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/6fe2c45c/w3728200437/710g-130i-42c-228a-16h-15.5w-16b-4r-228a-16h-15.5w-16b-L",
+    "dataPath": "TOURNAMENT_2026/INTUMESCENT_LEAD/INTUMESCENT_LEAD_710g-130i-42c-228a-16h-15.5w-16b-4r-228a-16h-15.5w-16b-L.solution",
+    "lastModified": "2026-11-07T23:28:06.854104215Z"
 }
