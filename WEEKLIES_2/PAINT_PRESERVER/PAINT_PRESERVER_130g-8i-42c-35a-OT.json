@@ -1,0 +1,24 @@
+{
+    "puzzle": "PAINT_PRESERVER",
+    "score": {
+        "cost": 130,
+        "instructions": 8,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 42,
+        "area": 35,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/PAINT_PRESERVER/130g-42c-35a-8i-OT-3742a598.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/43e77a87/w3817955175/130g-8i-42c-35a-OT",
+    "dataPath": "WEEKLIES_2/PAINT_PRESERVER/PAINT_PRESERVER_130g-8i-42c-35a-OT.solution",
+    "lastModified": "2026-11-08T21:32:18.647449336Z"
+}
