@@ -1,7 +1,7 @@
 {
     "puzzle": "SYNTHESIS_VIA_ALCOHOL",
     "score": {
-        "cost": 160,
+        "cost": 150,
         "instructions": 5,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/160g-140c-18a-5i-OT-b0b55793.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/56e2899f/P071/160g-5i-140c-18a-4h-4w-4b-24r-18a-4h-4w-4b-OTL",
-    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_160g-5i-140c-18a-4h-4w-4b-24r-18a-4h-4w-4b-OTL.solution",
-    "lastModified": "2026-11-08T09:16:11.756361136Z"
+    "displayLink": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/150g-140c-18a-5i-OT-9697ed5b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c73c66c8/P071/150g-5i-140c-18a-4h-4w-4b-24r-18a-4h-4w-4b-OTL",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_150g-5i-140c-18a-4h-4w-4b-24r-18a-4h-4w-4b-OTL.solution",
+    "lastModified": "2026-11-08T13:07:13.333548631Z"
 }
