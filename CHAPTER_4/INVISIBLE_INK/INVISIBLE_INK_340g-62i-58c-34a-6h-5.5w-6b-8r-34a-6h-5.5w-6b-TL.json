@@ -1,0 +1,36 @@
+{
+    "puzzle": "INVISIBLE_INK",
+    "score": {
+        "cost": 340,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 58,
+        "area": 34,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 34.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/INVISIBLE_INK/340g-58c-34a-62i-T-9f0e2671.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/451f5029/P032/340g-62i-58c-34a-6h-5.5w-6b-8r-34a-6h-5.5w-6b-TL",
+    "dataPath": "CHAPTER_4/INVISIBLE_INK/INVISIBLE_INK_340g-62i-58c-34a-6h-5.5w-6b-8r-34a-6h-5.5w-6b-TL.solution",
+    "lastModified": "2026-11-08T21:37:57.722031099Z"
+}
