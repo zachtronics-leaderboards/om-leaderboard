@@ -1,0 +1,36 @@
+{
+    "puzzle": "INTUMESCENT_LEAD",
+    "score": {
+        "cost": 825,
+        "instructions": 136,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 39,
+        "area": 238,
+        "height": 19,
+        "width": 17.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 238.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 17.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/INTUMESCENT_LEAD/825g-39c-238a-136i-bddadb4c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4d48d6ff/w3728200437/825g-136i-39c-238a-19h-17.5w-12b-4r-238a-19h-17.5w-12b-L",
+    "dataPath": "TOURNAMENT_2026/INTUMESCENT_LEAD/INTUMESCENT_LEAD_825g-136i-39c-238a-19h-17.5w-12b-4r-238a-19h-17.5w-12b-L.solution",
+    "lastModified": "2026-11-08T03:41:10.883665184Z"
+}
