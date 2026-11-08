@@ -5,7 +5,7 @@
         "instructions": 5,
         "overlap": true,
         "trackless": true,
-        "cycles": 140,
+        "cycles": 138,
         "area": 18,
         "height": 4,
         "width": 4.0,
@@ -29,8 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/150g-140c-18a-5i-OT-9697ed5b.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/c73c66c8/P071/150g-5i-140c-18a-4h-4w-4b-24r-18a-4h-4w-4b-OTL",
-    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_150g-5i-140c-18a-4h-4w-4b-24r-18a-4h-4w-4b-OTL.solution",
-    "lastModified": "2026-11-08T13:07:13.333548631Z"
+    "displayLink": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/150g-138c-18a-5i-OT-0590970f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a6ec7794/P071/150g-5i-138c-18a-4h-4w-4b-24r-18a-4h-4w-4b-OTL",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_150g-5i-138c-18a-4h-4w-4b-24r-18a-4h-4w-4b-OTL.solution",
+    "lastModified": "2026-11-08T13:11:42.215409362Z"
 }
