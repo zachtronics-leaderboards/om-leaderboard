@@ -5,20 +5,20 @@
         "instructions": 106,
         "overlap": false,
         "trackless": false,
-        "cycles": 35,
-        "area": 259,
-        "height": 20,
+        "cycles": 34,
+        "area": 234,
+        "height": 19,
         "width": 16.0,
         "boundingHex": 13,
         "looping": true,
         "rate": 4.0,
         "areaINF": {
             "level": 0,
-            "value": 259.0
+            "value": 234.0
         },
         "heightINF": {
             "level": 0,
-            "value": 20.0
+            "value": 19.0
         },
         "widthINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 13.0
         }
     },
-    "displayLink": "https://files.mors.technology/INTUMESCENT_LEAD/670g-35c-259a-106i-f593586a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/9f58c46f/w3728200437/670g-106i-35c-259a-20h-16w-13b-4r-259a-20h-16w-13b-L",
-    "dataPath": "TOURNAMENT_2026/INTUMESCENT_LEAD/INTUMESCENT_LEAD_670g-106i-35c-259a-20h-16w-13b-4r-259a-20h-16w-13b-L.solution",
-    "lastModified": "2026-11-08T04:36:42.042590433Z"
+    "displayLink": "https://files.mors.technology/INTUMESCENT_LEAD/670g-34c-234a-106i-b22c7e4a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7e2a32a4/w3728200437/670g-106i-34c-234a-19h-16w-13b-4r-234a-19h-16w-13b-L",
+    "dataPath": "TOURNAMENT_2026/INTUMESCENT_LEAD/INTUMESCENT_LEAD_670g-106i-34c-234a-19h-16w-13b-4r-234a-19h-16w-13b-L.solution",
+    "lastModified": "2026-11-08T05:46:15.717177263Z"
 }
