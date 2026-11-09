@@ -5,7 +5,7 @@
         "instructions": 27,
         "overlap": false,
         "trackless": true,
-        "cycles": 241,
+        "cycles": 240,
         "area": 148,
         "height": 14,
         "width": 13.0,
@@ -29,8 +29,8 @@
             "value": 10.0
         }
     },
-    "displayLink": "https://files.mors.technology/LODESTONE/360g-241c-148a-27i-T-82baf7f9.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/e76e0367/P256/360g-27i-241c-148a-14h-13w-10b-36r-148a-14h-13w-10b-TL",
-    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_360g-27i-241c-148a-14h-13w-10b-36r-148a-14h-13w-10b-TL.solution",
-    "lastModified": "2026-11-09T15:59:47.645706089Z"
+    "displayLink": "https://files.mors.technology/LODESTONE/360g-240c-148a-27i-T-d6f12699.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/48cd4980/P256/360g-27i-240c-148a-14h-13w-10b-36r-148a-14h-13w-10b-TL",
+    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_360g-27i-240c-148a-14h-13w-10b-36r-148a-14h-13w-10b-TL.solution",
+    "lastModified": "2026-11-09T16:54:27.672451710Z"
 }
