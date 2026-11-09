@@ -5,13 +5,13 @@
         "instructions": 100,
         "overlap": false,
         "trackless": true,
-        "cycles": 361,
+        "cycles": 355,
         "area": 21,
         "height": 5,
         "width": 5.0,
         "boundingHex": 4,
         "looping": true,
-        "rate": 60.0,
+        "rate": 59.0,
         "areaINF": {
             "level": 0,
             "value": 21.0
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/CUPRITE/100g-361c-21a-100i-T-e5576c56.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P253/100g-100i-361c-21a-5h-5w-4b-60r-21a-5h-5w-4b-TL",
-    "dataPath": "JOURNAL_XII/CUPRITE/CUPRITE_100g-100i-361c-21a-5h-5w-4b-60r-21a-5h-5w-4b-TL.solution"
+    "displayLink": "https://files.mors.technology/CUPRITE/100g-355c-21a-100i-T-19b67a09.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f8f23a69/P253/100g-100i-355c-21a-5h-5w-4b-59r-21a-5h-5w-4b-TL",
+    "dataPath": "JOURNAL_XII/CUPRITE/CUPRITE_100g-100i-355c-21a-5h-5w-4b-59r-21a-5h-5w-4b-TL.solution",
+    "lastModified": "2026-11-09T07:06:16.829978264Z"
 }
