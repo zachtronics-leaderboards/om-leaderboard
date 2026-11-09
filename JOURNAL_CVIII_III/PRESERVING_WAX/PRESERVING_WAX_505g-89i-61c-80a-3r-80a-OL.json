@@ -1,0 +1,27 @@
+{
+    "puzzle": "PRESERVING_WAX",
+    "score": {
+        "cost": 505,
+        "instructions": 89,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 61,
+        "area": 80,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 3.0,
+        "areaINF": {
+            "level": 0,
+            "value": 80.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/PRESERVING_WAX/505g-61c-80a-89i-O-9cb032ef.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/436440f4/P267/505g-89i-61c-80a-3r-80a-OL",
+    "dataPath": "JOURNAL_CVIII_III/PRESERVING_WAX/PRESERVING_WAX_505g-89i-61c-80a-3r-80a-OL.solution",
+    "lastModified": "2026-11-09T21:46:06.941510618Z"
+}
