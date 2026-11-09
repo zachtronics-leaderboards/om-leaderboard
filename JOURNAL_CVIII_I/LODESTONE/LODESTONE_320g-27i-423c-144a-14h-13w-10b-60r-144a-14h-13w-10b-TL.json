@@ -5,16 +5,16 @@
         "instructions": 27,
         "overlap": false,
         "trackless": true,
-        "cycles": 506,
-        "area": 145,
+        "cycles": 423,
+        "area": 144,
         "height": 14,
         "width": 13.0,
         "boundingHex": 10,
         "looping": true,
-        "rate": 72.0,
+        "rate": 60.0,
         "areaINF": {
             "level": 0,
-            "value": 145.0
+            "value": 144.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 10.0
         }
     },
-    "displayLink": "https://files.mors.technology/LODESTONE/320g-506c-145a-27i-T-fea6ce90.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/83f4033f/P256/320g-27i-506c-145a-14h-13w-10b-72r-145a-14h-13w-10b-TL",
-    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_320g-27i-506c-145a-14h-13w-10b-72r-145a-14h-13w-10b-TL.solution",
-    "lastModified": "2026-11-08T20:31:52.392514978Z"
+    "displayLink": "https://files.mors.technology/LODESTONE/320g-423c-144a-27i-T-afe1aa04.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ffc917e5/P256/320g-27i-423c-144a-14h-13w-10b-60r-144a-14h-13w-10b-TL",
+    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_320g-27i-423c-144a-14h-13w-10b-60r-144a-14h-13w-10b-TL.solution",
+    "lastModified": "2026-11-09T15:17:22.335769044Z"
 }
