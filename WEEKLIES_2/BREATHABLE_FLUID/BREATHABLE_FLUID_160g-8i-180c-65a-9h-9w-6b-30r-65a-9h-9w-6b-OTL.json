@@ -1,0 +1,36 @@
+{
+    "puzzle": "BREATHABLE_FLUID",
+    "score": {
+        "cost": 160,
+        "instructions": 8,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 180,
+        "area": 65,
+        "height": 9,
+        "width": 9.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/BREATHABLE_FLUID/160g-180c-65a-8i-OT-2607c28f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9315aeb0/w3303849741/160g-8i-180c-65a-9h-9w-6b-30r-65a-9h-9w-6b-OTL",
+    "dataPath": "WEEKLIES_2/BREATHABLE_FLUID/BREATHABLE_FLUID_160g-8i-180c-65a-9h-9w-6b-30r-65a-9h-9w-6b-OTL.solution",
+    "lastModified": "2026-11-09T21:08:11.790128789Z"
+}
