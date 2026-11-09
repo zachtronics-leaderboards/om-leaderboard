@@ -5,7 +5,7 @@
         "instructions": 7,
         "overlap": true,
         "trackless": true,
-        "cycles": 127,
+        "cycles": 126,
         "area": 126,
         "height": 14,
         "width": 10.5,
@@ -29,8 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/INVISIBLE_INK/210g-127c-126a-7i-OT-93321413.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/54bcb9a2/P032/210g-7i-127c-126a-14h-10.5w-9b-20r-126a-14h-10.5w-9b-OTL",
-    "dataPath": "CHAPTER_4/INVISIBLE_INK/INVISIBLE_INK_210g-7i-127c-126a-14h-10.5w-9b-20r-126a-14h-10.5w-9b-OTL.solution",
-    "lastModified": "2026-11-09T13:26:04.691594943Z"
+    "displayLink": "https://files.mors.technology/INVISIBLE_INK/210g-126c-126a-7i-OT-59cd7cda.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f0b60f77/P032/210g-7i-126c-126a-14h-10.5w-9b-20r-126a-14h-10.5w-9b-OTL",
+    "dataPath": "CHAPTER_4/INVISIBLE_INK/INVISIBLE_INK_210g-7i-126c-126a-14h-10.5w-9b-20r-126a-14h-10.5w-9b-OTL.solution",
+    "lastModified": "2026-11-09T13:32:03.315064559Z"
 }
