@@ -1,0 +1,27 @@
+{
+    "puzzle": "TEMPERED_GLASS",
+    "score": {
+        "cost": 490,
+        "instructions": 83,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 76,
+        "area": 57,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 57.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/TEMPERED_GLASS/490g-76c-57a-83i-O-a47af461.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bb3e7854/P301/490g-83i-76c-57a-5r-57a-OL",
+    "dataPath": "JOURNAL_CVIII_X/TEMPERED_GLASS/TEMPERED_GLASS_490g-83i-76c-57a-5r-57a-OL.solution",
+    "lastModified": "2026-11-10T08:45:31.203159707Z"
+}
