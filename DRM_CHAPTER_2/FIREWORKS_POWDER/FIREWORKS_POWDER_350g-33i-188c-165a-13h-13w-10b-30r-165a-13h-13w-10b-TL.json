@@ -5,16 +5,16 @@
         "instructions": 33,
         "overlap": false,
         "trackless": true,
-        "cycles": 491,
-        "area": 166,
+        "cycles": 188,
+        "area": 165,
         "height": 13,
         "width": 13.0,
         "boundingHex": 10,
         "looping": true,
-        "rate": 78.0,
+        "rate": 30.0,
         "areaINF": {
             "level": 0,
-            "value": 166.0
+            "value": 165.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 10.0
         }
     },
-    "displayLink": "https://files.mors.technology/FIREWORKS_POWDER/350g-491c-166a-33i-T-d7300f84.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/35ac9fda/P211/350g-33i-491c-166a-13h-13w-10b-78r-166a-13h-13w-10b-TL",
-    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_350g-33i-491c-166a-13h-13w-10b-78r-166a-13h-13w-10b-TL.solution",
-    "lastModified": "2026-11-10T16:38:17.530025223Z"
+    "displayLink": "https://files.mors.technology/FIREWORKS_POWDER/350g-188c-165a-33i-T-af91d3fa.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/645e10e6/P211/350g-33i-188c-165a-13h-13w-10b-30r-165a-13h-13w-10b-TL",
+    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_350g-33i-188c-165a-13h-13w-10b-30r-165a-13h-13w-10b-TL.solution",
+    "lastModified": "2026-11-10T16:59:59.620378400Z"
 }
