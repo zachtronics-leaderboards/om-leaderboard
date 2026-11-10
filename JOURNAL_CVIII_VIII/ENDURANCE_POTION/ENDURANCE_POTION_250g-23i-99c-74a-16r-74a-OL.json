@@ -1,0 +1,27 @@
+{
+    "puzzle": "ENDURANCE_POTION",
+    "score": {
+        "cost": 250,
+        "instructions": 23,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 99,
+        "area": 74,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 0,
+            "value": 74.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/ENDURANCE_POTION/250g-99c-74a-23i-O-b38562a9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bead1365/P293/250g-23i-99c-74a-16r-74a-OL",
+    "dataPath": "JOURNAL_CVIII_VIII/ENDURANCE_POTION/ENDURANCE_POTION_250g-23i-99c-74a-16r-74a-OL.solution",
+    "lastModified": "2026-11-10T20:34:17.816164184Z"
+}
