@@ -1,0 +1,36 @@
+{
+    "puzzle": "INDUCTIVE_FOIL",
+    "score": {
+        "cost": 195,
+        "instructions": 410,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 2454,
+        "area": 64,
+        "height": 9,
+        "width": 6.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 410.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/INDUCTIVE_FOIL/195g-2454c-64a-410i-2d0cf5ad.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4377d456/P280/195g-410i-2454c-64a-9h-6.5w-8b-410r-64a-9h-6.5w-8b-L",
+    "dataPath": "JOURNAL_CVIII_VI/INDUCTIVE_FOIL/INDUCTIVE_FOIL_195g-410i-2454c-64a-9h-6.5w-8b-410r-64a-9h-6.5w-8b-L.solution",
+    "lastModified": "2026-11-10T17:04:48.670464413Z"
+}
