@@ -2,7 +2,7 @@
     "puzzle": "PANACEA",
     "score": {
         "cost": 610,
-        "instructions": 187,
+        "instructions": 179,
         "overlap": true,
         "trackless": true,
         "cycles": 33,
@@ -29,7 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/PANACEA/610g-33c-62a-187i-O-T-fd003067.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w1698789743/610g-187i-33c-62a-10h-9w-6b-4.58r-63a-10h-9w-6b-OTL",
-    "dataPath": "TOURNAMENT_2019/PANACEA/PANACEA_610g-187i-33c-62a-10h-9w-6b-4.58r-63a-10h-9w-6b-OTL.solution"
+    "displayLink": "https://files.mors.technology/PANACEA/610g-33c-62a-179i-OT-dd8af303.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b84330a8/w1698789743/610g-179i-33c-62a-10h-9w-6b-4.58r-63a-10h-9w-6b-OTL",
+    "dataPath": "TOURNAMENT_2019/PANACEA/PANACEA_610g-179i-33c-62a-10h-9w-6b-4.58r-63a-10h-9w-6b-OTL.solution",
+    "lastModified": "2026-11-10T07:30:22.454679173Z"
 }
