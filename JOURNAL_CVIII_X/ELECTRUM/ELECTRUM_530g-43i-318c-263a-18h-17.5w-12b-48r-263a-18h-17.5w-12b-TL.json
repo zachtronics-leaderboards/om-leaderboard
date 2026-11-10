@@ -5,13 +5,13 @@
         "instructions": 43,
         "overlap": false,
         "trackless": true,
-        "cycles": 403,
+        "cycles": 318,
         "area": 263,
         "height": 18,
         "width": 17.5,
         "boundingHex": 12,
         "looping": true,
-        "rate": 60.0,
+        "rate": 48.0,
         "areaINF": {
             "level": 0,
             "value": 263.0
@@ -29,8 +29,8 @@
             "value": 12.0
         }
     },
-    "displayLink": "https://files.mors.technology/ELECTRUM/530g-403c-263a-43i-T-6ac4d344.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/e5d2d9a9/P303/530g-43i-403c-263a-18h-17.5w-12b-60r-263a-18h-17.5w-12b-TL",
-    "dataPath": "JOURNAL_CVIII_X/ELECTRUM/ELECTRUM_530g-43i-403c-263a-18h-17.5w-12b-60r-263a-18h-17.5w-12b-TL.solution",
-    "lastModified": "2026-11-10T13:48:27.454284043Z"
+    "displayLink": "https://files.mors.technology/ELECTRUM/530g-318c-263a-43i-T-f238263a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7e90131d/P303/530g-43i-318c-263a-18h-17.5w-12b-48r-263a-18h-17.5w-12b-TL",
+    "dataPath": "JOURNAL_CVIII_X/ELECTRUM/ELECTRUM_530g-43i-318c-263a-18h-17.5w-12b-48r-263a-18h-17.5w-12b-TL.solution",
+    "lastModified": "2026-11-10T14:12:13.855915269Z"
 }
