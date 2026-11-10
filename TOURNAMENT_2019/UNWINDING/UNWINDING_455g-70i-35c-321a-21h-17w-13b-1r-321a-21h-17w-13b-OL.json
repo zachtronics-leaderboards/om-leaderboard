@@ -2,7 +2,7 @@
     "puzzle": "UNWINDING",
     "score": {
         "cost": 455,
-        "instructions": 71,
+        "instructions": 70,
         "overlap": true,
         "trackless": false,
         "cycles": 35,
@@ -29,7 +29,8 @@
             "value": 13.0
         }
     },
-    "displayLink": "https://files.mors.technology/UNWINDING/455g-35c-321a-71i-O-a7d2dad5.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w1611998067/455g-71i-35c-321a-21h-17w-13b-1r-321a-21h-17w-13b-OL",
-    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_455g-71i-35c-321a-21h-17w-13b-1r-321a-21h-17w-13b-OL.solution"
+    "displayLink": "https://files.mors.technology/UNWINDING/455g-35c-321a-70i-O-048facf6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bd1ad10e/w1611998067/455g-70i-35c-321a-21h-17w-13b-1r-321a-21h-17w-13b-OL",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_455g-70i-35c-321a-21h-17w-13b-1r-321a-21h-17w-13b-OL.solution",
+    "lastModified": "2026-11-10T07:29:36.793517510Z"
 }
