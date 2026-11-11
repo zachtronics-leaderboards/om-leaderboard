@@ -1,12 +1,12 @@
 {
     "puzzle": "RESIN_GLUE",
     "score": {
-        "cost": 470,
+        "cost": 460,
         "instructions": 21,
         "overlap": false,
         "trackless": true,
         "cycles": 59,
-        "area": 183,
+        "area": 173,
         "height": 15,
         "width": 14.0,
         "boundingHex": 11,
@@ -14,7 +14,7 @@
         "rate": 6.0,
         "areaINF": {
             "level": 0,
-            "value": 183.0
+            "value": 173.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 11.0
         }
     },
-    "displayLink": "https://files.mors.technology/RESIN_GLUE/470g-59c-183a-21i-T-0c350640.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/560179ae/P309/470g-21i-59c-183a-15h-14w-11b-6r-183a-15h-14w-11b-TL",
-    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_470g-21i-59c-183a-15h-14w-11b-6r-183a-15h-14w-11b-TL.solution",
-    "lastModified": "2026-11-11T01:58:02.200047037Z"
+    "displayLink": "https://files.mors.technology/RESIN_GLUE/460g-59c-173a-21i-T-3a9c4210.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/30286b3e/P309/460g-21i-59c-173a-15h-14w-11b-6r-173a-15h-14w-11b-TL",
+    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_460g-21i-59c-173a-15h-14w-11b-6r-173a-15h-14w-11b-TL.solution",
+    "lastModified": "2026-11-11T06:51:11.109050397Z"
 }
