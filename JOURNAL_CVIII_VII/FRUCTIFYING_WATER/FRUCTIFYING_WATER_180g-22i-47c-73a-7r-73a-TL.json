@@ -5,13 +5,13 @@
         "instructions": 22,
         "overlap": false,
         "trackless": true,
-        "cycles": 52,
+        "cycles": 47,
         "area": 73,
         "height": null,
         "width": null,
         "boundingHex": null,
         "looping": true,
-        "rate": 8.0,
+        "rate": 7.0,
         "areaINF": {
             "level": 0,
             "value": 73.0
@@ -20,8 +20,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/FRUCTIFYING_WATER/180g-52c-73a-22i-T-281ce59a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/c33de27f/P289/180g-22i-52c-73a-8r-73a-TL",
-    "dataPath": "JOURNAL_CVIII_VII/FRUCTIFYING_WATER/FRUCTIFYING_WATER_180g-22i-52c-73a-8r-73a-TL.solution",
-    "lastModified": "2026-11-07T04:24:46.379427476Z"
+    "displayLink": "https://files.mors.technology/FRUCTIFYING_WATER/180g-47c-73a-22i-T-4a2966cd.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/36144475/P289/180g-22i-47c-73a-7r-73a-TL",
+    "dataPath": "JOURNAL_CVIII_VII/FRUCTIFYING_WATER/FRUCTIFYING_WATER_180g-22i-47c-73a-7r-73a-TL.solution",
+    "lastModified": "2026-11-11T11:49:34.529139594Z"
 }
