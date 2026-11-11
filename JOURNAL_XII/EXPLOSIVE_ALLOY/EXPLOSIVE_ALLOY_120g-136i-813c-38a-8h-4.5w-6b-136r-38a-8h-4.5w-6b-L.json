@@ -2,19 +2,19 @@
     "puzzle": "EXPLOSIVE_ALLOY",
     "score": {
         "cost": 120,
-        "instructions": 172,
+        "instructions": 136,
         "overlap": false,
         "trackless": false,
-        "cycles": 1028,
-        "area": 37,
+        "cycles": 813,
+        "area": 38,
         "height": 8,
         "width": 4.5,
         "boundingHex": 6,
         "looping": true,
-        "rate": 172.0,
+        "rate": 136.0,
         "areaINF": {
             "level": 0,
-            "value": 37.0
+            "value": 38.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/EXPLOSIVE_ALLOY/120g-1028c-37a-172i-5b223d6b.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/c098b776/P251/120g-172i-1028c-37a-8h-4.5w-6b-172r-37a-8h-4.5w-6b-L",
-    "dataPath": "JOURNAL_XII/EXPLOSIVE_ALLOY/EXPLOSIVE_ALLOY_120g-172i-1028c-37a-8h-4.5w-6b-172r-37a-8h-4.5w-6b-L.solution",
-    "lastModified": "2026-11-09T19:04:46.465928301Z"
+    "displayLink": "https://files.mors.technology/EXPLOSIVE_ALLOY/120g-813c-38a-136i-c078c4bf.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9a8eb6aa/P251/120g-136i-813c-38a-8h-4.5w-6b-136r-38a-8h-4.5w-6b-L",
+    "dataPath": "JOURNAL_XII/EXPLOSIVE_ALLOY/EXPLOSIVE_ALLOY_120g-136i-813c-38a-8h-4.5w-6b-136r-38a-8h-4.5w-6b-L.solution",
+    "lastModified": "2026-11-11T06:44:29.407253830Z"
 }
