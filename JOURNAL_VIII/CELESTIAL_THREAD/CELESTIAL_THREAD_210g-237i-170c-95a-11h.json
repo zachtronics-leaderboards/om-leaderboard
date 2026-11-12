@@ -2,7 +2,7 @@
     "puzzle": "CELESTIAL_THREAD",
     "score": {
         "cost": 210,
-        "instructions": 667,
+        "instructions": 237,
         "overlap": false,
         "trackless": false,
         "cycles": 170,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/CELESTIAL_THREAD/210g-170c-95a-667i-e7ea9063.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/7f4c347e/P101/210g-667i-170c-95a-11h",
-    "dataPath": "JOURNAL_VIII/CELESTIAL_THREAD/CELESTIAL_THREAD_210g-667i-170c-95a-11h.solution",
-    "lastModified": "2026-11-12T04:37:40.368138350Z"
+    "displayLink": "https://files.mors.technology/CELESTIAL_THREAD/210g-170c-95a-237i-b366cb07.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e7a5c38c/P101/210g-237i-170c-95a-11h",
+    "dataPath": "JOURNAL_VIII/CELESTIAL_THREAD/CELESTIAL_THREAD_210g-237i-170c-95a-11h.solution",
+    "lastModified": "2026-11-12T08:09:56.558279565Z"
 }
