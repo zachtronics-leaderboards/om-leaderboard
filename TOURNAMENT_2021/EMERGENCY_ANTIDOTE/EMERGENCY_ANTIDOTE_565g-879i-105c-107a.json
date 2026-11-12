@@ -2,7 +2,7 @@
     "puzzle": "EMERGENCY_ANTIDOTE",
     "score": {
         "cost": 565,
-        "instructions": 887,
+        "instructions": 879,
         "overlap": false,
         "trackless": false,
         "cycles": 105,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/EMERGENCY_ANTIDOTE/565g-105c-107a-887i-a48e8113.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2450512232/565g-887i-105c-107a",
-    "dataPath": "TOURNAMENT_2021/EMERGENCY_ANTIDOTE/EMERGENCY_ANTIDOTE_565g-887i-105c-107a.solution"
+    "displayLink": "https://files.mors.technology/EMERGENCY_ANTIDOTE/565g-105c-107a-879i-33775dc9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5c29a639/w2450512232/565g-879i-105c-107a",
+    "dataPath": "TOURNAMENT_2021/EMERGENCY_ANTIDOTE/EMERGENCY_ANTIDOTE_565g-879i-105c-107a.solution",
+    "lastModified": "2026-11-12T03:59:29.582530947Z"
 }
