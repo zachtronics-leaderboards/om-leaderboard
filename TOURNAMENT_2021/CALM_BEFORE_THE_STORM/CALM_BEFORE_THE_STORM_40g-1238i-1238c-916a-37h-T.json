@@ -1,0 +1,24 @@
+{
+    "puzzle": "CALM_BEFORE_THE_STORM",
+    "score": {
+        "cost": 40,
+        "instructions": 1238,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1238,
+        "area": 916,
+        "height": 37,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/CALM_BEFORE_THE_STORM/40g-1238c-916a-1238i-T-6b770eb2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/be9dc7a4/w2450512434/40g-1238i-1238c-916a-37h-T",
+    "dataPath": "TOURNAMENT_2021/CALM_BEFORE_THE_STORM/CALM_BEFORE_THE_STORM_40g-1238i-1238c-916a-37h-T.solution",
+    "lastModified": "2026-11-12T07:08:08.342745910Z"
+}
