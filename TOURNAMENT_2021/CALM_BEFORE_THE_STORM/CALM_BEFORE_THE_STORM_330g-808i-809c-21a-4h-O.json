@@ -2,7 +2,7 @@
     "puzzle": "CALM_BEFORE_THE_STORM",
     "score": {
         "cost": 330,
-        "instructions": 853,
+        "instructions": 808,
         "overlap": true,
         "trackless": false,
         "cycles": 809,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/Calm-before-the-Storm-330g-809c-21a-853i-4h-8w-O-f33f04.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2450512434/330g-853i-809c-21a-4h-O",
-    "dataPath": "TOURNAMENT_2021/CALM_BEFORE_THE_STORM/CALM_BEFORE_THE_STORM_330g-853i-809c-21a-4h-O.solution"
+    "displayLink": "https://files.mors.technology/CALM_BEFORE_THE_STORM/330g-809c-21a-808i-O-bc217e85.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/664cc5ae/w2450512434/330g-808i-809c-21a-4h-O",
+    "dataPath": "TOURNAMENT_2021/CALM_BEFORE_THE_STORM/CALM_BEFORE_THE_STORM_330g-808i-809c-21a-4h-O.solution",
+    "lastModified": "2026-11-12T07:09:23.366066595Z"
 }
