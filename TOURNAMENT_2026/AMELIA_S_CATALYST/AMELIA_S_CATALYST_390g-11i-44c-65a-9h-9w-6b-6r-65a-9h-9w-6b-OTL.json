@@ -1,0 +1,36 @@
+{
+    "puzzle": "AMELIA_S_CATALYST",
+    "score": {
+        "cost": 390,
+        "instructions": 11,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 44,
+        "area": 65,
+        "height": 9,
+        "width": 9.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/AMELIA_S_CATALYST/390g-44c-65a-11i-OT-5762f7ba.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/37e73b37/w3728200264/390g-11i-44c-65a-9h-9w-6b-6r-65a-9h-9w-6b-OTL",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_390g-11i-44c-65a-9h-9w-6b-6r-65a-9h-9w-6b-OTL.solution",
+    "lastModified": "2026-11-13T16:41:26.345847640Z"
+}
