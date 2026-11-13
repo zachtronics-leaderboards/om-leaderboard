@@ -2,16 +2,16 @@
     "puzzle": "MINERAL_OIL",
     "score": {
         "cost": 135,
-        "instructions": 582,
+        "instructions": 472,
         "overlap": false,
         "trackless": false,
-        "cycles": 3488,
+        "cycles": 2828,
         "area": 45,
         "height": 7,
         "width": 7.0,
         "boundingHex": 6,
         "looping": true,
-        "rate": 582.0,
+        "rate": 472.0,
         "areaINF": {
             "level": 0,
             "value": 45.0
@@ -29,8 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/MINERAL_OIL/135g-3488c-45a-582i-abc5354a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5cf82fce/P307/135g-582i-3488c-45a-7h-7w-6b-582r-45a-7h-7w-6b-L",
-    "dataPath": "JOURNAL_CVIII_XI/MINERAL_OIL/MINERAL_OIL_135g-582i-3488c-45a-7h-7w-6b-582r-45a-7h-7w-6b-L.solution",
-    "lastModified": "2026-11-13T03:55:52.059502914Z"
+    "displayLink": "https://files.mors.technology/MINERAL_OIL/135g-2828c-45a-472i-dc44c519.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e0a4d0b1/P307/135g-472i-2828c-45a-7h-7w-6b-472r-45a-7h-7w-6b-L",
+    "dataPath": "JOURNAL_CVIII_XI/MINERAL_OIL/MINERAL_OIL_135g-472i-2828c-45a-7h-7w-6b-472r-45a-7h-7w-6b-L.solution",
+    "lastModified": "2026-11-13T05:33:36.331002889Z"
 }
