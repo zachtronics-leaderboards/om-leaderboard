@@ -2,7 +2,7 @@
     "puzzle": "ACTIVE_POLYMERASE",
     "score": {
         "cost": 730,
-        "instructions": 222,
+        "instructions": 218,
         "overlap": false,
         "trackless": false,
         "cycles": 63,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/ACTIVE_POLYMERASE/730g-63c-62a-222i-b926f4d7.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2501728219/730g-222i-63c-62a-10h-9w-7b-8r-62a-10h-9w-7b-L",
-    "dataPath": "TOURNAMENT_2020/ACTIVE_POLYMERASE/ACTIVE_POLYMERASE_730g-222i-63c-62a-10h-9w-7b-8r-62a-10h-9w-7b-L.solution"
+    "displayLink": "https://files.mors.technology/ACTIVE_POLYMERASE/730g-63c-62a-218i-b3ee9b0a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/81a39b9c/w2501728219/730g-218i-63c-62a-10h-9w-7b-8r-62a-10h-9w-7b-L",
+    "dataPath": "TOURNAMENT_2020/ACTIVE_POLYMERASE/ACTIVE_POLYMERASE_730g-218i-63c-62a-10h-9w-7b-8r-62a-10h-9w-7b-L.solution",
+    "lastModified": "2026-11-13T06:57:19.091187202Z"
 }
