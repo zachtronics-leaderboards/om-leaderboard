@@ -2,19 +2,19 @@
     "puzzle": "AMELIA_S_CATALYST",
     "score": {
         "cost": 420,
-        "instructions": 16,
+        "instructions": 14,
         "overlap": true,
         "trackless": true,
-        "cycles": 42,
-        "area": 72,
+        "cycles": 36,
+        "area": 66,
         "height": 9,
         "width": 9.5,
         "boundingHex": 7,
         "looping": true,
-        "rate": 6.0,
+        "rate": 5.0,
         "areaINF": {
             "level": 0,
-            "value": 72.0
+            "value": 66.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/AMELIA_S_CATALYST/420g-42c-72a-16i-OT-bc1b45a4.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/87d7a1a0/w3728200264/420g-16i-42c-72a-9h-9.5w-7b-6r-72a-9h-9.5w-7b-OTL",
-    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_420g-16i-42c-72a-9h-9.5w-7b-6r-72a-9h-9.5w-7b-OTL.solution",
-    "lastModified": "2026-11-13T16:05:28.195651319Z"
+    "displayLink": "https://files.mors.technology/AMELIA_S_CATALYST/420g-36c-66a-14i-OT-eee5fb97.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9036b60a/w3728200264/420g-14i-36c-66a-9h-9.5w-7b-5r-66a-9h-9.5w-7b-OTL",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_420g-14i-36c-66a-9h-9.5w-7b-5r-66a-9h-9.5w-7b-OTL.solution",
+    "lastModified": "2026-11-13T16:32:23.433635582Z"
 }
