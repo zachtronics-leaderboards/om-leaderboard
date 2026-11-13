@@ -1,0 +1,36 @@
+{
+    "puzzle": "VAN_BERLO_S_ROTOR",
+    "score": {
+        "cost": 725,
+        "instructions": 380,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 191,
+        "area": 125,
+        "height": 15,
+        "width": 13.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 125.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_ROTOR/725g-191c-125a-380i-60c57853.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/13c5234a/w3817954043/725g-380i-191c-125a-15h-13.5w-9b-8r-125a-15h-13.5w-9b-L",
+    "dataPath": "WEEKLIES_2/VAN_BERLO_S_ROTOR/VAN_BERLO_S_ROTOR_725g-380i-191c-125a-15h-13.5w-9b-8r-125a-15h-13.5w-9b-L.solution",
+    "lastModified": "2026-11-13T23:41:38.646757037Z"
+}
