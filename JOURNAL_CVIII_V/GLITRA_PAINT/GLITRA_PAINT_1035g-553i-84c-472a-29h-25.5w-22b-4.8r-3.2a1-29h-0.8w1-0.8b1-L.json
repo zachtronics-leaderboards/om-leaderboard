@@ -6,10 +6,10 @@
         "overlap": false,
         "trackless": false,
         "cycles": 84,
-        "area": 493,
+        "area": 472,
         "height": 29,
-        "width": 26.0,
-        "boundingHex": 23,
+        "width": 25.5,
+        "boundingHex": 22,
         "looping": true,
         "rate": 4.8,
         "areaINF": {
@@ -29,8 +29,8 @@
             "value": 0.8
         }
     },
-    "displayLink": "https://files.mors.technology/GLITRA_PAINT/1035g-84c-493a-553i-4bc8a9ac.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/3808cb6d/P275/1035g-553i-84c-493a-29h-26w-23b-4.8r-3.2a1-29h-0.8w1-0.8b1-L",
-    "dataPath": "JOURNAL_CVIII_V/GLITRA_PAINT/GLITRA_PAINT_1035g-553i-84c-493a-29h-26w-23b-4.8r-3.2a1-29h-0.8w1-0.8b1-L.solution",
-    "lastModified": "2026-11-13T17:52:06.341290400Z"
+    "displayLink": "https://files.mors.technology/GLITRA_PAINT/1035g-84c-472a-553i-49a903aa.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/aa74ee0e/P275/1035g-553i-84c-472a-29h-25.5w-22b-4.8r-3.2a1-29h-0.8w1-0.8b1-L",
+    "dataPath": "JOURNAL_CVIII_V/GLITRA_PAINT/GLITRA_PAINT_1035g-553i-84c-472a-29h-25.5w-22b-4.8r-3.2a1-29h-0.8w1-0.8b1-L.solution",
+    "lastModified": "2026-11-13T18:36:21.564484935Z"
 }
