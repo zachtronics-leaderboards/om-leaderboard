@@ -2,7 +2,7 @@
     "puzzle": "POTENT_POTABLES",
     "score": {
         "cost": 280,
-        "instructions": 54,
+        "instructions": 50,
         "overlap": false,
         "trackless": true,
         "cycles": 42,
@@ -29,7 +29,8 @@
             "value": 10.0
         }
     },
-    "displayLink": "https://files.mors.technology/POTENT_POTABLES/280g-42c-129a-54i-T-c43ec792.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2501727721/280g-54i-42c-129a-14h-11.5w-10b-4r-129a-14h-11.5w-10b-TL",
-    "dataPath": "TOURNAMENT_2020/POTENT_POTABLES/POTENT_POTABLES_280g-54i-42c-129a-14h-11.5w-10b-4r-129a-14h-11.5w-10b-TL.solution"
+    "displayLink": "https://files.mors.technology/POTENT_POTABLES/280g-42c-129a-50i-T-115a8382.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bdfeb5b0/w2501727721/280g-50i-42c-129a-14h-11.5w-10b-4r-129a-14h-11.5w-10b-TL",
+    "dataPath": "TOURNAMENT_2020/POTENT_POTABLES/POTENT_POTABLES_280g-50i-42c-129a-14h-11.5w-10b-4r-129a-14h-11.5w-10b-TL.solution",
+    "lastModified": "2026-11-13T06:56:23.383044638Z"
 }
