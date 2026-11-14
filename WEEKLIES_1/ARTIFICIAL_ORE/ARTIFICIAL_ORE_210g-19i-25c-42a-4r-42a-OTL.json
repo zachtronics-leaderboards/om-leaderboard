@@ -1,0 +1,27 @@
+{
+    "puzzle": "ARTIFICIAL_ORE",
+    "score": {
+        "cost": 210,
+        "instructions": 19,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 25,
+        "area": 42,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 42.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/ARTIFICIAL_ORE/210g-25c-42a-19i-OT-aad361ca.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/85b7f243/w2591419339/210g-19i-25c-42a-4r-42a-OTL",
+    "dataPath": "WEEKLIES_1/ARTIFICIAL_ORE/ARTIFICIAL_ORE_210g-19i-25c-42a-4r-42a-OTL.solution",
+    "lastModified": "2026-11-14T06:29:43.826160431Z"
+}
