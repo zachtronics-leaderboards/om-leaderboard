@@ -2,7 +2,7 @@
     "puzzle": "VAN_BERLO_S_ROTOR",
     "score": {
         "cost": 735,
-        "instructions": 384,
+        "instructions": 382,
         "overlap": false,
         "trackless": false,
         "cycles": 176,
@@ -29,8 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/VAN_BERLO_S_ROTOR/735g-176c-122a-384i-57e8c7f4.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f23d597a/w3817954043/735g-384i-176c-122a-15h-13w-9b-8r-122a-15h-13w-9b-L",
-    "dataPath": "WEEKLIES_2/VAN_BERLO_S_ROTOR/VAN_BERLO_S_ROTOR_735g-384i-176c-122a-15h-13w-9b-8r-122a-15h-13w-9b-L.solution",
-    "lastModified": "2026-11-13T23:55:29.146464679Z"
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_ROTOR/735g-176c-122a-382i-885664e2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/97eeb706/w3817954043/735g-382i-176c-122a-15h-13w-9b-8r-122a-15h-13w-9b-L",
+    "dataPath": "WEEKLIES_2/VAN_BERLO_S_ROTOR/VAN_BERLO_S_ROTOR_735g-382i-176c-122a-15h-13w-9b-8r-122a-15h-13w-9b-L.solution",
+    "lastModified": "2026-11-14T01:22:52.912554782Z"
 }
