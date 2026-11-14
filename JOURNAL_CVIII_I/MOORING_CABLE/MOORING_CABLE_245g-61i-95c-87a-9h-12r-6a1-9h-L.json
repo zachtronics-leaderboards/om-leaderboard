@@ -1,0 +1,30 @@
+{
+    "puzzle": "MOORING_CABLE",
+    "score": {
+        "cost": 245,
+        "instructions": 61,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 95,
+        "area": 87,
+        "height": 9,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/MOORING_CABLE/245g-95c-87a-61i-b3fd1dc6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/88bede56/P255/245g-61i-95c-87a-9h-12r-6a1-9h-L",
+    "dataPath": "JOURNAL_CVIII_I/MOORING_CABLE/MOORING_CABLE_245g-61i-95c-87a-9h-12r-6a1-9h-L.solution",
+    "lastModified": "2026-11-14T20:12:24.762049829Z"
+}
