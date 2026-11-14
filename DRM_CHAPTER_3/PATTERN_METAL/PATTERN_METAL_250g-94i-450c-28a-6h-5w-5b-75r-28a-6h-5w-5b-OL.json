@@ -1,17 +1,17 @@
 {
     "puzzle": "PATTERN_METAL",
     "score": {
-        "cost": 260,
-        "instructions": 101,
+        "cost": 250,
+        "instructions": 94,
         "overlap": true,
         "trackless": false,
-        "cycles": 492,
+        "cycles": 450,
         "area": 28,
         "height": 6,
         "width": 5.0,
         "boundingHex": 5,
         "looping": true,
-        "rate": 82.0,
+        "rate": 75.0,
         "areaINF": {
             "level": 0,
             "value": 28.0
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/PATTERN_METAL/260g-492c-28a-101i-O-e9fb74f8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/dd2ed66d/P221/260g-101i-492c-28a-6h-5w-5b-82r-28a-6h-5w-5b-OL",
-    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_260g-101i-492c-28a-6h-5w-5b-82r-28a-6h-5w-5b-OL.solution",
-    "lastModified": "2026-11-14T13:25:35.336359030Z"
+    "displayLink": "https://files.mors.technology/PATTERN_METAL/250g-450c-28a-94i-O-d14125ed.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5b9dd6ba/P221/250g-94i-450c-28a-6h-5w-5b-75r-28a-6h-5w-5b-OL",
+    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_250g-94i-450c-28a-6h-5w-5b-75r-28a-6h-5w-5b-OL.solution",
+    "lastModified": "2026-11-14T13:29:08.903109288Z"
 }
