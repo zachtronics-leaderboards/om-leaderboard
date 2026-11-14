@@ -2,16 +2,16 @@
     "puzzle": "MIRACULOUS_DENTIFRICE",
     "score": {
         "cost": 285,
-        "instructions": 507,
+        "instructions": 487,
         "overlap": false,
         "trackless": false,
-        "cycles": 1255,
+        "cycles": 1138,
         "area": 123,
         "height": 3,
         "width": null,
         "boundingHex": null,
         "looping": true,
-        "rate": 195.0,
+        "rate": 177.0,
         "areaINF": {
             "level": 1,
             "value": 12.0
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/MIRACULOUS_DENTIFRICE/285g-1255c-123a-507i-cfe279b5.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P266/285g-507i-1255c-123a-3h-195r-12a1-3h-L",
-    "dataPath": "JOURNAL_CVIII_III/MIRACULOUS_DENTIFRICE/MIRACULOUS_DENTIFRICE_285g-507i-1255c-123a-3h-195r-12a1-3h-L.solution"
+    "displayLink": "https://files.mors.technology/MIRACULOUS_DENTIFRICE/285g-1138c-123a-487i-42a23e31.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f9d35487/P266/285g-487i-1138c-123a-3h-177r-12a1-3h-L",
+    "dataPath": "JOURNAL_CVIII_III/MIRACULOUS_DENTIFRICE/MIRACULOUS_DENTIFRICE_285g-487i-1138c-123a-3h-177r-12a1-3h-L.solution",
+    "lastModified": "2026-11-14T01:58:52.445373851Z"
 }
