@@ -1,7 +1,7 @@
 {
     "puzzle": "SODA_ASH",
     "score": {
-        "cost": 220,
+        "cost": 200,
         "instructions": 68,
         "overlap": true,
         "trackless": false,
@@ -29,7 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/SODA_ASH/220g-201c-45a-68i-O-4633f651.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P265/220g-68i-201c-45a-7h-6.5w-6b-34r-45a-7h-6.5w-6b-OL",
-    "dataPath": "JOURNAL_CVIII_III/SODA_ASH/SODA_ASH_220g-68i-201c-45a-7h-6.5w-6b-34r-45a-7h-6.5w-6b-OL.solution"
+    "displayLink": "https://files.mors.technology/SODA_ASH/200g-201c-45a-68i-O-74aa6408.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/16049cf3/P265/200g-68i-201c-45a-7h-6.5w-6b-34r-45a-7h-6.5w-6b-OL",
+    "dataPath": "JOURNAL_CVIII_III/SODA_ASH/SODA_ASH_200g-68i-201c-45a-7h-6.5w-6b-34r-45a-7h-6.5w-6b-OL.solution",
+    "lastModified": "2026-11-14T11:01:50.185705813Z"
 }
