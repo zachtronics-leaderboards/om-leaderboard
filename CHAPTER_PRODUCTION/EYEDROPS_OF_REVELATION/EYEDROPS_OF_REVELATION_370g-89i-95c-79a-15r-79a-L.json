@@ -5,13 +5,13 @@
         "instructions": 89,
         "overlap": false,
         "trackless": false,
-        "cycles": 100,
+        "cycles": 95,
         "area": 79,
         "height": null,
         "width": null,
         "boundingHex": null,
         "looping": true,
-        "rate": 16.0,
+        "rate": 15.0,
         "areaINF": {
             "level": 0,
             "value": 79.0
@@ -20,7 +20,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/EYEDROPS_OF_REVELATION/370g-100c-79a-89i-cff0c7de.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P081/370g-89i-100c-79a-16r-79a-L",
-    "dataPath": "CHAPTER_PRODUCTION/EYEDROPS_OF_REVELATION/EYEDROPS_OF_REVELATION_370g-89i-100c-79a-16r-79a-L.solution"
+    "displayLink": "https://files.mors.technology/EYEDROPS_OF_REVELATION/370g-95c-79a-89i-287c0b4e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7d16ebde/P081/370g-89i-95c-79a-15r-79a-L",
+    "dataPath": "CHAPTER_PRODUCTION/EYEDROPS_OF_REVELATION/EYEDROPS_OF_REVELATION_370g-89i-95c-79a-15r-79a-L.solution",
+    "lastModified": "2026-11-14T11:03:38.373983685Z"
 }
