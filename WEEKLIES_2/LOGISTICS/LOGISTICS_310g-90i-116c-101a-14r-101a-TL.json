@@ -2,7 +2,7 @@
     "puzzle": "LOGISTICS",
     "score": {
         "cost": 310,
-        "instructions": 92,
+        "instructions": 90,
         "overlap": false,
         "trackless": true,
         "cycles": 116,
@@ -20,7 +20,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://i.imgur.com/gGZhOKK.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2818265313/310g-92i-116c-101a-14r-101a-TL",
-    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_310g-92i-116c-101a-14r-101a-TL.solution"
+    "displayLink": "https://files.mors.technology/LOGISTICS/310g-116c-101a-90i-T-ee6dcb55.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/642bab37/w2818265313/310g-90i-116c-101a-14r-101a-TL",
+    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_310g-90i-116c-101a-14r-101a-TL.solution",
+    "lastModified": "2026-11-14T11:07:12.801316927Z"
 }
