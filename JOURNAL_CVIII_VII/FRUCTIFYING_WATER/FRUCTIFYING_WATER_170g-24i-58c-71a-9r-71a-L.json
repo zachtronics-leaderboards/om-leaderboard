@@ -1,8 +1,8 @@
 {
     "puzzle": "FRUCTIFYING_WATER",
     "score": {
-        "cost": 195,
-        "instructions": 27,
+        "cost": 170,
+        "instructions": 24,
         "overlap": false,
         "trackless": false,
         "cycles": 58,
@@ -20,8 +20,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/FRUCTIFYING_WATER/195g-58c-71a-27i-fe677034.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/1b9eea12/P289/195g-27i-58c-71a-9r-71a-L",
-    "dataPath": "JOURNAL_CVIII_VII/FRUCTIFYING_WATER/FRUCTIFYING_WATER_195g-27i-58c-71a-9r-71a-L.solution",
-    "lastModified": "2026-11-12T06:38:06.842394971Z"
+    "displayLink": "https://files.mors.technology/FRUCTIFYING_WATER/170g-58c-71a-24i-118f5992.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fce2aecd/P289/170g-24i-58c-71a-9r-71a-L",
+    "dataPath": "JOURNAL_CVIII_VII/FRUCTIFYING_WATER/FRUCTIFYING_WATER_170g-24i-58c-71a-9r-71a-L.solution",
+    "lastModified": "2026-11-14T15:53:51.433549891Z"
 }
