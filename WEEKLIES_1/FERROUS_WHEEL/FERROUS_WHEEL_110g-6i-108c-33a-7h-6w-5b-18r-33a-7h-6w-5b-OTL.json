@@ -1,7 +1,7 @@
 {
     "puzzle": "FERROUS_WHEEL",
     "score": {
-        "cost": 120,
+        "cost": 110,
         "instructions": 6,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/FERROUS_WHEEL/120g-108c-33a-6i-OT-3119ce77.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/4af27880/w2565611826/120g-6i-108c-33a-7h-6w-5b-18r-33a-7h-6w-5b-OTL",
-    "dataPath": "WEEKLIES_1/FERROUS_WHEEL/FERROUS_WHEEL_120g-6i-108c-33a-7h-6w-5b-18r-33a-7h-6w-5b-OTL.solution",
-    "lastModified": "2026-11-14T20:21:50.748406045Z"
+    "displayLink": "https://files.mors.technology/FERROUS_WHEEL/110g-108c-33a-6i-OT-010fa2b6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7d0f2a62/w2565611826/110g-6i-108c-33a-7h-6w-5b-18r-33a-7h-6w-5b-OTL",
+    "dataPath": "WEEKLIES_1/FERROUS_WHEEL/FERROUS_WHEEL_110g-6i-108c-33a-7h-6w-5b-18r-33a-7h-6w-5b-OTL.solution",
+    "lastModified": "2026-11-14T20:27:27.869311038Z"
 }
