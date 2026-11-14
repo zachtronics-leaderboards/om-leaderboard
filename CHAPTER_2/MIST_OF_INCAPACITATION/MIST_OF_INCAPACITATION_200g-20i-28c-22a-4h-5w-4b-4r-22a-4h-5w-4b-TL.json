@@ -2,7 +2,7 @@
     "puzzle": "MIST_OF_INCAPACITATION",
     "score": {
         "cost": 200,
-        "instructions": 40,
+        "instructions": 20,
         "overlap": false,
         "trackless": true,
         "cycles": 28,
@@ -29,8 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/MIST_OF_INCAPACITATION/200g-28c-22a-40i-T-c1c62524.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/73ffeef7/P018/200g-40i-28c-22a-4h-5w-4b-4r-22a-4h-5w-4b-TL",
-    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/MIST_OF_INCAPACITATION_200g-40i-28c-22a-4h-5w-4b-4r-22a-4h-5w-4b-TL.solution",
-    "lastModified": "2026-11-14T09:32:55.194057101Z"
+    "displayLink": "https://files.mors.technology/MIST_OF_INCAPACITATION/200g-28c-22a-20i-T-f635c19f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3177c643/P018/200g-20i-28c-22a-4h-5w-4b-4r-22a-4h-5w-4b-TL",
+    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/MIST_OF_INCAPACITATION_200g-20i-28c-22a-4h-5w-4b-4r-22a-4h-5w-4b-TL.solution",
+    "lastModified": "2026-11-14T09:39:30.159255975Z"
 }
