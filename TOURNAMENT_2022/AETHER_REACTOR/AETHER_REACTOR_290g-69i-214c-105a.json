@@ -2,7 +2,7 @@
     "puzzle": "AETHER_REACTOR",
     "score": {
         "cost": 290,
-        "instructions": 75,
+        "instructions": 69,
         "overlap": false,
         "trackless": false,
         "cycles": 214,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/AETHER_REACTOR/290g-214c-105a-75i-ca19c4cb.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2788067624/290g-75i-214c-105a",
-    "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/AETHER_REACTOR_290g-75i-214c-105a.solution"
+    "displayLink": "https://files.mors.technology/AETHER_REACTOR/290g-214c-105a-69i-fd22cd4d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/28de2ff9/w2788067624/290g-69i-214c-105a",
+    "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/AETHER_REACTOR_290g-69i-214c-105a.solution",
+    "lastModified": "2026-11-14T11:06:55.642335247Z"
 }
