@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 97,
-        "area": 87,
+        "area": 82,
         "height": 5,
         "width": null,
         "boundingHex": null,
@@ -23,8 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/MOORING_CABLE/310g-97c-87a-56i-2159adb6.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/9e1c7a7e/P255/310g-56i-97c-87a-5h-12r-6a1-5h-L",
-    "dataPath": "JOURNAL_CVIII_I/MOORING_CABLE/MOORING_CABLE_310g-56i-97c-87a-5h-12r-6a1-5h-L.solution",
-    "lastModified": "2026-11-14T20:23:23.684302496Z"
+    "displayLink": "https://files.mors.technology/MOORING_CABLE/310g-97c-82a-56i-78082812.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8200f7c9/P255/310g-56i-97c-82a-5h-12r-6a1-5h-L",
+    "dataPath": "JOURNAL_CVIII_I/MOORING_CABLE/MOORING_CABLE_310g-56i-97c-82a-5h-12r-6a1-5h-L.solution",
+    "lastModified": "2026-11-14T20:28:54.769958292Z"
 }
