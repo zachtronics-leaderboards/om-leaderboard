@@ -1,0 +1,27 @@
+{
+    "puzzle": "OVERLOADED",
+    "score": {
+        "cost": 370,
+        "instructions": 39,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 217,
+        "area": 119,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 0,
+            "value": 119.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/OVERLOADED/370g-217c-119a-39i-T-cb8fff22.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/39721733/w2501728107/370g-39i-217c-119a-32r-119a-TL",
+    "dataPath": "TOURNAMENT_2020/OVERLOADED/OVERLOADED_370g-39i-217c-119a-32r-119a-TL.solution",
+    "lastModified": "2026-11-14T11:04:37.641045423Z"
+}
