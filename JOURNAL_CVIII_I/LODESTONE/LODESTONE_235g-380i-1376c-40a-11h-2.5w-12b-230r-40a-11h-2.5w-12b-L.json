@@ -2,16 +2,16 @@
     "puzzle": "LODESTONE",
     "score": {
         "cost": 235,
-        "instructions": 382,
+        "instructions": 380,
         "overlap": false,
         "trackless": false,
-        "cycles": 1388,
+        "cycles": 1376,
         "area": 40,
         "height": 11,
         "width": 2.5,
         "boundingHex": 12,
         "looping": true,
-        "rate": 232.0,
+        "rate": 230.0,
         "areaINF": {
             "level": 0,
             "value": 40.0
@@ -29,8 +29,8 @@
             "value": 12.0
         }
     },
-    "displayLink": "https://files.mors.technology/LODESTONE/235g-1388c-40a-382i-0b89c936.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/26c87a09/P256/235g-382i-1388c-40a-11h-2.5w-12b-232r-40a-11h-2.5w-12b-L",
-    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_235g-382i-1388c-40a-11h-2.5w-12b-232r-40a-11h-2.5w-12b-L.solution",
-    "lastModified": "2026-11-14T20:02:47.197093839Z"
+    "displayLink": "https://files.mors.technology/LODESTONE/235g-1376c-40a-380i-ff13d552.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ab655598/P256/235g-380i-1376c-40a-11h-2.5w-12b-230r-40a-11h-2.5w-12b-L",
+    "dataPath": "JOURNAL_CVIII_I/LODESTONE/LODESTONE_235g-380i-1376c-40a-11h-2.5w-12b-230r-40a-11h-2.5w-12b-L.solution",
+    "lastModified": "2026-11-14T20:11:13.596467495Z"
 }
