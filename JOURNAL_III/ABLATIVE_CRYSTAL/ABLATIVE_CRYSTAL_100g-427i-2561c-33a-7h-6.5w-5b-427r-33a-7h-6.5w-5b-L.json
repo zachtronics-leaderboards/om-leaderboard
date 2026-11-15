@@ -2,16 +2,16 @@
     "puzzle": "ABLATIVE_CRYSTAL",
     "score": {
         "cost": 100,
-        "instructions": 742,
+        "instructions": 427,
         "overlap": false,
         "trackless": false,
-        "cycles": 4451,
+        "cycles": 2561,
         "area": 33,
         "height": 7,
         "width": 6.5,
         "boundingHex": 5,
         "looping": true,
-        "rate": 742.0,
+        "rate": 427.0,
         "areaINF": {
             "level": 0,
             "value": 33.0
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/ABLATIVE_CRYSTAL/100g-4451c-33a-742i-4c8b2393.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/400d6eba/P068/100g-742i-4451c-33a-7h-6.5w-5b-742r-33a-7h-6.5w-5b-L",
-    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_100g-742i-4451c-33a-7h-6.5w-5b-742r-33a-7h-6.5w-5b-L.solution",
-    "lastModified": "2026-11-15T02:29:12.800886583Z"
+    "displayLink": "https://files.mors.technology/ABLATIVE_CRYSTAL/100g-2561c-33a-427i-72131bac.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2a1b3835/P068/100g-427i-2561c-33a-7h-6.5w-5b-427r-33a-7h-6.5w-5b-L",
+    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_100g-427i-2561c-33a-7h-6.5w-5b-427r-33a-7h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-15T03:06:38.228047509Z"
 }
