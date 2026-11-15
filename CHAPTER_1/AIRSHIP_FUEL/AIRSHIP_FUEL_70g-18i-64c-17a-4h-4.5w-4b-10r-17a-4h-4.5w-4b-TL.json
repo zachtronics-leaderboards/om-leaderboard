@@ -2,16 +2,16 @@
     "puzzle": "AIRSHIP_FUEL",
     "score": {
         "cost": 70,
-        "instructions": 21,
+        "instructions": 18,
         "overlap": false,
         "trackless": true,
-        "cycles": 66,
+        "cycles": 64,
         "area": 17,
         "height": 4,
         "width": 4.5,
         "boundingHex": 4,
         "looping": true,
-        "rate": 11.0,
+        "rate": 10.0,
         "areaINF": {
             "level": 0,
             "value": 17.0
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/Airship-Fuel-70g-66c-17a-21i-4h-4.5w-11r-T-a59e85.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P008/70g-21i-66c-17a-4h-4.5w-4b-11r-17a-4h-4.5w-4b-TL",
-    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_70g-21i-66c-17a-4h-4.5w-4b-11r-17a-4h-4.5w-4b-TL.solution"
+    "displayLink": "https://files.mors.technology/AIRSHIP_FUEL/70g-64c-17a-18i-T-2fe394ad.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/cc8c07ba/P008/70g-18i-64c-17a-4h-4.5w-4b-10r-17a-4h-4.5w-4b-TL",
+    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_70g-18i-64c-17a-4h-4.5w-4b-10r-17a-4h-4.5w-4b-TL.solution",
+    "lastModified": "2026-11-15T23:46:06.597757126Z"
 }
