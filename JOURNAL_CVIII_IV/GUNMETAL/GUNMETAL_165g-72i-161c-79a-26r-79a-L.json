@@ -2,7 +2,7 @@
     "puzzle": "GUNMETAL",
     "score": {
         "cost": 165,
-        "instructions": 76,
+        "instructions": 72,
         "overlap": false,
         "trackless": false,
         "cycles": 161,
@@ -20,8 +20,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/GUNMETAL/165g-161c-79a-76i-8f4ba2d3.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/76d283fb/P272/165g-76i-161c-79a-26r-79a-L",
-    "dataPath": "JOURNAL_CVIII_IV/GUNMETAL/GUNMETAL_165g-76i-161c-79a-26r-79a-L.solution",
-    "lastModified": "2026-11-15T05:28:03.569716744Z"
+    "displayLink": "https://files.mors.technology/GUNMETAL/165g-161c-79a-72i-e6de50af.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d055c7ab/P272/165g-72i-161c-79a-26r-79a-L",
+    "dataPath": "JOURNAL_CVIII_IV/GUNMETAL/GUNMETAL_165g-72i-161c-79a-26r-79a-L.solution",
+    "lastModified": "2026-11-15T05:33:00.325010125Z"
 }
