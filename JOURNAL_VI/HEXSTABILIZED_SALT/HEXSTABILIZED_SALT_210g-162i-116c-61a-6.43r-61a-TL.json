@@ -2,7 +2,7 @@
     "puzzle": "HEXSTABILIZED_SALT",
     "score": {
         "cost": 210,
-        "instructions": 165,
+        "instructions": 162,
         "overlap": false,
         "trackless": true,
         "cycles": 116,
@@ -20,8 +20,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/HEXSTABILIZED_SALT/210g-116c-61a-165i-T-e4d2316a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/8dbd5bd1/P091b/210g-165i-116c-61a-6.43r-61a-TL",
-    "dataPath": "JOURNAL_VI/HEXSTABILIZED_SALT/HEXSTABILIZED_SALT_210g-165i-116c-61a-6.43r-61a-TL.solution",
-    "lastModified": "2026-11-14T23:15:32.002508636Z"
+    "displayLink": "https://files.mors.technology/HEXSTABILIZED_SALT/210g-116c-61a-162i-T-746c9238.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1c45c7bb/P091b/210g-162i-116c-61a-6.43r-61a-TL",
+    "dataPath": "JOURNAL_VI/HEXSTABILIZED_SALT/HEXSTABILIZED_SALT_210g-162i-116c-61a-6.43r-61a-TL.solution",
+    "lastModified": "2026-11-16T21:26:57.272354348Z"
 }
