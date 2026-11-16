@@ -1,20 +1,20 @@
 {
     "puzzle": "REACTIVE_GOLD",
     "score": {
-        "cost": 210,
+        "cost": 190,
         "instructions": 4,
         "overlap": true,
         "trackless": true,
-        "cycles": 138,
-        "area": 33,
+        "cycles": 111,
+        "area": 32,
         "height": 7,
         "width": 5.5,
         "boundingHex": 5,
         "looping": true,
-        "rate": 20.0,
+        "rate": 16.0,
         "areaINF": {
             "level": 0,
-            "value": 33.0
+            "value": 32.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_GOLD/210g-138c-33a-4i-OT-dc7ab4ae.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/6626d8e7/P095/210g-4i-138c-33a-7h-5.5w-5b-20r-33a-7h-5.5w-5b-OTL",
-    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_210g-4i-138c-33a-7h-5.5w-5b-20r-33a-7h-5.5w-5b-OTL.solution",
-    "lastModified": "2026-11-16T19:40:24.164383883Z"
+    "displayLink": "https://files.mors.technology/REACTIVE_GOLD/190g-111c-32a-4i-OT-a68b33f7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/47b84fe8/P095/190g-4i-111c-32a-7h-5.5w-5b-16r-32a-7h-5.5w-5b-OTL",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_190g-4i-111c-32a-7h-5.5w-5b-16r-32a-7h-5.5w-5b-OTL.solution",
+    "lastModified": "2026-11-16T20:37:53.695995492Z"
 }
