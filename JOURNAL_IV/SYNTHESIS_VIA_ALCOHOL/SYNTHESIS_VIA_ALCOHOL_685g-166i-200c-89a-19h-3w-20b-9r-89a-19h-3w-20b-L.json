@@ -1,24 +1,24 @@
 {
     "puzzle": "SYNTHESIS_VIA_ALCOHOL",
     "score": {
-        "cost": 700,
+        "cost": 685,
         "instructions": 166,
         "overlap": false,
         "trackless": false,
         "cycles": 200,
-        "area": 92,
-        "height": 21,
+        "area": 89,
+        "height": 19,
         "width": 3.0,
         "boundingHex": 20,
         "looping": true,
         "rate": 9.0,
         "areaINF": {
             "level": 0,
-            "value": 92.0
+            "value": 89.0
         },
         "heightINF": {
             "level": 0,
-            "value": 21.0
+            "value": 19.0
         },
         "widthINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 20.0
         }
     },
-    "displayLink": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/700g-200c-92a-166i-b29876f0.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/0f6eabba/P071/700g-166i-200c-92a-21h-3w-20b-9r-92a-21h-3w-20b-L",
-    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_700g-166i-200c-92a-21h-3w-20b-9r-92a-21h-3w-20b-L.solution",
-    "lastModified": "2026-11-14T21:16:04.298515426Z"
+    "displayLink": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/685g-200c-89a-166i-3ec3e2de.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a9696eb9/P071/685g-166i-200c-89a-19h-3w-20b-9r-89a-19h-3w-20b-L",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/SYNTHESIS_VIA_ALCOHOL_685g-166i-200c-89a-19h-3w-20b-9r-89a-19h-3w-20b-L.solution",
+    "lastModified": "2026-11-16T08:29:22.324169285Z"
 }
