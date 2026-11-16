@@ -1,7 +1,7 @@
 {
     "puzzle": "REACTIVE_LEAD",
     "score": {
-        "cost": 270,
+        "cost": 250,
         "instructions": 2,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/270g-79c-35a-2i-OT-c99702e8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/fd135ef5/P210/270g-2i-79c-35a-7h-6.5w-5b-12r-35a-7h-6.5w-5b-OTL",
-    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_270g-2i-79c-35a-7h-6.5w-5b-12r-35a-7h-6.5w-5b-OTL.solution",
-    "lastModified": "2026-11-16T20:54:20.057612254Z"
+    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/250g-79c-35a-2i-OT-6d255a98.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d8aadc92/P210/250g-2i-79c-35a-7h-6.5w-5b-12r-35a-7h-6.5w-5b-OTL",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_250g-2i-79c-35a-7h-6.5w-5b-12r-35a-7h-6.5w-5b-OTL.solution",
+    "lastModified": "2026-11-16T21:05:46.608446299Z"
 }
