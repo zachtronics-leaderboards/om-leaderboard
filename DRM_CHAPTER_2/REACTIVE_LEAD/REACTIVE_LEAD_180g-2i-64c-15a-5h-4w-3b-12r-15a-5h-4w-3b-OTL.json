@@ -5,16 +5,16 @@
         "instructions": 2,
         "overlap": true,
         "trackless": true,
-        "cycles": 66,
-        "area": 17,
+        "cycles": 64,
+        "area": 15,
         "height": 5,
         "width": 4.0,
-        "boundingHex": 4,
+        "boundingHex": 3,
         "looping": true,
         "rate": 12.0,
         "areaINF": {
             "level": 0,
-            "value": 17.0
+            "value": 15.0
         },
         "heightINF": {
             "level": 0,
@@ -26,11 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 4.0
+            "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/180g-66c-17a-2i-OT-e1ea00a6.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/3abb4e88/P210/180g-2i-66c-17a-5h-4w-4b-12r-17a-5h-4w-4b-OTL",
-    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_180g-2i-66c-17a-5h-4w-4b-12r-17a-5h-4w-4b-OTL.solution",
-    "lastModified": "2026-11-16T21:17:02.636340707Z"
+    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/180g-64c-15a-2i-OT-c5833dc0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ddc0f416/P210/180g-2i-64c-15a-5h-4w-3b-12r-15a-5h-4w-3b-OTL",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_180g-2i-64c-15a-5h-4w-3b-12r-15a-5h-4w-3b-OTL.solution",
+    "lastModified": "2026-11-16T21:21:24.481848112Z"
 }
