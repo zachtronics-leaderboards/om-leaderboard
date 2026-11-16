@@ -1,0 +1,27 @@
+{
+    "puzzle": "GUNMETAL",
+    "score": {
+        "cost": 525,
+        "instructions": 62,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 59,
+        "area": 84,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 84.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/GUNMETAL/525g-59c-84a-62i-O-7846e7b9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/85b61304/P272/525g-62i-59c-84a-9r-84a-OL",
+    "dataPath": "JOURNAL_CVIII_IV/GUNMETAL/GUNMETAL_525g-62i-59c-84a-9r-84a-OL.solution",
+    "lastModified": "2026-11-16T06:34:03.629418962Z"
+}
