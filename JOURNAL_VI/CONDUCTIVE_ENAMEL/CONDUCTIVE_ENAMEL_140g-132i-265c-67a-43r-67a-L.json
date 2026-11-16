@@ -1,0 +1,27 @@
+{
+    "puzzle": "CONDUCTIVE_ENAMEL",
+    "score": {
+        "cost": 140,
+        "instructions": 132,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 265,
+        "area": 67,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 43.0,
+        "areaINF": {
+            "level": 0,
+            "value": 67.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/CONDUCTIVE_ENAMEL/140g-265c-67a-132i-8de7b1d5.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/01668996/P093/140g-132i-265c-67a-43r-67a-L",
+    "dataPath": "JOURNAL_VI/CONDUCTIVE_ENAMEL/CONDUCTIVE_ENAMEL_140g-132i-265c-67a-43r-67a-L.solution",
+    "lastModified": "2026-11-16T12:19:51.661405755Z"
+}
