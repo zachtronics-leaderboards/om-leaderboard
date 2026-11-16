@@ -1,11 +1,11 @@
 {
     "puzzle": "WARMING_TONIC",
     "score": {
-        "cost": 615,
+        "cost": 610,
         "instructions": 317,
         "overlap": false,
         "trackless": false,
-        "cycles": 78,
+        "cycles": 80,
         "area": 120,
         "height": 3,
         "width": 22.0,
@@ -29,8 +29,8 @@
             "value": 22.0
         }
     },
-    "displayLink": "https://files.mors.technology/WARMING_TONIC/615g-78c-120a-317i-2796b24c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/cb697bb8/P028/615g-317i-78c-120a-3h-22w-22b-4r-120a-3h-22w-22b-L",
-    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_615g-317i-78c-120a-3h-22w-22b-4r-120a-3h-22w-22b-L.solution",
-    "lastModified": "2026-11-16T09:40:10.253181927Z"
+    "displayLink": "https://files.mors.technology/WARMING_TONIC/610g-80c-120a-317i-6b74c74e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e82b75cb/P028/610g-317i-80c-120a-3h-22w-22b-4r-120a-3h-22w-22b-L",
+    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_610g-317i-80c-120a-3h-22w-22b-4r-120a-3h-22w-22b-L.solution",
+    "lastModified": "2026-11-16T10:10:46.456804569Z"
 }
