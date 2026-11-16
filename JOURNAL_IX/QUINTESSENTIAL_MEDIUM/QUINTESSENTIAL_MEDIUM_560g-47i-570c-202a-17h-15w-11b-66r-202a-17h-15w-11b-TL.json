@@ -1,7 +1,7 @@
 {
     "puzzle": "QUINTESSENTIAL_MEDIUM",
     "score": {
-        "cost": 580,
+        "cost": 560,
         "instructions": 47,
         "overlap": false,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 11.0
         }
     },
-    "displayLink": "https://files.mors.technology/QUINTESSENTIAL_MEDIUM/580g-570c-202a-47i-T-09028beb.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/ff7138e3/P107/580g-47i-570c-202a-17h-15w-11b-66r-202a-17h-15w-11b-TL",
-    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/QUINTESSENTIAL_MEDIUM_580g-47i-570c-202a-17h-15w-11b-66r-202a-17h-15w-11b-TL.solution",
-    "lastModified": "2026-11-16T01:57:33.420056438Z"
+    "displayLink": "https://files.mors.technology/QUINTESSENTIAL_MEDIUM/560g-570c-202a-47i-T-4169d7a7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e5932047/P107/560g-47i-570c-202a-17h-15w-11b-66r-202a-17h-15w-11b-TL",
+    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/QUINTESSENTIAL_MEDIUM_560g-47i-570c-202a-17h-15w-11b-66r-202a-17h-15w-11b-TL.solution",
+    "lastModified": "2026-11-16T02:08:24.410476210Z"
 }
