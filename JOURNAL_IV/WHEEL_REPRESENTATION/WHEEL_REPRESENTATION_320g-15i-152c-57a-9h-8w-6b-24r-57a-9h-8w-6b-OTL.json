@@ -1,7 +1,7 @@
 {
     "puzzle": "WHEEL_REPRESENTATION",
     "score": {
-        "cost": 330,
+        "cost": 320,
         "instructions": 15,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/WHEEL_REPRESENTATION/330g-152c-57a-15i-OT-c6c863f3.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/568fb0a7/P070/330g-15i-152c-57a-9h-8w-6b-24r-57a-9h-8w-6b-OTL",
-    "dataPath": "JOURNAL_IV/WHEEL_REPRESENTATION/WHEEL_REPRESENTATION_330g-15i-152c-57a-9h-8w-6b-24r-57a-9h-8w-6b-OTL.solution",
-    "lastModified": "2026-11-17T10:30:36.835070706Z"
+    "displayLink": "https://files.mors.technology/WHEEL_REPRESENTATION/320g-152c-57a-15i-OT-bd9b30b3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/465e8f45/P070/320g-15i-152c-57a-9h-8w-6b-24r-57a-9h-8w-6b-OTL",
+    "dataPath": "JOURNAL_IV/WHEEL_REPRESENTATION/WHEEL_REPRESENTATION_320g-15i-152c-57a-9h-8w-6b-24r-57a-9h-8w-6b-OTL.solution",
+    "lastModified": "2026-11-17T10:32:19.287969879Z"
 }
