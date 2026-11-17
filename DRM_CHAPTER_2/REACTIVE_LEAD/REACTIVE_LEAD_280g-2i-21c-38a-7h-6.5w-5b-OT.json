@@ -5,7 +5,7 @@
         "instructions": 2,
         "overlap": true,
         "trackless": true,
-        "cycles": 22,
+        "cycles": 21,
         "area": 38,
         "height": 7,
         "width": 6.5,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/280g-22c-38a-2i-OT-6c3be8a0.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/fb5325c1/P210/280g-2i-22c-38a-7h-6.5w-5b-OT",
-    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_280g-2i-22c-38a-7h-6.5w-5b-OT.solution",
-    "lastModified": "2026-11-17T00:38:37.416101867Z"
+    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/280g-21c-38a-2i-OT-0f1efe55.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ef0aa1d6/P210/280g-2i-21c-38a-7h-6.5w-5b-OT",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_280g-2i-21c-38a-7h-6.5w-5b-OT.solution",
+    "lastModified": "2026-11-17T02:00:06.529741242Z"
 }
