@@ -7,8 +7,8 @@
         "trackless": true,
         "cycles": 401,
         "area": 30,
-        "height": 6,
-        "width": 6.5,
+        "height": 5,
+        "width": 5.5,
         "boundingHex": 5,
         "looping": true,
         "rate": 64.0,
@@ -18,19 +18,19 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 6.0
+            "value": 5.0
         },
         "widthINF": {
             "level": 0,
-            "value": 6.5
+            "value": 5.5
         },
         "boundingHexINF": {
             "level": 0,
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/PURIFIED_GOLD/270g-401c-30a-27i-T-f275105e.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/38b40647/P036/270g-27i-401c-30a-6h-6.5w-5b-64r-30a-6h-6.5w-5b-TL",
-    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_270g-27i-401c-30a-6h-6.5w-5b-64r-30a-6h-6.5w-5b-TL.solution",
-    "lastModified": "2026-11-17T02:49:53.144119361Z"
+    "displayLink": "https://files.mors.technology/PURIFIED_GOLD/270g-401c-30a-27i-T-be1c1ab3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e7d2cf63/P036/270g-27i-401c-30a-5h-5.5w-5b-64r-30a-5h-5.5w-5b-TL",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_270g-27i-401c-30a-5h-5.5w-5b-64r-30a-5h-5.5w-5b-TL.solution",
+    "lastModified": "2026-11-17T02:52:48.220981624Z"
 }
