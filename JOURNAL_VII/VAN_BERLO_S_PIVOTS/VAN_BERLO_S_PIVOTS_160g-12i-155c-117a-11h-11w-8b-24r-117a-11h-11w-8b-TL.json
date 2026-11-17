@@ -5,7 +5,7 @@
         "instructions": 12,
         "overlap": false,
         "trackless": true,
-        "cycles": 159,
+        "cycles": 155,
         "area": 117,
         "height": 11,
         "width": 11.0,
@@ -29,8 +29,8 @@
             "value": 8.0
         }
     },
-    "displayLink": "https://files.mors.technology/VAN_BERLO_S_PIVOTS/160g-159c-117a-12i-T-88e09e22.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/d8377e06/P096/160g-12i-159c-117a-11h-11w-8b-24r-117a-11h-11w-8b-TL",
-    "dataPath": "JOURNAL_VII/VAN_BERLO_S_PIVOTS/VAN_BERLO_S_PIVOTS_160g-12i-159c-117a-11h-11w-8b-24r-117a-11h-11w-8b-TL.solution",
-    "lastModified": "2026-11-17T18:46:04.756108183Z"
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_PIVOTS/160g-155c-117a-12i-T-a0515bb6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/99e0263e/P096/160g-12i-155c-117a-11h-11w-8b-24r-117a-11h-11w-8b-TL",
+    "dataPath": "JOURNAL_VII/VAN_BERLO_S_PIVOTS/VAN_BERLO_S_PIVOTS_160g-12i-155c-117a-11h-11w-8b-24r-117a-11h-11w-8b-TL.solution",
+    "lastModified": "2026-11-17T19:01:13.737161890Z"
 }
