@@ -5,13 +5,13 @@
         "instructions": 228,
         "overlap": false,
         "trackless": false,
-        "cycles": 1358,
+        "cycles": 1334,
         "area": 31,
         "height": 7,
         "width": 6.0,
         "boundingHex": 5,
         "looping": true,
-        "rate": 224.0,
+        "rate": 220.0,
         "areaINF": {
             "level": 0,
             "value": 31.0
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/EXPLORER_S_SALVE/125g-1358c-31a-228i-57199644.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f49617ef/P059/125g-228i-1358c-31a-7h-6w-5b-224r-31a-7h-6w-5b-L",
-    "dataPath": "JOURNAL_II/EXPLORER_S_SALVE/EXPLORER_S_SALVE_125g-228i-1358c-31a-7h-6w-5b-224r-31a-7h-6w-5b-L.solution",
-    "lastModified": "2026-11-16T18:56:09.633252959Z"
+    "displayLink": "https://files.mors.technology/EXPLORER_S_SALVE/125g-1334c-31a-228i-7fcc6610.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/57201e94/P059/125g-228i-1334c-31a-7h-6w-5b-220r-31a-7h-6w-5b-L",
+    "dataPath": "JOURNAL_II/EXPLORER_S_SALVE/EXPLORER_S_SALVE_125g-228i-1334c-31a-7h-6w-5b-220r-31a-7h-6w-5b-L.solution",
+    "lastModified": "2026-11-17T08:30:44.393453770Z"
 }
