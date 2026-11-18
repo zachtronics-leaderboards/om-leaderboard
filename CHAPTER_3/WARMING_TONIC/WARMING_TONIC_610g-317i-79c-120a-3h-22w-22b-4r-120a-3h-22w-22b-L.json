@@ -5,7 +5,7 @@
         "instructions": 317,
         "overlap": false,
         "trackless": false,
-        "cycles": 80,
+        "cycles": 79,
         "area": 120,
         "height": 3,
         "width": 22.0,
@@ -29,8 +29,8 @@
             "value": 22.0
         }
     },
-    "displayLink": "https://files.mors.technology/WARMING_TONIC/610g-80c-120a-317i-6b74c74e.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/e82b75cb/P028/610g-317i-80c-120a-3h-22w-22b-4r-120a-3h-22w-22b-L",
-    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_610g-317i-80c-120a-3h-22w-22b-4r-120a-3h-22w-22b-L.solution",
-    "lastModified": "2026-11-16T10:10:46.456804569Z"
+    "displayLink": "https://files.mors.technology/WARMING_TONIC/610g-79c-120a-317i-f0e351ff.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7e254758/P028/610g-317i-79c-120a-3h-22w-22b-4r-120a-3h-22w-22b-L",
+    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_610g-317i-79c-120a-3h-22w-22b-4r-120a-3h-22w-22b-L.solution",
+    "lastModified": "2026-11-18T01:19:06.676224161Z"
 }
