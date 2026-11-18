@@ -6,19 +6,19 @@
         "overlap": false,
         "trackless": true,
         "cycles": 424,
-        "area": 18,
-        "height": 5,
+        "area": 16,
+        "height": 4,
         "width": 4.5,
         "boundingHex": 3,
         "looping": true,
         "rate": 72.0,
         "areaINF": {
             "level": 0,
-            "value": 18.0
+            "value": 16.0
         },
         "heightINF": {
             "level": 0,
-            "value": 5.0
+            "value": 4.0
         },
         "widthINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/AIRSHIP_FUEL/40g-424c-18a-18i-T-db592e63.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/41f32575/P008/40g-18i-424c-18a-5h-4.5w-3b-72r-18a-5h-4.5w-3b-TL",
-    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_40g-18i-424c-18a-5h-4.5w-3b-72r-18a-5h-4.5w-3b-TL.solution",
-    "lastModified": "2026-11-18T21:56:07.713121658Z"
+    "displayLink": "https://files.mors.technology/AIRSHIP_FUEL/40g-424c-16a-18i-T-abc8a605.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d1422a8c/P008/40g-18i-424c-16a-4h-4.5w-3b-72r-16a-4h-4.5w-3b-TL",
+    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/AIRSHIP_FUEL_40g-18i-424c-16a-4h-4.5w-3b-72r-16a-4h-4.5w-3b-TL.solution",
+    "lastModified": "2026-11-18T22:30:49.815160392Z"
 }
