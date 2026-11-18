@@ -1,12 +1,12 @@
 {
     "puzzle": "HORN_SILVER",
     "score": {
-        "cost": 3145,
-        "instructions": 1102,
+        "cost": 3105,
+        "instructions": 1095,
         "overlap": false,
         "trackless": false,
         "cycles": 413,
-        "area": 654,
+        "area": 653,
         "height": 115,
         "width": 3.5,
         "boundingHex": 115,
@@ -14,7 +14,7 @@
         "rate": 7.0,
         "areaINF": {
             "level": 0,
-            "value": 654.0
+            "value": 653.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 115.0
         }
     },
-    "displayLink": "https://files.mors.technology/HORN_SILVER/3145g-413c-654a-1102i-8a5e6017.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2513871683/3145g-1102i-413c-654a-115h-3.5w-115b-7r-654a-115h-3.5w-115b-L",
-    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_3145g-1102i-413c-654a-115h-3.5w-115b-7r-654a-115h-3.5w-115b-L.solution"
+    "displayLink": "https://files.mors.technology/HORN_SILVER/3105g-413c-653a-1095i-091dee36.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7ec20a8b/w2513871683/3105g-1095i-413c-653a-115h-3.5w-115b-7r-653a-115h-3.5w-115b-L",
+    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_3105g-1095i-413c-653a-115h-3.5w-115b-7r-653a-115h-3.5w-115b-L.solution",
+    "lastModified": "2026-11-18T06:49:43.456030304Z"
 }
