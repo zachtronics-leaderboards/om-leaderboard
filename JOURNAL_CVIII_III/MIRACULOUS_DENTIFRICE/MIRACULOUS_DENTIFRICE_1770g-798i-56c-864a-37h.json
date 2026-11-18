@@ -1,0 +1,24 @@
+{
+    "puzzle": "MIRACULOUS_DENTIFRICE",
+    "score": {
+        "cost": 1770,
+        "instructions": 798,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 56,
+        "area": 864,
+        "height": 37,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/MIRACULOUS_DENTIFRICE/1770g-56c-864a-798i-7db466ed.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4bc04545/P266/1770g-798i-56c-864a-37h",
+    "dataPath": "JOURNAL_CVIII_III/MIRACULOUS_DENTIFRICE/MIRACULOUS_DENTIFRICE_1770g-798i-56c-864a-37h.solution",
+    "lastModified": "2026-11-18T22:46:29.168093766Z"
+}
