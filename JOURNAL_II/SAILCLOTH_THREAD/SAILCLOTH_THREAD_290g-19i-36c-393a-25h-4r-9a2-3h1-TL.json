@@ -1,0 +1,30 @@
+{
+    "puzzle": "SAILCLOTH_THREAD",
+    "score": {
+        "cost": 290,
+        "instructions": 19,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 36,
+        "area": 393,
+        "height": 25,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 9.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SAILCLOTH_THREAD/290g-36c-393a-19i-T-15a02e16.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b554f917/P061/290g-19i-36c-393a-25h-4r-9a2-3h1-TL",
+    "dataPath": "JOURNAL_II/SAILCLOTH_THREAD/SAILCLOTH_THREAD_290g-19i-36c-393a-25h-4r-9a2-3h1-TL.solution",
+    "lastModified": "2026-11-18T22:50:58.416656506Z"
+}
