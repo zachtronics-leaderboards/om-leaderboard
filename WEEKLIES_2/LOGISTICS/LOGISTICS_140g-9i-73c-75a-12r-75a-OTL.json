@@ -1,0 +1,27 @@
+{
+    "puzzle": "LOGISTICS",
+    "score": {
+        "cost": 140,
+        "instructions": 9,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 73,
+        "area": 75,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 75.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/LOGISTICS/140g-73c-75a-9i-OT-5365eb02.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1a39f5a6/w2818265313/140g-9i-73c-75a-12r-75a-OTL",
+    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_140g-9i-73c-75a-12r-75a-OTL.solution",
+    "lastModified": "2026-11-18T20:30:13.209095190Z"
+}
