@@ -1,0 +1,30 @@
+{
+    "puzzle": "MIRRORING_AMALGAM",
+    "score": {
+        "cost": 340,
+        "instructions": 268,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 41,
+        "area": 161,
+        "height": null,
+        "width": 14.5,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 6.5,
+        "areaINF": {
+            "level": 2,
+            "value": 3.0
+        },
+        "heightINF": null,
+        "widthINF": {
+            "level": 1,
+            "value": 1.5
+        },
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/MIRRORING_AMALGAM/340g-41c-161a-268i-T-cb0ac020.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fde6fbdd/P298/340g-268i-41c-161a-14.5w-6.5r-3a2-1.5w1-TL",
+    "dataPath": "JOURNAL_CVIII_IX/MIRRORING_AMALGAM/MIRRORING_AMALGAM_340g-268i-41c-161a-14.5w-6.5r-3a2-1.5w1-TL.solution",
+    "lastModified": "2026-11-19T03:33:24.355229676Z"
+}
