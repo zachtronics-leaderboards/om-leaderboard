@@ -2,7 +2,7 @@
     "puzzle": "LUSTROUS_SYRUP",
     "score": {
         "cost": 350,
-        "instructions": 128,
+        "instructions": 123,
         "overlap": false,
         "trackless": false,
         "cycles": 64,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/LUSTROUS_SYRUP/350g-64c-37a-128i-9fd2d410.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2868331650/350g-128i-64c-37a-7h-7w-4b",
-    "dataPath": "WEEKLIES_1/LUSTROUS_SYRUP/LUSTROUS_SYRUP_350g-128i-64c-37a-7h-7w-4b.solution"
+    "displayLink": "https://files.mors.technology/LUSTROUS_SYRUP/350g-64c-37a-123i-b23c3852.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2b64318/w2868331650/350g-123i-64c-37a-7h-7w-4b",
+    "dataPath": "WEEKLIES_1/LUSTROUS_SYRUP/LUSTROUS_SYRUP_350g-123i-64c-37a-7h-7w-4b.solution",
+    "lastModified": "2026-11-19T04:34:15.986005634Z"
 }
