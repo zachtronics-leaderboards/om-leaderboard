@@ -1,0 +1,24 @@
+{
+    "puzzle": "SURVEYING_MAGNET",
+    "score": {
+        "cost": 1480,
+        "instructions": 581,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 47,
+        "area": 932,
+        "height": 38,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SURVEYING_MAGNET/1480g-47c-932a-581i-4992ea12.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/defb585b/P262/1480g-581i-47c-932a-38h",
+    "dataPath": "JOURNAL_CVIII_II/SURVEYING_MAGNET/SURVEYING_MAGNET_1480g-581i-47c-932a-38h.solution",
+    "lastModified": "2026-11-19T19:53:08.788085041Z"
+}
