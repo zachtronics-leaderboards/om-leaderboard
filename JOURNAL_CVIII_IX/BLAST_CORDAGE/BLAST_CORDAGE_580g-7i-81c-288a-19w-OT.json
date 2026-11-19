@@ -1,0 +1,24 @@
+{
+    "puzzle": "BLAST_CORDAGE",
+    "score": {
+        "cost": 580,
+        "instructions": 7,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 81,
+        "area": 288,
+        "height": null,
+        "width": 19.0,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BLAST_CORDAGE/580g-81c-288a-7i-OT-266bd8ee.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8b2a18a9/P299/580g-7i-81c-288a-19w-OT",
+    "dataPath": "JOURNAL_CVIII_IX/BLAST_CORDAGE/BLAST_CORDAGE_580g-7i-81c-288a-19w-OT.solution",
+    "lastModified": "2026-11-19T00:49:02.107967569Z"
+}
