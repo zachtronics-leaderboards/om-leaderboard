@@ -5,7 +5,7 @@
         "instructions": 11,
         "overlap": false,
         "trackless": true,
-        "cycles": 156,
+        "cycles": 107,
         "area": 58,
         "height": 9,
         "width": 8.5,
@@ -17,7 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/METALLIC_TINCTURE/160g-156c-58a-11i-T-a8b81b19.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P206/160g-11i-156c-58a-9h-8.5w-6b-T",
-    "dataPath": "DRM_CHAPTER_1/METALLIC_TINCTURE/METALLIC_TINCTURE_160g-11i-156c-58a-9h-8.5w-6b-T.solution"
+    "displayLink": "https://files.mors.technology/METALLIC_TINCTURE/160g-107c-58a-11i-T-cc328d44.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/038e4d1c/P206/160g-11i-107c-58a-9h-8.5w-6b-T",
+    "dataPath": "DRM_CHAPTER_1/METALLIC_TINCTURE/METALLIC_TINCTURE_160g-11i-107c-58a-9h-8.5w-6b-T.solution",
+    "lastModified": "2026-11-19T07:49:57.748462285Z"
 }
