@@ -1,0 +1,36 @@
+{
+    "puzzle": "SILVER_DUST",
+    "score": {
+        "cost": 520,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 21,
+        "area": 138,
+        "height": 15,
+        "width": 12.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 138.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SILVER_DUST/520g-21c-138a-32i-T-78ef211a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a1b74c35/P203/520g-32i-21c-138a-15h-12w-9b-2r-138a-15h-12w-9b-TL",
+    "dataPath": "DRM_CHAPTER_1/SILVER_DUST/SILVER_DUST_520g-32i-21c-138a-15h-12w-9b-2r-138a-15h-12w-9b-TL.solution",
+    "lastModified": "2026-11-19T08:28:40.346850126Z"
+}
