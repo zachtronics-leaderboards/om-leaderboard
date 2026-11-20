@@ -8,7 +8,7 @@
         "cycles": 48,
         "area": 11,
         "height": 4,
-        "width": 3.5,
+        "width": 3.0,
         "boundingHex": 3,
         "looping": true,
         "rate": 8.0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 3.5
+            "value": 3.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/MIXED_USE_LUBRICANT/160g-48c-11a-4i-OT-c21e0280.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/c722c0cd/P205/160g-4i-48c-11a-4h-3.5w-3b-8r-11a-4h-3.5w-3b-OTL",
-    "dataPath": "DRM_CHAPTER_1/MIXED_USE_LUBRICANT/MIXED_USE_LUBRICANT_160g-4i-48c-11a-4h-3.5w-3b-8r-11a-4h-3.5w-3b-OTL.solution",
-    "lastModified": "2026-11-19T23:39:50.603924796Z"
+    "displayLink": "https://files.mors.technology/MIXED_USE_LUBRICANT/160g-48c-11a-4i-OT-91149c35.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ceefbcf9/P205/160g-4i-48c-11a-4h-3w-3b-8r-11a-4h-3w-3b-OTL",
+    "dataPath": "DRM_CHAPTER_1/MIXED_USE_LUBRICANT/MIXED_USE_LUBRICANT_160g-4i-48c-11a-4h-3w-3b-8r-11a-4h-3w-3b-OTL.solution",
+    "lastModified": "2026-11-20T05:55:06.880652159Z"
 }
