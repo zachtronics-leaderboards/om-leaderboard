@@ -1,0 +1,36 @@
+{
+    "puzzle": "METALLIC_TINCTURE",
+    "score": {
+        "cost": 110,
+        "instructions": 10,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 59,
+        "area": 11,
+        "height": 4,
+        "width": 3.5,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/METALLIC_TINCTURE/110g-59c-11a-10i-O-b3bb0948.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b4606b89/P206/110g-10i-59c-11a-4h-3.5w-3b-10r-11a-4h-3.5w-3b-OL",
+    "dataPath": "DRM_CHAPTER_1/METALLIC_TINCTURE/METALLIC_TINCTURE_110g-10i-59c-11a-4h-3.5w-3b-10r-11a-4h-3.5w-3b-OL.solution",
+    "lastModified": "2026-11-20T09:36:45.782515097Z"
+}
