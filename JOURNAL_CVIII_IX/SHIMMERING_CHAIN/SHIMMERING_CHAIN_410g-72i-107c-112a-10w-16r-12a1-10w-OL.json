@@ -1,0 +1,30 @@
+{
+    "puzzle": "SHIMMERING_CHAIN",
+    "score": {
+        "cost": 410,
+        "instructions": 72,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 107,
+        "area": 112,
+        "height": null,
+        "width": 10.0,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": null,
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SHIMMERING_CHAIN/410g-107c-112a-72i-O-f7b29300.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2c38e2ad/P295/410g-72i-107c-112a-10w-16r-12a1-10w-OL",
+    "dataPath": "JOURNAL_CVIII_IX/SHIMMERING_CHAIN/SHIMMERING_CHAIN_410g-72i-107c-112a-10w-16r-12a1-10w-OL.solution",
+    "lastModified": "2026-11-20T23:32:44.936681614Z"
+}
