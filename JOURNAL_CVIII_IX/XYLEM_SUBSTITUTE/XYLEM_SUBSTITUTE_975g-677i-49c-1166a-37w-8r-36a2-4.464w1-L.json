@@ -1,0 +1,30 @@
+{
+    "puzzle": "XYLEM_SUBSTITUTE",
+    "score": {
+        "cost": 975,
+        "instructions": 677,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 49,
+        "area": 1166,
+        "height": null,
+        "width": 37.0,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 2,
+            "value": 36.0
+        },
+        "heightINF": null,
+        "widthINF": {
+            "level": 1,
+            "value": 4.464101615137754
+        },
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.catbox.moe/7jnftn.webm",
+    "dataLink": "https://zlbb.faendir.com/l/om/355ac32a/P297/975g-677i-49c-1166a-37w-8r-36a2-4.464w1-L",
+    "dataPath": "JOURNAL_CVIII_IX/XYLEM_SUBSTITUTE/XYLEM_SUBSTITUTE_975g-677i-49c-1166a-37w-8r-36a2-4.464w1-L.solution",
+    "lastModified": "2026-11-20T09:21:26.183841814Z"
+}
