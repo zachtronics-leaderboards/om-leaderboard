@@ -1,0 +1,24 @@
+{
+    "puzzle": "BRAZING_SILVER",
+    "score": {
+        "cost": 360,
+        "instructions": 16,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 104,
+        "area": 185,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BRAZING_SILVER/360g-104c-185a-16i-OT-730b00ae.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5ce16568/P310/360g-16i-104c-185a-OT",
+    "dataPath": "JOURNAL_CVIII_XII/BRAZING_SILVER/BRAZING_SILVER_360g-16i-104c-185a-OT.solution",
+    "lastModified": "2026-11-21T02:05:23.741664210Z"
+}
