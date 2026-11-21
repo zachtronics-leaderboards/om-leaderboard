@@ -1,0 +1,36 @@
+{
+    "puzzle": "ESSENCE_OF_CITRUS",
+    "score": {
+        "cost": 70,
+        "instructions": 98,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 587,
+        "area": 48,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 98.0,
+        "areaINF": {
+            "level": 0,
+            "value": 48.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ESSENCE_OF_CITRUS/70g-587c-48a-98i-O-83208f08.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/84a39d6c/P257/70g-98i-587c-48a-7h-7w-5b-98r-48a-7h-7w-5b-OL",
+    "dataPath": "JOURNAL_CVIII_I/ESSENCE_OF_CITRUS/ESSENCE_OF_CITRUS_70g-98i-587c-48a-7h-7w-5b-98r-48a-7h-7w-5b-OL.solution",
+    "lastModified": "2026-11-21T05:03:14.980587730Z"
+}
