@@ -2,16 +2,16 @@
     "puzzle": "UNWINDING",
     "score": {
         "cost": 110,
-        "instructions": 21,
+        "instructions": 20,
         "overlap": false,
         "trackless": false,
-        "cycles": 173,
-        "area": 83,
+        "cycles": 161,
+        "area": 78,
         "height": 5,
         "width": 16.0,
-        "boundingHex": 16,
+        "boundingHex": 15,
         "looping": true,
-        "rate": 30.0,
+        "rate": 28.0,
         "areaINF": {
             "level": 1,
             "value": 8.0
@@ -29,8 +29,8 @@
             "value": 2.0
         }
     },
-    "displayLink": "https://files.mors.technology/UNWINDING/110g-173c-83a-21i-86f4aa8e.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/2ee85733/w1611998067/110g-21i-173c-83a-5h-16w-16b-30r-8a1-5h-2w1-2b1-L",
-    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_110g-21i-173c-83a-5h-16w-16b-30r-8a1-5h-2w1-2b1-L.solution",
-    "lastModified": "2026-11-21T14:57:59.724588313Z"
+    "displayLink": "https://files.mors.technology/UNWINDING/110g-161c-78a-20i-31847b52.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a8de13fc/w1611998067/110g-20i-161c-78a-5h-16w-15b-28r-8a1-5h-2w1-2b1-L",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_110g-20i-161c-78a-5h-16w-15b-28r-8a1-5h-2w1-2b1-L.solution",
+    "lastModified": "2026-11-21T14:59:27.149627050Z"
 }
