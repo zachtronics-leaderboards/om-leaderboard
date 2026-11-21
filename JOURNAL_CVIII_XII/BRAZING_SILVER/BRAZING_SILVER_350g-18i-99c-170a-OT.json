@@ -1,0 +1,24 @@
+{
+    "puzzle": "BRAZING_SILVER",
+    "score": {
+        "cost": 350,
+        "instructions": 18,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 99,
+        "area": 170,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BRAZING_SILVER/350g-99c-170a-18i-OT-4ee50582.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8d4f214b/P310/350g-18i-99c-170a-OT",
+    "dataPath": "JOURNAL_CVIII_XII/BRAZING_SILVER/BRAZING_SILVER_350g-18i-99c-170a-OT.solution",
+    "lastModified": "2026-11-21T01:39:39.990610401Z"
+}
