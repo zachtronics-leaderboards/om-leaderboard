@@ -5,13 +5,13 @@
         "instructions": 34,
         "overlap": false,
         "trackless": false,
-        "cycles": 127,
-        "area": 76,
+        "cycles": 111,
+        "area": 78,
         "height": 5,
-        "width": 16.0,
-        "boundingHex": 15,
+        "width": 16.5,
+        "boundingHex": 16,
         "looping": true,
-        "rate": 22.0,
+        "rate": 18.0,
         "areaINF": {
             "level": 1,
             "value": 8.0
@@ -29,8 +29,8 @@
             "value": 2.0
         }
     },
-    "displayLink": "https://files.mors.technology/UNWINDING/100g-127c-76a-34i-6633a463.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f20de80c/w1611998067/100g-34i-127c-76a-5h-16w-15b-22r-8a1-5h-2w1-2b1-L",
-    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_100g-34i-127c-76a-5h-16w-15b-22r-8a1-5h-2w1-2b1-L.solution",
-    "lastModified": "2026-11-21T15:10:55.632970117Z"
+    "displayLink": "https://files.mors.technology/UNWINDING/100g-111c-78a-34i-b8a6a30c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/25e40e47/w1611998067/100g-34i-111c-78a-5h-16.5w-16b-18r-8a1-5h-2w1-2b1-L",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_100g-34i-111c-78a-5h-16.5w-16b-18r-8a1-5h-2w1-2b1-L.solution",
+    "lastModified": "2026-11-21T21:06:32.835372603Z"
 }
