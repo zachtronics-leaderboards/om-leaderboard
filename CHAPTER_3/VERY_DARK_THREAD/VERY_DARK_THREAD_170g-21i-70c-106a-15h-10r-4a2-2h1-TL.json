@@ -5,9 +5,9 @@
         "instructions": 21,
         "overlap": false,
         "trackless": true,
-        "cycles": 81,
-        "area": 160,
-        "height": 17,
+        "cycles": 70,
+        "area": 106,
+        "height": 15,
         "width": null,
         "boundingHex": null,
         "looping": true,
@@ -23,7 +23,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/VERY_DARK_THREAD/170g-81c-160a-21i-T-04404d2d.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P029/170g-21i-81c-160a-17h-10r-4a2-2h1-TL",
-    "dataPath": "CHAPTER_3/VERY_DARK_THREAD/VERY_DARK_THREAD_170g-21i-81c-160a-17h-10r-4a2-2h1-TL.solution"
+    "displayLink": "https://files.mors.technology/VERY_DARK_THREAD/170g-70c-106a-21i-T-1630c609.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4213014d/P029/170g-21i-70c-106a-15h-10r-4a2-2h1-TL",
+    "dataPath": "CHAPTER_3/VERY_DARK_THREAD/VERY_DARK_THREAD_170g-21i-70c-106a-15h-10r-4a2-2h1-TL.solution",
+    "lastModified": "2026-11-21T07:15:09.221644067Z"
 }
