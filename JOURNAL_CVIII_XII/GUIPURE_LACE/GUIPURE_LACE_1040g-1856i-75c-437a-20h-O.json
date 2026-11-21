@@ -1,0 +1,24 @@
+{
+    "puzzle": "GUIPURE_LACE",
+    "score": {
+        "cost": 1040,
+        "instructions": 1856,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 75,
+        "area": 437,
+        "height": 20,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://ibb.co/b56Jy5vS",
+    "dataLink": "https://zlbb.faendir.com/l/om/d6886fbb/P312/1040g-1856i-75c-437a-20h-O",
+    "dataPath": "JOURNAL_CVIII_XII/GUIPURE_LACE/GUIPURE_LACE_1040g-1856i-75c-437a-20h-O.solution",
+    "lastModified": "2026-11-21T20:50:06.366420734Z"
+}
