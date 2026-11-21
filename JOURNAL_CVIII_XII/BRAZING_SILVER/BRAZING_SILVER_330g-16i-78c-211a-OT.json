@@ -1,7 +1,7 @@
 {
     "puzzle": "BRAZING_SILVER",
     "score": {
-        "cost": 360,
+        "cost": 330,
         "instructions": 16,
         "overlap": true,
         "trackless": true,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/BRAZING_SILVER/360g-78c-211a-16i-OT-e67aa934.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/e55c1ac3/P310/360g-16i-78c-211a-OT",
-    "dataPath": "JOURNAL_CVIII_XII/BRAZING_SILVER/BRAZING_SILVER_360g-16i-78c-211a-OT.solution",
-    "lastModified": "2026-11-21T02:11:14.284316415Z"
+    "displayLink": "https://files.mors.technology/BRAZING_SILVER/330g-78c-211a-16i-OT-f139c4b3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a1974dca/P310/330g-16i-78c-211a-OT",
+    "dataPath": "JOURNAL_CVIII_XII/BRAZING_SILVER/BRAZING_SILVER_330g-16i-78c-211a-OT.solution",
+    "lastModified": "2026-11-21T02:21:46.130100482Z"
 }
