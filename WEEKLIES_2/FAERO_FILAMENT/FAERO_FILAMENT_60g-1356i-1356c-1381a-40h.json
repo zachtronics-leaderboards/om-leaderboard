@@ -1,0 +1,24 @@
+{
+    "puzzle": "FAERO_FILAMENT",
+    "score": {
+        "cost": 60,
+        "instructions": 1356,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1356,
+        "area": 1381,
+        "height": 40,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/FAERO_FILAMENT/60g-1356c-1381a-1356i-339144a0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5880315f/w3817956797/60g-1356i-1356c-1381a-40h",
+    "dataPath": "WEEKLIES_2/FAERO_FILAMENT/FAERO_FILAMENT_60g-1356i-1356c-1381a-40h.solution",
+    "lastModified": "2026-11-21T11:39:10.284462985Z"
+}
