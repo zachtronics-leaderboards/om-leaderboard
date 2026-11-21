@@ -1,0 +1,24 @@
+{
+    "puzzle": "CELESTIAL_THREAD",
+    "score": {
+        "cost": 90,
+        "instructions": 6666,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 6666,
+        "area": 140,
+        "height": 4,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.catbox.moe/xg7ptb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/dbea7404/P101/90g-6666i-6666c-140a-4h",
+    "dataPath": "JOURNAL_VIII/CELESTIAL_THREAD/CELESTIAL_THREAD_90g-6666i-6666c-140a-4h.solution",
+    "lastModified": "2026-11-21T05:05:37.854428915Z"
+}
