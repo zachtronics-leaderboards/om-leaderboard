@@ -1,0 +1,24 @@
+{
+    "puzzle": "IMMORTAL_FILAMENT",
+    "score": {
+        "cost": 150,
+        "instructions": 3583,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 2865,
+        "area": 87,
+        "height": 4,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/IMMORTAL_FILAMENT/150g-2865c-87a-3583i-O-37eb7d6f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/938fe801/w3728200326/150g-3583i-2865c-87a-4h-O",
+    "dataPath": "TOURNAMENT_2026/IMMORTAL_FILAMENT/IMMORTAL_FILAMENT_150g-3583i-2865c-87a-4h-O.solution",
+    "lastModified": "2026-11-21T04:35:07.082331335Z"
+}
