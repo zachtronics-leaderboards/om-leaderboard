@@ -5,8 +5,8 @@
         "instructions": 13,
         "overlap": true,
         "trackless": true,
-        "cycles": 81,
-        "area": 246,
+        "cycles": 77,
+        "area": 240,
         "height": null,
         "width": null,
         "boundingHex": null,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/BRAZING_SILVER/300g-81c-246a-13i-OT-0e148f60.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/787b40c0/P310/300g-13i-81c-246a-OT",
-    "dataPath": "JOURNAL_CVIII_XII/BRAZING_SILVER/BRAZING_SILVER_300g-13i-81c-246a-OT.solution",
-    "lastModified": "2026-11-21T03:02:24.353309351Z"
+    "displayLink": "https://files.mors.technology/BRAZING_SILVER/300g-77c-240a-13i-OT-92e599f8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fc78e657/P310/300g-13i-77c-240a-OT",
+    "dataPath": "JOURNAL_CVIII_XII/BRAZING_SILVER/BRAZING_SILVER_300g-13i-77c-240a-OT.solution",
+    "lastModified": "2026-11-21T03:18:10.503048049Z"
 }
