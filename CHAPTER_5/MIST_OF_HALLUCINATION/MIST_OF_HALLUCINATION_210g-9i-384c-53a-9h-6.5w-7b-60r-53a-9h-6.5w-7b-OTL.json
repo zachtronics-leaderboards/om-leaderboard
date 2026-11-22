@@ -5,7 +5,7 @@
         "instructions": 9,
         "overlap": true,
         "trackless": true,
-        "cycles": 385,
+        "cycles": 384,
         "area": 53,
         "height": 9,
         "width": 6.5,
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/MIST_OF_HALLUCINATION/210g-385c-53a-9i-OT-d06aa1dd.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/9fd3fc55/P038/210g-9i-385c-53a-9h-6.5w-7b-60r-53a-9h-6.5w-7b-OTL",
-    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/MIST_OF_HALLUCINATION_210g-9i-385c-53a-9h-6.5w-7b-60r-53a-9h-6.5w-7b-OTL.solution",
-    "lastModified": "2026-11-22T09:18:24.819311603Z"
+    "displayLink": "https://files.mors.technology/MIST_OF_HALLUCINATION/210g-384c-53a-9i-OT-056b3844.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/68228e29/P038/210g-9i-384c-53a-9h-6.5w-7b-60r-53a-9h-6.5w-7b-OTL",
+    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/MIST_OF_HALLUCINATION_210g-9i-384c-53a-9h-6.5w-7b-60r-53a-9h-6.5w-7b-OTL.solution",
+    "lastModified": "2026-11-22T09:20:14.114871080Z"
 }
