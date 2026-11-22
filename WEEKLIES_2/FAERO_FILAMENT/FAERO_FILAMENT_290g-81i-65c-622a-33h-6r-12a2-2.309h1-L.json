@@ -1,0 +1,30 @@
+{
+    "puzzle": "FAERO_FILAMENT",
+    "score": {
+        "cost": 290,
+        "instructions": 81,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 65,
+        "area": 622,
+        "height": 33,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 2,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.309401076758503
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/FAERO_FILAMENT/290g-65c-622a-81i-57886137.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/28edc107/w3817956797/290g-81i-65c-622a-33h-6r-12a2-2.309h1-L",
+    "dataPath": "WEEKLIES_2/FAERO_FILAMENT/FAERO_FILAMENT_290g-81i-65c-622a-33h-6r-12a2-2.309h1-L.solution",
+    "lastModified": "2026-11-22T04:30:37.169170678Z"
+}
