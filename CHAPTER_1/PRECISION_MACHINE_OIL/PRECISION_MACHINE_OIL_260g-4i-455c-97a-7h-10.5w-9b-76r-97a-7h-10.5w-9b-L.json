@@ -1,17 +1,17 @@
 {
     "puzzle": "PRECISION_MACHINE_OIL",
     "score": {
-        "cost": 265,
+        "cost": 260,
         "instructions": 4,
         "overlap": false,
         "trackless": false,
-        "cycles": 855,
+        "cycles": 455,
         "area": 97,
         "height": 7,
         "width": 10.5,
         "boundingHex": 9,
         "looping": true,
-        "rate": 156.0,
+        "rate": 76.0,
         "areaINF": {
             "level": 0,
             "value": 97.0
@@ -29,7 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/PRECISION_MACHINE_OIL/265g-855c-97a-4i-93e52abf.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P012/265g-4i-855c-97a-7h-10.5w-9b-156r-97a-7h-10.5w-9b-L",
-    "dataPath": "CHAPTER_1/PRECISION_MACHINE_OIL/PRECISION_MACHINE_OIL_265g-4i-855c-97a-7h-10.5w-9b-156r-97a-7h-10.5w-9b-L.solution"
+    "displayLink": "https://files.mors.technology/PRECISION_MACHINE_OIL/260g-455c-97a-4i-bbe670c6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8658f8bf/P012/260g-4i-455c-97a-7h-10.5w-9b-76r-97a-7h-10.5w-9b-L",
+    "dataPath": "CHAPTER_1/PRECISION_MACHINE_OIL/PRECISION_MACHINE_OIL_260g-4i-455c-97a-7h-10.5w-9b-76r-97a-7h-10.5w-9b-L.solution",
+    "lastModified": "2026-11-22T22:35:33.940874111Z"
 }
