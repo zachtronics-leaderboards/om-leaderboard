@@ -1,0 +1,30 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 210,
+        "instructions": 52,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 64,
+        "area": 230,
+        "height": 20,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/210g-64c-230a-52i-T-b91d3146.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2f25c318/P039/210g-52i-64c-230a-20h-8r-4a2-2h1-TL",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_210g-52i-64c-230a-20h-8r-4a2-2h1-TL.solution",
+    "lastModified": "2026-11-22T13:27:36.282267223Z"
+}
