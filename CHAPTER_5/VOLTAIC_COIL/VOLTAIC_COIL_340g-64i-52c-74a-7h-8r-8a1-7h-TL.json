@@ -1,0 +1,30 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 340,
+        "instructions": 64,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 52,
+        "area": 74,
+        "height": 7,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/340g-52c-74a-64i-T-457730a6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/11f44783/P039/340g-64i-52c-74a-7h-8r-8a1-7h-TL",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_340g-64i-52c-74a-7h-8r-8a1-7h-TL.solution",
+    "lastModified": "2026-11-23T05:31:31.226185155Z"
+}
