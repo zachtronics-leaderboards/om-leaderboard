@@ -1,17 +1,17 @@
 {
     "puzzle": "CUPRITE",
     "score": {
-        "cost": 70,
-        "instructions": 74,
+        "cost": 65,
+        "instructions": 73,
         "overlap": false,
         "trackless": false,
-        "cycles": 1321,
+        "cycles": 1284,
         "area": 21,
         "height": 5,
         "width": 5.0,
         "boundingHex": 4,
         "looping": true,
-        "rate": 222.0,
+        "rate": 219.0,
         "areaINF": {
             "level": 0,
             "value": 21.0
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/CUPRITE/70g-1321c-21a-74i-1fe3448f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P253/70g-74i-1321c-21a-5h-5w-4b-222r-21a-5h-5w-4b-L",
-    "dataPath": "JOURNAL_XII/CUPRITE/CUPRITE_70g-74i-1321c-21a-5h-5w-4b-222r-21a-5h-5w-4b-L.solution"
+    "displayLink": "https://files.mors.technology/CUPRITE/65g-1284c-21a-73i-12d12a18.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a2e06457/P253/65g-73i-1284c-21a-5h-5w-4b-219r-21a-5h-5w-4b-L",
+    "dataPath": "JOURNAL_XII/CUPRITE/CUPRITE_65g-73i-1284c-21a-5h-5w-4b-219r-21a-5h-5w-4b-L.solution",
+    "lastModified": "2026-11-23T07:01:31.556829310Z"
 }
