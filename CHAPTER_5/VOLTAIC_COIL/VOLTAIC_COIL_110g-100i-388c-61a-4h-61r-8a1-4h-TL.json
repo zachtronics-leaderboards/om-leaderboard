@@ -1,0 +1,30 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 110,
+        "instructions": 100,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 388,
+        "area": 61,
+        "height": 4,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 61.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/110g-388c-61a-100i-T-91759c60.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8de6a00e/P039/110g-100i-388c-61a-4h-61r-8a1-4h-TL",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_110g-100i-388c-61a-4h-61r-8a1-4h-TL.solution",
+    "lastModified": "2026-11-23T00:35:33.575453255Z"
+}
