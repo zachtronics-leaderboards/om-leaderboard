@@ -6,8 +6,8 @@
         "overlap": true,
         "trackless": true,
         "cycles": 259,
-        "area": 211,
-        "height": 19,
+        "area": 199,
+        "height": 17,
         "width": null,
         "boundingHex": null,
         "looping": false,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/220g-259c-211a-5i-OT-30e0478a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/1b6494ff/P039/220g-5i-259c-211a-19h-OT",
-    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_220g-5i-259c-211a-19h-OT.solution",
-    "lastModified": "2026-11-20T03:20:16.048380308Z"
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/220g-259c-199a-5i-OT-09722f2d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5a6c24c1/P039/220g-5i-259c-199a-17h-OT",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_220g-5i-259c-199a-17h-OT.solution",
+    "lastModified": "2026-11-23T06:54:20.718265634Z"
 }
