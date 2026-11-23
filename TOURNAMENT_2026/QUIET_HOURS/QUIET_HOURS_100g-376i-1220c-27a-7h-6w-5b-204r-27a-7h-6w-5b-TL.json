@@ -5,13 +5,13 @@
         "instructions": 376,
         "overlap": false,
         "trackless": true,
-        "cycles": 1485,
+        "cycles": 1220,
         "area": 27,
         "height": 7,
-        "width": 7.0,
+        "width": 6.0,
         "boundingHex": 5,
         "looping": true,
-        "rate": 248.0,
+        "rate": 204.0,
         "areaINF": {
             "level": 0,
             "value": 27.0
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 7.0
+            "value": 6.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/QUIET_HOURS/100g-1485c-27a-376i-T-526202b1.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3728199426/100g-376i-1485c-27a-7h-7w-5b-248r-27a-7h-7w-5b-TL",
-    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_100g-376i-1485c-27a-7h-7w-5b-248r-27a-7h-7w-5b-TL.solution"
+    "displayLink": "https://files.mors.technology/QUIET_HOURS/100g-1220c-27a-376i-T-927592e2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/6e223d71/w3728199426/100g-376i-1220c-27a-7h-6w-5b-204r-27a-7h-6w-5b-TL",
+    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_100g-376i-1220c-27a-7h-6w-5b-204r-27a-7h-6w-5b-TL.solution",
+    "lastModified": "2026-11-23T22:35:37.428603461Z"
 }
