@@ -2,16 +2,16 @@
     "puzzle": "PURIFIED_GOLD",
     "score": {
         "cost": 50,
-        "instructions": 372,
+        "instructions": 356,
         "overlap": true,
         "trackless": false,
-        "cycles": 2231,
+        "cycles": 2135,
         "area": 9,
         "height": 3,
         "width": 3.0,
         "boundingHex": 3,
         "looping": true,
-        "rate": 372.0,
+        "rate": 356.0,
         "areaINF": {
             "level": 0,
             "value": 9.0
@@ -29,7 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/Purified-Gold-50g-2231c-9a-372i-3h-3w-372r-O-267bd8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P036/50g-372i-2231c-9a-3h-3w-3b-372r-9a-3h-3w-3b-OL",
-    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_50g-372i-2231c-9a-3h-3w-3b-372r-9a-3h-3w-3b-OL.solution"
+    "displayLink": "https://files.mors.technology/PURIFIED_GOLD/50g-2135c-9a-356i-O-6b3c9fcb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c2799038/P036/50g-356i-2135c-9a-3h-3w-3b-356r-9a-3h-3w-3b-OL",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_50g-356i-2135c-9a-3h-3w-3b-356r-9a-3h-3w-3b-OL.solution",
+    "lastModified": "2026-11-23T23:16:57.480078553Z"
 }
