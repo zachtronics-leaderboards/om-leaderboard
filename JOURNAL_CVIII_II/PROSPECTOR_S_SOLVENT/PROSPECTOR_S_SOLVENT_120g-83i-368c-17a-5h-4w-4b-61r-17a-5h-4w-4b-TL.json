@@ -2,16 +2,16 @@
     "puzzle": "PROSPECTOR_S_SOLVENT",
     "score": {
         "cost": 120,
-        "instructions": 118,
+        "instructions": 83,
         "overlap": false,
         "trackless": true,
-        "cycles": 428,
+        "cycles": 368,
         "area": 17,
         "height": 5,
-        "width": 4.5,
+        "width": 4.0,
         "boundingHex": 4,
         "looping": true,
-        "rate": 71.0,
+        "rate": 61.0,
         "areaINF": {
             "level": 0,
             "value": 17.0
@@ -22,14 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 4.5
+            "value": 4.0
         },
         "boundingHexINF": {
             "level": 0,
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/PROSPECTOR_S_SOLVENT/120g-428c-17a-118i-T-b5e0d9f4.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P261/120g-118i-428c-17a-5h-4.5w-4b-71r-17a-5h-4.5w-4b-TL",
-    "dataPath": "JOURNAL_CVIII_II/PROSPECTOR_S_SOLVENT/PROSPECTOR_S_SOLVENT_120g-118i-428c-17a-5h-4.5w-4b-71r-17a-5h-4.5w-4b-TL.solution"
+    "displayLink": "https://files.mors.technology/PROSPECTOR_S_SOLVENT/120g-368c-17a-83i-T-a9f12e6b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/52f17a7a/P261/120g-83i-368c-17a-5h-4w-4b-61r-17a-5h-4w-4b-TL",
+    "dataPath": "JOURNAL_CVIII_II/PROSPECTOR_S_SOLVENT/PROSPECTOR_S_SOLVENT_120g-83i-368c-17a-5h-4w-4b-61r-17a-5h-4w-4b-TL.solution",
+    "lastModified": "2026-11-23T19:50:28.741340950Z"
 }
