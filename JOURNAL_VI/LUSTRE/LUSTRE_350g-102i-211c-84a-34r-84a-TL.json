@@ -1,0 +1,27 @@
+{
+    "puzzle": "LUSTRE",
+    "score": {
+        "cost": 350,
+        "instructions": 102,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 211,
+        "area": 84,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 34.0,
+        "areaINF": {
+            "level": 0,
+            "value": 84.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/LUSTRE/350g-211c-84a-102i-T-c91200f7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0b38e382/P090/350g-102i-211c-84a-34r-84a-TL",
+    "dataPath": "JOURNAL_VI/LUSTRE/LUSTRE_350g-102i-211c-84a-34r-84a-TL.solution",
+    "lastModified": "2026-11-23T06:57:33.234552476Z"
+}
