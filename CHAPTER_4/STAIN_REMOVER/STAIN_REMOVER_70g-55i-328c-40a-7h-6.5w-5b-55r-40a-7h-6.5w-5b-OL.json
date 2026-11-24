@@ -1,0 +1,36 @@
+{
+    "puzzle": "STAIN_REMOVER",
+    "score": {
+        "cost": 70,
+        "instructions": 55,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 328,
+        "area": 40,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 55.0,
+        "areaINF": {
+            "level": 0,
+            "value": 40.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/STAIN_REMOVER/70g-328c-40a-55i-O-53fec705.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/18789b43/P034/70g-55i-328c-40a-7h-6.5w-5b-55r-40a-7h-6.5w-5b-OL",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/STAIN_REMOVER_70g-55i-328c-40a-7h-6.5w-5b-55r-40a-7h-6.5w-5b-OL.solution",
+    "lastModified": "2026-11-24T00:20:29.623193607Z"
+}
