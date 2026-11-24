@@ -5,13 +5,13 @@
         "instructions": 17,
         "overlap": false,
         "trackless": true,
-        "cycles": 160,
+        "cycles": 101,
         "area": 59,
         "height": 9,
         "width": 7.5,
         "boundingHex": 7,
         "looping": true,
-        "rate": 24.0,
+        "rate": 15.0,
         "areaINF": {
             "level": 0,
             "value": 59.0
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/240g-160c-59a-17i-T-357175be.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/7ff374d9/P210/240g-17i-160c-59a-9h-7.5w-7b-24r-59a-9h-7.5w-7b-TL",
-    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_240g-17i-160c-59a-9h-7.5w-7b-24r-59a-9h-7.5w-7b-TL.solution",
-    "lastModified": "2026-11-24T01:23:54.978723084Z"
+    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/240g-101c-59a-17i-T-3d7c1420.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e3242cca/P210/240g-17i-101c-59a-9h-7.5w-7b-15r-59a-9h-7.5w-7b-TL",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_240g-17i-101c-59a-9h-7.5w-7b-15r-59a-9h-7.5w-7b-TL.solution",
+    "lastModified": "2026-11-24T01:33:41.699033538Z"
 }
