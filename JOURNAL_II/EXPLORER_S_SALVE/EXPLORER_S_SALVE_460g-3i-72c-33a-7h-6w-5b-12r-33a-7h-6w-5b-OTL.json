@@ -1,7 +1,7 @@
 {
     "puzzle": "EXPLORER_S_SALVE",
     "score": {
-        "cost": 500,
+        "cost": 460,
         "instructions": 3,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/EXPLORER_S_SALVE/500g-72c-33a-3i-OT-e7995034.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/9613f06d/P059/500g-3i-72c-33a-7h-6w-5b-12r-33a-7h-6w-5b-OTL",
-    "dataPath": "JOURNAL_II/EXPLORER_S_SALVE/EXPLORER_S_SALVE_500g-3i-72c-33a-7h-6w-5b-12r-33a-7h-6w-5b-OTL.solution",
-    "lastModified": "2026-11-24T10:05:25.134507186Z"
+    "displayLink": "https://files.mors.technology/EXPLORER_S_SALVE/460g-72c-33a-3i-OT-c28ff96c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/65aebbec/P059/460g-3i-72c-33a-7h-6w-5b-12r-33a-7h-6w-5b-OTL",
+    "dataPath": "JOURNAL_II/EXPLORER_S_SALVE/EXPLORER_S_SALVE_460g-3i-72c-33a-7h-6w-5b-12r-33a-7h-6w-5b-OTL.solution",
+    "lastModified": "2026-11-24T10:07:25.776867938Z"
 }
