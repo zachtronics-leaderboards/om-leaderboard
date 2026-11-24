@@ -2,23 +2,23 @@
     "puzzle": "PATTERN_METAL",
     "score": {
         "cost": 140,
-        "instructions": 414,
+        "instructions": 382,
         "overlap": false,
         "trackless": false,
-        "cycles": 2359,
+        "cycles": 2132,
         "area": 40,
-        "height": 6,
+        "height": 8,
         "width": 6.5,
         "boundingHex": 5,
         "looping": true,
-        "rate": 394.0,
+        "rate": 356.0,
         "areaINF": {
             "level": 0,
             "value": 40.0
         },
         "heightINF": {
             "level": 0,
-            "value": 6.0
+            "value": 8.0
         },
         "widthINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 5.0
         }
     },
-    "displayLink": "https://files.mors.technology/PATTERN_METAL/140g-2359c-40a-414i-101d7b50.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/4ff58467/P221/140g-414i-2359c-40a-6h-6.5w-5b-394r-40a-6h-6.5w-5b-L",
-    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_140g-414i-2359c-40a-6h-6.5w-5b-394r-40a-6h-6.5w-5b-L.solution",
-    "lastModified": "2026-11-24T01:02:02.588226593Z"
+    "displayLink": "https://files.mors.technology/PATTERN_METAL/140g-2132c-40a-382i-43fcd72d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bcd07f95/P221/140g-382i-2132c-40a-8h-6.5w-5b-356r-40a-8h-6.5w-5b-L",
+    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_140g-382i-2132c-40a-8h-6.5w-5b-356r-40a-8h-6.5w-5b-L.solution",
+    "lastModified": "2026-11-24T07:34:15.250192528Z"
 }
