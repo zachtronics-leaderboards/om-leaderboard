@@ -1,0 +1,36 @@
+{
+    "puzzle": "TIMING_CRYSTAL",
+    "score": {
+        "cost": 40,
+        "instructions": 66,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 392,
+        "area": 62,
+        "height": 8,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 66.0,
+        "areaINF": {
+            "level": 0,
+            "value": 62.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/TIMING_CRYSTAL/40g-392c-62a-66i-O-3f90b52d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/57fa844c/P042/40g-66i-392c-62a-8h-8w-6b-66r-62a-8h-8w-6b-OL",
+    "dataPath": "CHAPTER_5/TIMING_CRYSTAL/TIMING_CRYSTAL_40g-66i-392c-62a-8h-8w-6b-66r-62a-8h-8w-6b-OL.solution",
+    "lastModified": "2026-11-24T05:29:48.072548905Z"
+}
