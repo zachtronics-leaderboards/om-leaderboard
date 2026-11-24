@@ -1,7 +1,7 @@
 {
     "puzzle": "UNWINDING",
     "score": {
-        "cost": 160,
+        "cost": 150,
         "instructions": 2,
         "overlap": true,
         "trackless": false,
@@ -29,8 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/UNWINDING/160g-126c-23a-2i-O-0d132566.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/84538e84/w1611998067/160g-2i-126c-23a-3h-5w-6b-22r-23a-3h-5w-6b-OL",
-    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_160g-2i-126c-23a-3h-5w-6b-22r-23a-3h-5w-6b-OL.solution",
-    "lastModified": "2026-11-24T15:16:43.307780773Z"
+    "displayLink": "https://files.mors.technology/UNWINDING/150g-126c-23a-2i-O-86011f0b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/905e1918/w1611998067/150g-2i-126c-23a-3h-5w-6b-22r-23a-3h-5w-6b-OL",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_150g-2i-126c-23a-3h-5w-6b-22r-23a-3h-5w-6b-OL.solution",
+    "lastModified": "2026-11-24T15:48:48.520028686Z"
 }
