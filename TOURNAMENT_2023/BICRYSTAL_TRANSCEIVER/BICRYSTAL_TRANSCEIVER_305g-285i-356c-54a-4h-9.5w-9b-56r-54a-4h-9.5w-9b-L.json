@@ -6,15 +6,15 @@
         "overlap": false,
         "trackless": false,
         "cycles": 356,
-        "area": 55,
+        "area": 54,
         "height": 4,
         "width": 9.5,
-        "boundingHex": 10,
+        "boundingHex": 9,
         "looping": true,
         "rate": 56.0,
         "areaINF": {
             "level": 0,
-            "value": 55.0
+            "value": 54.0
         },
         "heightINF": {
             "level": 0,
@@ -26,10 +26,11 @@
         },
         "boundingHexINF": {
             "level": 0,
-            "value": 10.0
+            "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/305g-356c-55a-285i-b3e6f0c2.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2946687073/305g-285i-356c-55a-4h-9.5w-10b-56r-55a-4h-9.5w-10b-L",
-    "dataPath": "TOURNAMENT_2023/BICRYSTAL_TRANSCEIVER/BICRYSTAL_TRANSCEIVER_305g-285i-356c-55a-4h-9.5w-10b-56r-55a-4h-9.5w-10b-L.solution"
+    "displayLink": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/305g-356c-54a-285i-75eefac0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b93a29fd/w2946687073/305g-285i-356c-54a-4h-9.5w-9b-56r-54a-4h-9.5w-9b-L",
+    "dataPath": "TOURNAMENT_2023/BICRYSTAL_TRANSCEIVER/BICRYSTAL_TRANSCEIVER_305g-285i-356c-54a-4h-9.5w-9b-56r-54a-4h-9.5w-9b-L.solution",
+    "lastModified": "2026-11-25T03:06:45.568368533Z"
 }
