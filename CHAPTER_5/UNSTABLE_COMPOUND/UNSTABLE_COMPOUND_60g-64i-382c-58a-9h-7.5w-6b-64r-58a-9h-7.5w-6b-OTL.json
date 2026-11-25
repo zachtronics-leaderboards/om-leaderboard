@@ -6,15 +6,15 @@
         "overlap": true,
         "trackless": true,
         "cycles": 382,
-        "area": 60,
+        "area": 58,
         "height": 9,
-        "width": 8.0,
+        "width": 7.5,
         "boundingHex": 6,
         "looping": true,
         "rate": 64.0,
         "areaINF": {
             "level": 0,
-            "value": 60.0
+            "value": 58.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.5
         },
         "boundingHexINF": {
             "level": 0,
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/UNSTABLE_COMPOUND/60g-382c-60a-64i-OT-0768303f.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/898cc006/P040/60g-64i-382c-60a-9h-8w-6b-64r-60a-9h-8w-6b-OTL",
-    "dataPath": "CHAPTER_5/UNSTABLE_COMPOUND/UNSTABLE_COMPOUND_60g-64i-382c-60a-9h-8w-6b-64r-60a-9h-8w-6b-OTL.solution",
-    "lastModified": "2026-11-24T06:04:58.319988992Z"
+    "displayLink": "https://files.mors.technology/UNSTABLE_COMPOUND/60g-382c-58a-64i-OT-e844c116.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9fae3161/P040/60g-64i-382c-58a-9h-7.5w-6b-64r-58a-9h-7.5w-6b-OTL",
+    "dataPath": "CHAPTER_5/UNSTABLE_COMPOUND/UNSTABLE_COMPOUND_60g-64i-382c-58a-9h-7.5w-6b-64r-58a-9h-7.5w-6b-OTL.solution",
+    "lastModified": "2026-11-25T03:49:32.572787792Z"
 }
