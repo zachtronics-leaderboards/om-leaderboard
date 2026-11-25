@@ -2,16 +2,16 @@
     "puzzle": "SIMULACRUM",
     "score": {
         "cost": 355,
-        "instructions": 994,
+        "instructions": 984,
         "overlap": false,
         "trackless": false,
-        "cycles": 223,
+        "cycles": 213,
         "area": 37,
         "height": 7,
         "width": 7.0,
         "boundingHex": 4,
         "looping": true,
-        "rate": 37.17,
+        "rate": 35.5,
         "areaINF": {
             "level": 0,
             "value": 37.0
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/SIMULACRUM/355g-223c-37a-994i-fb37600b.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3210138102/355g-994i-223c-37a-7h-7w-4b-37.17r-37a-7h-7w-4b-L",
-    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_355g-994i-223c-37a-7h-7w-4b-37.17r-37a-7h-7w-4b-L.solution"
+    "displayLink": "https://files.mors.technology/SIMULACRUM/355g-213c-37a-984i-61d08319.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f52dc796/w3210138102/355g-984i-213c-37a-7h-7w-4b-35.5r-37a-7h-7w-4b-L",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_355g-984i-213c-37a-7h-7w-4b-35.5r-37a-7h-7w-4b-L.solution",
+    "lastModified": "2026-11-25T06:32:14.888187822Z"
 }
