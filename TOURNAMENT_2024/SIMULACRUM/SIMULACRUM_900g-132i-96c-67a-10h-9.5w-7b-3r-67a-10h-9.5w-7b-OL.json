@@ -1,11 +1,11 @@
 {
     "puzzle": "SIMULACRUM",
     "score": {
-        "cost": 905,
-        "instructions": 134,
+        "cost": 900,
+        "instructions": 132,
         "overlap": true,
         "trackless": false,
-        "cycles": 98,
+        "cycles": 96,
         "area": 67,
         "height": 10,
         "width": 9.5,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/SIMULACRUM/905g-98c-67a-134i-O-16600260.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3210138102/905g-134i-98c-67a-10h-9.5w-7b-3r-67a-10h-9.5w-7b-OL",
-    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_905g-134i-98c-67a-10h-9.5w-7b-3r-67a-10h-9.5w-7b-OL.solution"
+    "displayLink": "https://files.mors.technology/SIMULACRUM/900g-96c-67a-132i-O-60eaa640.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ad3e887a/w3210138102/900g-132i-96c-67a-10h-9.5w-7b-3r-67a-10h-9.5w-7b-OL",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_900g-132i-96c-67a-10h-9.5w-7b-3r-67a-10h-9.5w-7b-OL.solution",
+    "lastModified": "2026-11-25T06:33:34.290160561Z"
 }
