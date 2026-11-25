@@ -6,15 +6,15 @@
         "overlap": false,
         "trackless": true,
         "cycles": 115,
-        "area": 58,
+        "area": 53,
         "height": 8,
-        "width": 8.0,
+        "width": 7.5,
         "boundingHex": 6,
         "looping": true,
         "rate": 16.0,
         "areaINF": {
             "level": 0,
-            "value": 58.0
+            "value": 53.0
         },
         "heightINF": {
             "level": 0,
@@ -22,15 +22,15 @@
         },
         "widthINF": {
             "level": 0,
-            "value": 8.0
+            "value": 7.5
         },
         "boundingHexINF": {
             "level": 0,
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/220g-115c-58a-12i-T-74b09138.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/ee015d72/P210/220g-12i-115c-58a-8h-8w-6b-16r-58a-8h-8w-6b-TL",
-    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_220g-12i-115c-58a-8h-8w-6b-16r-58a-8h-8w-6b-TL.solution",
-    "lastModified": "2026-11-25T21:26:27.321832967Z"
+    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/220g-115c-53a-12i-T-768c859e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b45a09db/P210/220g-12i-115c-53a-8h-7.5w-6b-16r-53a-8h-7.5w-6b-TL",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_220g-12i-115c-53a-8h-7.5w-6b-16r-53a-8h-7.5w-6b-TL.solution",
+    "lastModified": "2026-11-25T21:55:13.489015657Z"
 }
