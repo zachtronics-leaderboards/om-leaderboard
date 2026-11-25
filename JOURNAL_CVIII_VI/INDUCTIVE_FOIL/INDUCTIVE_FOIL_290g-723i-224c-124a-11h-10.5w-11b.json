@@ -6,7 +6,7 @@
         "overlap": false,
         "trackless": false,
         "cycles": 224,
-        "area": 125,
+        "area": 124,
         "height": 11,
         "width": 10.5,
         "boundingHex": 11,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/INDUCTIVE_FOIL/290g-224c-125a-723i-966b0e71.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/17d8f2db/P280/290g-723i-224c-125a-11h-10.5w-11b",
-    "dataPath": "JOURNAL_CVIII_VI/INDUCTIVE_FOIL/INDUCTIVE_FOIL_290g-723i-224c-125a-11h-10.5w-11b.solution",
-    "lastModified": "2026-11-25T01:03:22.939267233Z"
+    "displayLink": "https://files.mors.technology/INDUCTIVE_FOIL/290g-224c-124a-723i-420d09aa.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bee7cc77/P280/290g-723i-224c-124a-11h-10.5w-11b",
+    "dataPath": "JOURNAL_CVIII_VI/INDUCTIVE_FOIL/INDUCTIVE_FOIL_290g-723i-224c-124a-11h-10.5w-11b.solution",
+    "lastModified": "2026-11-25T01:19:08.183207804Z"
 }
