@@ -1,11 +1,11 @@
 {
     "puzzle": "BICRYSTAL_TRANSCEIVER",
     "score": {
-        "cost": 375,
-        "instructions": 283,
+        "cost": 340,
+        "instructions": 274,
         "overlap": false,
         "trackless": false,
-        "cycles": 344,
+        "cycles": 343,
         "area": 53,
         "height": 4,
         "width": 9.0,
@@ -29,7 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/375g-344c-53a-283i-d9b3ad2a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w2946687073/375g-283i-344c-53a-4h-9w-9b-56r-53a-4h-9w-9b-L",
-    "dataPath": "TOURNAMENT_2023/BICRYSTAL_TRANSCEIVER/BICRYSTAL_TRANSCEIVER_375g-283i-344c-53a-4h-9w-9b-56r-53a-4h-9w-9b-L.solution"
+    "displayLink": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/340g-343c-53a-274i-2710b4b3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/541839ab/w2946687073/340g-274i-343c-53a-4h-9w-9b-56r-53a-4h-9w-9b-L",
+    "dataPath": "TOURNAMENT_2023/BICRYSTAL_TRANSCEIVER/BICRYSTAL_TRANSCEIVER_340g-274i-343c-53a-4h-9w-9b-56r-53a-4h-9w-9b-L.solution",
+    "lastModified": "2026-11-25T03:06:10.908591935Z"
 }
