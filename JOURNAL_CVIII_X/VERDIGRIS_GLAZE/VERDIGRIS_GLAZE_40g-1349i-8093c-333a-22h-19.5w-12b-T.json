@@ -1,0 +1,24 @@
+{
+    "puzzle": "VERDIGRIS_GLAZE",
+    "score": {
+        "cost": 40,
+        "instructions": 1349,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 8093,
+        "area": 333,
+        "height": 22,
+        "width": 19.5,
+        "boundingHex": 12,
+        "looping": false,
+        "rate": null,
+        "areaINF": null,
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://youtu.be/dsA5qy9y6Ug",
+    "dataLink": "https://zlbb.faendir.com/l/om/5c983f68/P302/40g-1349i-8093c-333a-22h-19.5w-12b-T",
+    "dataPath": "JOURNAL_CVIII_X/VERDIGRIS_GLAZE/VERDIGRIS_GLAZE_40g-1349i-8093c-333a-22h-19.5w-12b-T.solution",
+    "lastModified": "2026-11-26T18:34:18.261362630Z"
+}
