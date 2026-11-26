@@ -1,7 +1,7 @@
 {
     "puzzle": "ROCKET_PROPELLANT",
     "score": {
-        "cost": 180,
+        "cost": 170,
         "instructions": 3,
         "overlap": true,
         "trackless": true,
@@ -29,8 +29,8 @@
             "value": 0.6666666666666666
         }
     },
-    "displayLink": "https://files.mors.technology/ROCKET_PROPELLANT/180g-126c-52a-3i-OT-fcc1853c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/37c85c4b/P019/180g-3i-126c-52a-8h-8w-7b-18r-1a2-1h1-1w1-0.667b1-OTL",
-    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/ROCKET_PROPELLANT_180g-3i-126c-52a-8h-8w-7b-18r-1a2-1h1-1w1-0.667b1-OTL.solution",
-    "lastModified": "2026-11-26T20:31:07.022620308Z"
+    "displayLink": "https://files.mors.technology/ROCKET_PROPELLANT/170g-126c-52a-3i-OT-bb11e606.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1cb292b1/P019/170g-3i-126c-52a-8h-8w-7b-18r-1a2-1h1-1w1-0.667b1-OTL",
+    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/ROCKET_PROPELLANT_170g-3i-126c-52a-8h-8w-7b-18r-1a2-1h1-1w1-0.667b1-OTL.solution",
+    "lastModified": "2026-11-26T23:05:10.776110963Z"
 }
