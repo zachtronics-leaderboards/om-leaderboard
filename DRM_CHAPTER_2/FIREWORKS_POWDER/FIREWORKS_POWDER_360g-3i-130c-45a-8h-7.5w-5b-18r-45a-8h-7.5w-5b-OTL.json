@@ -1,0 +1,36 @@
+{
+    "puzzle": "FIREWORKS_POWDER",
+    "score": {
+        "cost": 360,
+        "instructions": 3,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 130,
+        "area": 45,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 45.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/FIREWORKS_POWDER/360g-130c-45a-3i-OT-d10745e9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/6e488c5f/P211/360g-3i-130c-45a-8h-7.5w-5b-18r-45a-8h-7.5w-5b-OTL",
+    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_360g-3i-130c-45a-8h-7.5w-5b-18r-45a-8h-7.5w-5b-OTL.solution",
+    "lastModified": "2026-11-26T16:12:22.947539581Z"
+}
