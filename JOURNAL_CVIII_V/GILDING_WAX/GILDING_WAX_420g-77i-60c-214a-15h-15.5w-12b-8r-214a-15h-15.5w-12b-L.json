@@ -1,0 +1,36 @@
+{
+    "puzzle": "GILDING_WAX",
+    "score": {
+        "cost": 420,
+        "instructions": 77,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 60,
+        "area": 214,
+        "height": 15,
+        "width": 15.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 214.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/GILDING_WAX/420g-60c-214a-77i-f8b359a2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2abe0719/P279/420g-77i-60c-214a-15h-15.5w-12b-8r-214a-15h-15.5w-12b-L",
+    "dataPath": "JOURNAL_CVIII_V/GILDING_WAX/GILDING_WAX_420g-77i-60c-214a-15h-15.5w-12b-8r-214a-15h-15.5w-12b-L.solution",
+    "lastModified": "2026-11-26T16:50:49.002367521Z"
+}
