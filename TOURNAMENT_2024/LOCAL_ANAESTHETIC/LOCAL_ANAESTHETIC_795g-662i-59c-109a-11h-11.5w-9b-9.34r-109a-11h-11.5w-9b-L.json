@@ -2,7 +2,7 @@
     "puzzle": "LOCAL_ANAESTHETIC",
     "score": {
         "cost": 795,
-        "instructions": 664,
+        "instructions": 662,
         "overlap": false,
         "trackless": false,
         "cycles": 59,
@@ -29,7 +29,8 @@
             "value": 9.0
         }
     },
-    "displayLink": "https://files.mors.technology/LOCAL_ANAESTHETIC/795g-59c-109a-664i-0cace8d8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/w3210168922/795g-664i-59c-109a-11h-11.5w-9b-9.34r-109a-11h-11.5w-9b-L",
-    "dataPath": "TOURNAMENT_2024/LOCAL_ANAESTHETIC/LOCAL_ANAESTHETIC_795g-664i-59c-109a-11h-11.5w-9b-9.34r-109a-11h-11.5w-9b-L.solution"
+    "displayLink": "https://files.mors.technology/LOCAL_ANAESTHETIC/795g-59c-109a-662i-42d11ad9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a7558b0c/w3210168922/795g-662i-59c-109a-11h-11.5w-9b-9.34r-109a-11h-11.5w-9b-L",
+    "dataPath": "TOURNAMENT_2024/LOCAL_ANAESTHETIC/LOCAL_ANAESTHETIC_795g-662i-59c-109a-11h-11.5w-9b-9.34r-109a-11h-11.5w-9b-L.solution",
+    "lastModified": "2026-11-26T06:07:54.700821899Z"
 }
