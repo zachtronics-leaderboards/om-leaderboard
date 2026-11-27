@@ -1,0 +1,36 @@
+{
+    "puzzle": "LATCH_HOOK_FIREWORKS",
+    "score": {
+        "cost": 505,
+        "instructions": 1073,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 225,
+        "area": 46,
+        "height": 2,
+        "width": 12.5,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 1,
+            "value": 0.3333333333333333
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.16666666666666666
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.16666666666666666
+        }
+    },
+    "displayLink": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/505g-225c-46a-1073i-20c533b1.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d7f2430d/w3210177679/505g-1073i-225c-46a-2h-12.5w-13b-36r-0.333a1-2h-0.167w1-0.167b1-L",
+    "dataPath": "TOURNAMENT_2024/LATCH_HOOK_FIREWORKS/LATCH_HOOK_FIREWORKS_505g-1073i-225c-46a-2h-12.5w-13b-36r-0.333a1-2h-0.167w1-0.167b1-L.solution",
+    "lastModified": "2026-11-27T13:43:07.489118584Z"
+}
