@@ -1,0 +1,30 @@
+{
+    "puzzle": "STEEL_WOOL",
+    "score": {
+        "cost": 190,
+        "instructions": 86,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 200,
+        "area": 73,
+        "height": 8,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/STEEL_WOOL/190g-200c-73a-86i-fc8cddf1.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ec048a40/P268/190g-86i-200c-73a-8h-30r-6a1-8h-L",
+    "dataPath": "JOURNAL_CVIII_III/STEEL_WOOL/STEEL_WOOL_190g-86i-200c-73a-8h-30r-6a1-8h-L.solution",
+    "lastModified": "2026-11-27T10:27:39.193227568Z"
+}
