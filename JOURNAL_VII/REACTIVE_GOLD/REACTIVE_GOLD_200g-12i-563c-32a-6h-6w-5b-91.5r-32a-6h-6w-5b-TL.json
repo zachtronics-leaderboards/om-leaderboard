@@ -1,0 +1,36 @@
+{
+    "puzzle": "REACTIVE_GOLD",
+    "score": {
+        "cost": 200,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 563,
+        "area": 32,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 91.5,
+        "areaINF": {
+            "level": 0,
+            "value": 32.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/REACTIVE_GOLD/200g-563c-32a-12i-T-ffbf0224.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7dc83ada/P095/200g-12i-563c-32a-6h-6w-5b-91.5r-32a-6h-6w-5b-TL",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_200g-12i-563c-32a-6h-6w-5b-91.5r-32a-6h-6w-5b-TL.solution",
+    "lastModified": "2026-11-27T10:37:08.845866647Z"
+}
