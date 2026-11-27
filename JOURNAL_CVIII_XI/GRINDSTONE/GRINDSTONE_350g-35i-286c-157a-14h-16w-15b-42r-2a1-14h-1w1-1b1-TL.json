@@ -1,17 +1,17 @@
 {
     "puzzle": "GRINDSTONE",
     "score": {
-        "cost": 370,
+        "cost": 350,
         "instructions": 35,
         "overlap": false,
         "trackless": true,
-        "cycles": 364,
+        "cycles": 286,
         "area": 157,
         "height": 14,
         "width": 16.0,
         "boundingHex": 15,
         "looping": true,
-        "rate": 54.0,
+        "rate": 42.0,
         "areaINF": {
             "level": 1,
             "value": 2.0
@@ -29,8 +29,8 @@
             "value": 1.0
         }
     },
-    "displayLink": "https://files.mors.technology/GRINDSTONE/370g-364c-157a-35i-T-4c38312a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/900a9dd5/P305/370g-35i-364c-157a-14h-16w-15b-54r-2a1-14h-1w1-1b1-TL",
-    "dataPath": "JOURNAL_CVIII_XI/GRINDSTONE/GRINDSTONE_370g-35i-364c-157a-14h-16w-15b-54r-2a1-14h-1w1-1b1-TL.solution",
-    "lastModified": "2026-11-27T15:52:16.509541712Z"
+    "displayLink": "https://files.mors.technology/GRINDSTONE/350g-286c-157a-35i-T-524cf480.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/100dc305/P305/350g-35i-286c-157a-14h-16w-15b-42r-2a1-14h-1w1-1b1-TL",
+    "dataPath": "JOURNAL_CVIII_XI/GRINDSTONE/GRINDSTONE_350g-35i-286c-157a-14h-16w-15b-42r-2a1-14h-1w1-1b1-TL.solution",
+    "lastModified": "2026-11-27T16:13:26.858520821Z"
 }
