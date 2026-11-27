@@ -1,0 +1,36 @@
+{
+    "puzzle": "GRINDSTONE",
+    "score": {
+        "cost": 340,
+        "instructions": 36,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 286,
+        "area": 143,
+        "height": 13,
+        "width": 16.0,
+        "boundingHex": 15,
+        "looping": true,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 1.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/GRINDSTONE/340g-286c-143a-36i-T-eaaea9de.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/136c2b76/P305/340g-36i-286c-143a-13h-16w-15b-42r-2a1-13h-1w1-1b1-TL",
+    "dataPath": "JOURNAL_CVIII_XI/GRINDSTONE/GRINDSTONE_340g-36i-286c-143a-13h-16w-15b-42r-2a1-13h-1w1-1b1-TL.solution",
+    "lastModified": "2026-11-27T15:36:39.776805486Z"
+}
