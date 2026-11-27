@@ -5,13 +5,13 @@
         "instructions": 30,
         "overlap": true,
         "trackless": false,
-        "cycles": 184,
+        "cycles": 177,
         "area": 9,
         "height": 3,
         "width": 3.0,
         "boundingHex": 3,
         "looping": true,
-        "rate": 31.0,
+        "rate": 30.0,
         "areaINF": {
             "level": 0,
             "value": 9.0
@@ -29,8 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/VERMILION_PIGMENT/360g-184c-9a-30i-O-52de259d.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/4f1c1154/P276/360g-30i-184c-9a-3h-3w-3b-31r-9a-3h-3w-3b-OL",
-    "dataPath": "JOURNAL_CVIII_V/VERMILION_PIGMENT/VERMILION_PIGMENT_360g-30i-184c-9a-3h-3w-3b-31r-9a-3h-3w-3b-OL.solution",
-    "lastModified": "2026-11-27T11:27:27.688470326Z"
+    "displayLink": "https://files.mors.technology/VERMILION_PIGMENT/360g-177c-9a-30i-O-c45126f3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/10b86d68/P276/360g-30i-177c-9a-3h-3w-3b-30r-9a-3h-3w-3b-OL",
+    "dataPath": "JOURNAL_CVIII_V/VERMILION_PIGMENT/VERMILION_PIGMENT_360g-30i-177c-9a-3h-3w-3b-30r-9a-3h-3w-3b-OL.solution",
+    "lastModified": "2026-11-27T11:31:01.512530314Z"
 }
