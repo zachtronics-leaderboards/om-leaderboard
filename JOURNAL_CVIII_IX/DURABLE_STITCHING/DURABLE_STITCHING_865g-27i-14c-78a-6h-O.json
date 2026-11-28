@@ -6,7 +6,7 @@
         "overlap": true,
         "trackless": false,
         "cycles": 14,
-        "area": 80,
+        "area": 78,
         "height": 6,
         "width": null,
         "boundingHex": null,
@@ -17,8 +17,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/DURABLE_STITCHING/865g-14c-80a-27i-O-721dddbc.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/3b832cbb/P296/865g-27i-14c-80a-6h-O",
-    "dataPath": "JOURNAL_CVIII_IX/DURABLE_STITCHING/DURABLE_STITCHING_865g-27i-14c-80a-6h-O.solution",
-    "lastModified": "2026-11-28T11:54:22.606645422Z"
+    "displayLink": "https://files.mors.technology/DURABLE_STITCHING/865g-14c-78a-27i-O-24936775.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/76161688/P296/865g-27i-14c-78a-6h-O",
+    "dataPath": "JOURNAL_CVIII_IX/DURABLE_STITCHING/DURABLE_STITCHING_865g-27i-14c-78a-6h-O.solution",
+    "lastModified": "2026-11-28T11:56:29.098565889Z"
 }
