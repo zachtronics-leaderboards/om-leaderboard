@@ -1,0 +1,27 @@
+{
+    "puzzle": "FRUCTIFYING_WATER",
+    "score": {
+        "cost": 110,
+        "instructions": 41,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 176,
+        "area": 68,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 29.0,
+        "areaINF": {
+            "level": 0,
+            "value": 68.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/FRUCTIFYING_WATER/110g-176c-68a-41i-ca7bcfb1.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/78a1e90b/P289/110g-41i-176c-68a-29r-68a-L",
+    "dataPath": "JOURNAL_CVIII_VII/FRUCTIFYING_WATER/FRUCTIFYING_WATER_110g-41i-176c-68a-29r-68a-L.solution",
+    "lastModified": "2026-11-28T08:52:36.025608752Z"
+}
