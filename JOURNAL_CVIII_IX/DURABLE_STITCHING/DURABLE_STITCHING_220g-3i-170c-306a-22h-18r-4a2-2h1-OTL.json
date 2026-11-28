@@ -1,0 +1,30 @@
+{
+    "puzzle": "DURABLE_STITCHING",
+    "score": {
+        "cost": 220,
+        "instructions": 3,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 170,
+        "area": 306,
+        "height": 22,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/DURABLE_STITCHING/220g-170c-306a-3i-OT-196d830a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7211a2d1/P296/220g-3i-170c-306a-22h-18r-4a2-2h1-OTL",
+    "dataPath": "JOURNAL_CVIII_IX/DURABLE_STITCHING/DURABLE_STITCHING_220g-3i-170c-306a-22h-18r-4a2-2h1-OTL.solution",
+    "lastModified": "2026-11-28T10:24:23.070186785Z"
+}
